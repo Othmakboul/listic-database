@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8a4"
+  },
+  "name": "Florent BALDINI",
+  "title": "Assistant ingénieur",
+  "email": null,
+  "phone": null,
+  "fax": null,
+  "office": null,
+  "address": null,
+  "url_listic": null,
+  "_unique_id": "3c5ef2d48c491a9e191d8db3d05555d0",
+  "category": "administratif_et_technique",
+  "last_updated": "2025-11-07T09:22:10.338679"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8a6"
+  },
+  "name": "Alseny DIALLO",
+  "title": "Personnel administratif",
+  "email": "alseny.diallo@univ-smb.fr",
+  "phone": "+33(0)450096598",
+  "fax": "+33(0)450096559",
+  "office": "A122",
+  "address": "LISTIC – Polytech’Savoie, BP 80439, 74944 Annecy le Vieux Cedex, France",
+  "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/administratifs-techniques/alseny",
+  "_unique_id": "034c1a2d51bff2273b689254e17f76cd",
+  "category": "administratif_et_technique",
+  "last_updated": "2025-11-07T09:22:10.368271",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/221/1086.html?q=Alseny+Diallo",
+    "publications": [
+      {
+        "title": "IR+: Removing parallel I/O interference of MPI programs via data replication over heterogeneous storage devices.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:16.625289",
+    "publication_count": 1
+  },
+  "last_dblp_update": "2025-11-07T10:42:16.638611"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8a8"
+  },
+  "name": "Magali-Lina VIANDAZ",
+  "title": "Personnel administratif",
+  "email": "Courriel : magali-lina.viandaz@univ-smb.fr",
+  "phone": "+33(0)4500965 80",
+  "fax": "+33(0)450096559",
+  "office": "A134",
+  "address": "LISTIC – Polytech’Annecy-Chambéry, BP 80439, Annecy – 74944 Annecy le Vieux Cedex, France",
+  "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/administratifs-techniques/magali-lina-viandaz/",
+  "_unique_id": "c8cd3eae6cfa5fe942573d972e818b4a",
+  "category": "administratif_et_technique",
+  "last_updated": "2025-11-07T09:22:10.369319"
+}]

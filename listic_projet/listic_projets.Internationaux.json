@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9bf"
+  },
+  "NOM": "CIME",
+  "MOTS CLÉS": "Aide à la décision, Représentation d’informations incertaines, Risque d’avalanche, Réalité augmentée",
+  "PARTENAIRES": "HES-SO Valais-Wallis, HEIG-VD, ALEA, data-avalanche.org, ASGM",
+  "FINANCEURS": "Interreg",
+  "PÉRIODE": "2018-2023",
+  "_unique_id": "2479961329d481751faf4b23f1df2faf"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9c1"
+  },
+  "NOM": "TRANSFRONTOUR",
+  "MOTS CLÉS": "système de recommandation, profils utilisateurs, préférences utilisateur, système d’aide à la décision, algorithmes, tourisme",
+  "PARTENAIRES": "Haute Ecole Spécialisée de Suisse Occidentale",
+  "FINANCEURS": "Interreg – FEDER",
+  "PÉRIODE": "2016-2019",
+  "_unique_id": "0774373e038d295c4db6f2a1538709f0"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9c3"
+  },
+  "NOM": "ONTOREVERSE",
+  "MOTS CLÉS": "Etude et réalisation d’un environnement basé sur les connaissances et règles métier pour la compréhension semi-automatique et la réingénierie de système d’information",
+  "PARTENAIRES": "CMDL (porteur), CIAT, HEG, HORTIS SA, CTI",
+  "FINANCEURS": "INTERREG IV",
+  "PÉRIODE": "2012-2015",
+  "_unique_id": "e9054515b75921a6f738e571a56a0666"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9c5"
+  },
+  "NOM": "GLARISKALP",
+  "MOTS CLÉS": "risques glaciaires",
+  "PARTENAIRES": "Arpa Vda, Cnr-IRPI, EDYTEM, FMS, GIPSA-lab, LGGE",
+  "FINANCEURS": "Commission européenne",
+  "PÉRIODE": "2011-2013",
+  "_unique_id": "4be13785d24955f2ceda16b50012e6f4"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9c7"
+  },
+  "NOM": "Poste de travail interactif",
+  "MOTS CLÉS": "communication homme-machine, logique floue, posture de la main",
+  "PARTENAIRES": "Université de Kagawa",
+  "FINANCEURS": "Université Savoie Mont Blanc",
+  "PÉRIODE": "2002-2004",
+  "_unique_id": "17aae6f4b6883904fb1c7e62cf8c280c"
+}]

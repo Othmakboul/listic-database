@@ -1,0 +1,111 @@
+{
+  "CONTRACTS": [
+    {
+      "Name": "CNES agreement",
+      "Funders": "Center National d'Études Spatiales",
+      "Period": "2024-2027"
+    },
+    {
+      "Name": "IMINAR: Feasibility study on the integration of image processing methods and artificial intelligence models for the creation of innovative intelligent image sensors.",
+      "Funders": "Teledyne e2v Semiconductors SAS, CORTUS",
+      "Period": "2024-2025"
+    },
+    {
+      "Name": "Robust detection and estimation for through the wall radar",
+      "Funders": "Financing SONDRA, Université Paris Saclay",
+      "Period": "2022-2024"
+    },
+    {
+      "Name": "repayment agreement for the PRISMO project",
+      "Funders": "Future Investment Project (PIA)",
+      "Period": "2021-2024"
+    },
+    {
+      "Name": "Connected and intelligent housing to help people stay at home: a contribution to characterizing the state of frailty of an elderly person",
+      "Funders": "Financing SOMFY",
+      "Period": "2020-2023"
+    },
+    {
+      "Name": "Study in the field of artificial intelligence, ontology and terminology applied to academics, lifelong academics and human capital.",
+      "Funders": "",
+      "Period": "2019-2023"
+    },
+    {
+      "Name": "AI (Artificial Intelligence) data processing for gravity risk",
+      "Funders": "",
+      "Period": "2021-2022"
+    },
+    {
+      "Name": "Pre-study for the use of AI in airborne geological radar data processing",
+      "Funders": "",
+      "Period": "2020-2021"
+    },
+    {
+      "Name": "Feasibility study of automation for the classification and interpretation of solar system performance",
+      "Funders": "",
+      "Period": "2021"
+    },
+    {
+      "Name": "Feasibility study of automation for the classification and interpretation of solar system performance",
+      "Funders": "",
+      "Period": "2021"
+    },
+    {
+      "Name": "Selection of sensor or image parameters to be controlled to improve the manufacturing process",
+      "Funders": "",
+      "Period": "2020"
+    }
+  ],
+  "THEMES": [
+    {
+      "Name": "Environmental impact of training and using machine learning models",
+      "Funders": "Sopra Banking Software",
+      "Period": "2024-2030"
+    },
+    {
+      "Name": "Mapping Russian Territorial Appropriations through Augmented Digital Investigation",
+      "Funders": "Ministry of Defense, GEODE (French Institute of Geopolitics)",
+      "Period": "2024-2028"
+    },
+    {
+      "Name": "Automatic interpretation of geophysical data using learning techniques",
+      "Funders": "Geolithe",
+      "Period": "2022-2025"
+    },
+    {
+      "Name": "Detection and identification of anomalies in payroll software business processes",
+      "Funders": "Cegedim SRH",
+      "Period": "2022-2025"
+    },
+    {
+      "Name": "Sonar target detection, estimation and classification in complex environments: application to reversible Mills cross system",
+      "Funders": "iXblue",
+      "Period": "2021-2024"
+    },
+    {
+      "Name": "Design and implementation of a Wise Object (WO) knowledge representation and manipulation system for fraud detection in banking systems.",
+      "Funders": "SAGA Corp",
+      "Period": "2021-2024"
+    },
+    {
+      "Name": "Automatic extraction of network configuration satisfying customer constraints",
+      "Funders": "CELESTE",
+      "Period": "2021-2024"
+    },
+    {
+      "Name": "Convolutional neural models for characterization and analysis of cryospheric dynamics using optical and radar satellite imagery",
+      "Funders": "Meteo France",
+      "Period": "2021-2024"
+    },
+    {
+      "Name": "Application of process mining to discover and improve HRM software usage processes",
+      "Funders": "Cegedim SRH",
+      "Period": "2021-2024"
+    },
+    {
+      "Name": "Detection of hydrocarbons on the sea surface by image analysis and radar image time series",
+      "Funders": "TotalEnergie",
+      "Period": "2018-2021"
+    }
+  ]
+}
