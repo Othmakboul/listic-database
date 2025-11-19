@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9f5"
+  },
+  "NOM": "AFREU",
+  "MOTS CLÉS": "Apprentissage fédéré, système distribué",
+  "FINANCEURS": "Université Savoie Mont Blanc",
+  "PÉRIODE": "2024",
+  "_unique_id": "939a05d6500d4a1afc646bb537a3ca07"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9f7"
+  },
+  "NOM": "IA2BIERE",
+  "MOTS CLÉS": "Intelligence ambiante",
+  "FINANCEURS": "Université Savoie Mont Blanc",
+  "PÉRIODE": "2022",
+  "_unique_id": "36894fcf198209bc3d4a2278e82cfaf7"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9f9"
+  },
+  "NOM": "NORMAL",
+  "MOTS CLÉS": "",
+  "FINANCEURS": "Université Savoie Mont Blanc",
+  "PÉRIODE": "2021",
+  "_unique_id": "6aafff7be482b45d0eba97eed42d9001"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9fb"
+  },
+  "NOM": "SMGA",
+  "MOTS CLÉS": "",
+  "FINANCEURS": "Université Savoie Mont Blanc",
+  "PÉRIODE": "2021",
+  "_unique_id": "f17a268849277d863b50487b9aef67dc"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9fd"
+  },
+  "NOM": "DEDICATED",
+  "MOTS CLÉS": "",
+  "FINANCEURS": "Université Savoie Mont Blanc",
+  "PÉRIODE": "2020",
+  "_unique_id": "4d696732a161f296dbb45903bb071850"
+}]

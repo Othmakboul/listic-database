@@ -1,0 +1,1386 @@
+[{
+  "_id": {
+    "$oid": "690dac325407ffa83058e88e"
+  },
+  "name": "Sabrine BOUAZIZ",
+  "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/sabrine-bouaziz/",
+  "email": "Sabrine.bouaziz@univ-smb.fr",
+  "email perso": "Non trouvé",
+  "LinkedIn": "Non trouvé",
+  "phone": "Non trouvé",
+  "WhatsApp": "Non trouvé",
+  "office": "A224",
+  "address": "Non trouvée",
+  "Theme": "AFuTé",
+  "Sujet": "XAI (eXplainable AI) for rockfalls  prevision.",
+  "Résumé": "This thesis aims to enhance the management of the risk associated with rockfall events, which are rare but devastating occurrences leading to severe consequences such as loss of human lives and damage to infrastructure. Current challenges include the difficulty in predicting the location and volume of future rockfalls to design appropriate protective measures, while considering the financial constraints of municipalities and private operators. Furthermore, risk management requires a dynamic estimation of the probability of rockfall occurrence based on weather conditions, involving high socio-economic costs.",
+  "_unique_id": "9e23317f73714b96c38b38ce95eee232",
+  "category": "doctorants",
+  "last_updated": "2025-11-07T09:22:10.297080",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "5311348",
+        "citation": "Sabrine Bouaziz, Christophe Lin-Kwong-Chon, David Amitrano, Nicolas Méger. Rockfall Forecasting using Ensemble Deep Learning and Temporal Gradient-Based Explanations. International Conference on Data Mining (ICDM), Workshop of Artificial Intelligence for Time Series Analysis (AI4TS): Theory, Algorithms, and Applications, IEEE, Nov 2025, Washington, D.C., United States. &#x27E8;hal-05311348&#x27E9;",
+        "authors": "Sabrine Bouaziz; Christophe Lin-Kwong-Chon; David Amitrano; Nicolas Méger",
+        "year": "2025",
+        "abstract": "Rockfalls pose a significant risk for infrastructures and human activities. Accurate forecasting is therefore crucial for prevention. While current methods rely on expert hypotheses, AI models, particularly explainable ones, offer a promising way to improve the accuracy of forecasts and provide transparent, trustworthy results. In this paper, an ensemble of multisource neural networks based on InceptionTime modules whose forecasts are explained using a temporal Grad-CAM approach is being developed for the Mont Saint-Eynard cliff, showcasing the potential of AI in this area.",
+        "keywords": "Grad-CAM; InceptionTime; Ensemble Learning; Forecasting; Rockfall; Time series",
+        "domain": "0.stat; 1.stat.ml; 0.sdu; 1.sdu.stu; 2.sdu.stu.gp",
+        "url": "https://hal.science/hal-05311348v1"
+      }
+    ],
+    "publication_count": 1,
+    "all_authors": [
+      "Sabrine Bouaziz; Christophe Lin-Kwong-Chon; David Amitrano; Nicolas Méger"
+    ],
+    "years": [
+      "2025"
+    ],
+    "keywords": [
+      "InceptionTime",
+      "Rockfall",
+      "Ensemble Learning",
+      "Time series",
+      "Forecasting",
+      "Grad-CAM"
+    ],
+    "domains": [
+      "1.stat.ml",
+      "0.sdu",
+      "1.sdu.stu",
+      "0.stat",
+      "2.sdu.stu.gp"
+    ],
+    "last_updated": "2025-11-07T10:38:49.368298"
+  },
+  "last_hal_update": "2025-11-07T10:38:49.369212"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e890"
+  },
+  "name": "Karima BOUTALBI",
+  "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/karima-boutalbi/",
+  "email": "karima.boutalbi@univ-smb.fr",
+  "email perso": "Non trouvé",
+  "LinkedIn": "Non trouvé",
+  "phone": "Non trouvé",
+  "WhatsApp": "Non trouvé",
+  "office": "Non trouvé",
+  "address": "Non trouvée",
+  "Theme": "Non trouvé",
+  "Sujet": "Clustering hiérarchique de tenseurs sur les données textuelles",
+  "Résumé": "Mots-clefs",
+  "_unique_id": "890b81ac7e8b567d8c5aa54f2a4d9054",
+  "category": "doctorants",
+  "last_updated": "2025-11-07T09:22:10.328673",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "4547965",
+        "citation": "Rafika Boutalbi, Karima Boutalbi. Understanding the Impact of Multi-Text Representations on Clustering Task. WSDM Workshop 2024 Representation Learning and Clustering (RLC’24), Mar 2024, Mérida (Yucatan), Mexico. &#x27E8;hal-04547965&#x27E9;",
+        "authors": "Rafika Boutalbi; Karima Boutalbi",
+        "year": "2024",
+        "abstract": "Non disponible",
+        "keywords": "• Clustering → Text data; • NLP → Word embedding; • Representation learning; Text clustering; Unsupervised learning; Word embedding Rafika Boutalbi and Karima Boutalbi; NLP; Graphs; Learning representation; Unsupervised learning • Clustering → Text data • NLP → Word embedding • Representation learning Text clustering",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-04547965v1"
+      },
+      {
+        "hal_id": "4547942",
+        "citation": "Karima Boutalbi, Rafika Boutalbi, Hervé Verjus, Kave Salamatian. Hierarchical Tensor Clustering for Multiple Graphs Representation. The ACM Web Conference 2024, May 2024, Singapoore, Singapore. &#x27E8;10.1145/3589335.3651519&#x27E9;. &#x27E8;hal-04547942&#x27E9;",
+        "authors": "Karima Boutalbi; Rafika Boutalbi; Hervé Verjus; Kave Salamatian",
+        "year": "2024",
+        "abstract": "Non disponible",
+        "keywords": "CCS CONCEPTS Unsupervised learning • Clustering → Graph clustering • NLP → Word embedding • Representation learning → Tensor Hierarchical clustering; Tensor; Graphs; Data representation; CCS CONCEPTS; Unsupervised learning; • Clustering → Graph clustering; • NLP → Word embedding; • Representation learning → Tensor; Hierarchical clustering",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.science/hal-04547942v1"
+      },
+      {
+        "hal_id": "4130252",
+        "citation": "Karima Boutalbi, Faiza Loukil, David Telisson, Kavé Salamatian, Hervé Verjus. Machine Learning for Text Anomaly Detection: A Systematic Review. The 5th IEEE International Workshop on Deep Analysis of Data-Driven Applications, Jun 2023, Turin, Italy. &#x27E8;hal-04130252&#x27E9;",
+        "authors": "Karima Boutalbi; Faiza Loukil; David Telisson; Kavé Salamatian; Hervé Verjus",
+        "year": "2023",
+        "abstract": "Anomaly detection is a common task in various domains, which has attracted significant research efforts in recent years. Existing reviews mainly focus on structured data, such as numerical or categorical data. Several studies treated review of anomaly detection in general on heterogeneous data or concerning a specific domain. However, anomaly detection on unstructured textual data is less treated. In this work, we target textual anomaly detection. Thus, we propose a systematic review of anomaly detection solutions in the text. To do so, we analyze the included papers in our survey in terms of anomaly detection types, feature extraction methods, and machine learning methods. We also introduce a web scrapping to collect papers from digital libraries and propose a clustering method to classify selected papers automatically. Finally, we compare the proposed automatic clustering approach with manual classification, and we show the interest of our contribution.",
+        "keywords": "Feature Extraction; Machine Learning; Document clustering; Anomaly detection; Anomaly detection Document clustering Machine Learning Feature Extraction",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-04130252v1"
+      },
+      {
+        "hal_id": "4741799",
+        "citation": "Karima Boutalbi, Rafika Boutalbi, Hervé Verjus, Kave Salamatian, David Telisson, et al.. IEcons: A New Consensus Approach Using Multi-Text Representations for Clustering Task. CIKM24: 33rd ACM International Conference on Information and Knowledge Management, Oct 2024, BOISE, United States. pp.613 - 616. &#x27E8;hal-04741799&#x27E9;",
+        "authors": "Karima Boutalbi; Rafika Boutalbi; Hervé Verjus; Kave Salamatian; David Telisson; Olivier Le Van",
+        "year": "2024",
+        "abstract": "<div><p>Today we are able to generate a large set of text representations from the simple Bag-of-word (BOW) to the recent transformers capturing the semantic and the contextual text meaning. It was proven that there is no best text representation for text clustering task. Consequently, some works combined text representations using a consensus clustering approach. Two consensus approach types exist, namely explicit and implicit consensus. In the explicit consensus, also known as ensemble clustering, the consensus function is applied a posterior after obtaining cluster labels from each text representation clustering allowing to capture global mutual information between the partitions of all text representations. On the other hand, implicit consensus uses tensor clustering to optimize the clustering consensus partition that deals with similarity matrices of text representations. In this paper, we propose a new consensus text clustering algorithm named IEcons (Implicit-Explicit consensus) that optimizes explicit and implicit consensus clustering simultaneously through text embeddings and tensor representation of texts through similarity matrices. We compare our algorithm with others from the literature on five different textual datasets using several algorithm performance criteria. The comparison results reveal that our algorithm best suits most situations.</p></div>",
+        "keywords": "Tensor; Hierarchical clustering; • Representation learning → Tensor; • NLP → Word embedding; • Clustering → Graph clustering; Unsupervised learning; CCS CONCEPTS; Data representation; Graphs; CCS CONCEPTS Unsupervised learning • Clustering → Graph clustering • NLP → Word embedding • Representation learning → Tensor Hierarchical clustering; Clustering; • Clustering → Consensus Clustering; Tensor data; Implicit consensus; Consensus; Embeddings; Unsupervised learning • Clustering → Consensus Clustering • NLP → Word embedding • Representation learning → Tensor Clustering",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-04741799v1"
+      },
+      {
+        "hal_id": "4169874",
+        "citation": "Karima Boutalbi, Visar Sylejmani, Pierre Dardouillet, Olivier Le Van, Kave Salamatian, et al.. A Clustering Approach Combining Lines and\r\nText Detection for Table Extraction. VINALDO: Machine vision and NLP for Document Analysis : 1st International Workshop, in conjunction with ICDAR 2023, Aug 2023, San José, California, United States. &#x27E8;hal-04169863&#x27E9;",
+        "authors": "Karima Boutalbi; Visar Sylejmani; Pierre Dardouillet; Olivier Le Van; Kave Salamatian; Hervé Verjus; Faiza Loukil; David Telisson",
+        "year": "2023",
+        "abstract": "Table detection is a crucial step in several document anal- ysis applications as tables are used to present essential information to the reader in a structured manner. In companies that deal with a large amount of data, administrative documents must be processed with rea- sonable accuracy, and the detection and interpretation of tables are cru- cial. Table recognition has gained interest in document image analysis, particularly in unconstrained formats (absence of rule lines, unknown information of rows and columns). This problem is challenging due to the variety of table layouts, encoding techniques, and the similarity of tabular regions with non-tabular document elements. In this, paper, we make use of the location, context, and content type, thus it is purely a structure perception approach, not dependent on the language and the quality of the text reading. We evaluate our model on invoice-like doc- uments and the proposed method showed good results for the task of table extraction.",
+        "keywords": "Table detection; Table extraction; Document analysis; Table recognition; PDF accessibility",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-04169863v1"
+      }
+    ],
+    "publication_count": 5,
+    "all_authors": [
+      "Rafika Boutalbi; Karima Boutalbi",
+      "Karima Boutalbi; Rafika Boutalbi; Hervé Verjus; Kave Salamatian; David Telisson; Olivier Le Van",
+      "Karima Boutalbi; Visar Sylejmani; Pierre Dardouillet; Olivier Le Van; Kave Salamatian; Hervé Verjus; Faiza Loukil; David Telisson",
+      "Karima Boutalbi; Faiza Loukil; David Telisson; Kavé Salamatian; Hervé Verjus",
+      "Karima Boutalbi; Rafika Boutalbi; Hervé Verjus; Kave Salamatian"
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "keywords": [
+      "• Representation learning",
+      "Unsupervised learning • Clustering → Text data • NLP → Word embedding • Representation learning Text clustering",
+      "Anomaly detection",
+      "Tensor",
+      "Data representation",
+      "Anomaly detection Document clustering Machine Learning Feature Extraction",
+      "Document analysis",
+      "• Representation learning → Tensor",
+      "CCS CONCEPTS",
+      "Word embedding Rafika Boutalbi and Karima Boutalbi",
+      "CCS CONCEPTS Unsupervised learning • Clustering → Graph clustering • NLP → Word embedding • Representation learning → Tensor Hierarchical clustering",
+      "Table detection",
+      "Text clustering",
+      "Hierarchical clustering",
+      "Machine Learning",
+      "Tensor data",
+      "Feature Extraction",
+      "Unsupervised learning",
+      "Consensus",
+      "NLP",
+      "• Clustering → Graph clustering",
+      "• Clustering → Consensus Clustering",
+      "Embeddings",
+      "• Clustering → Text data",
+      "Clustering",
+      "• NLP → Word embedding",
+      "Graphs",
+      "Unsupervised learning • Clustering → Consensus Clustering • NLP → Word embedding • Representation learning → Tensor Clustering",
+      "PDF accessibility",
+      "Document clustering",
+      "Table recognition",
+      "Implicit consensus",
+      "Table extraction",
+      "Learning representation"
+    ],
+    "domains": [
+      "0.info",
+      "0.shs",
+      "1.shs.info"
+    ],
+    "last_updated": "2025-11-07T10:38:49.696769"
+  },
+  "last_hal_update": "2025-11-07T10:38:49.697128",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/353/5584.html?q=Karima+Boutalbi",
+    "publications": [
+      {
+        "title": "A Novel Assistant for Question-Answering from Training Video Sessions Using RAG.",
+        "coauthors": []
+      },
+      {
+        "title": "IEcons: A New Consensus Approach Using Multi-Text Representations for Clustering Task.",
+        "coauthors": []
+      },
+      {
+        "title": "Hierarchical Tensor Clustering for Multiple Graphs Representation.",
+        "coauthors": []
+      },
+      {
+        "title": "Machine Learning for Text Anomaly Detection: A Systematic Review.",
+        "coauthors": []
+      },
+      {
+        "title": "A Clustering Approach Combining Lines and Text Detection for Table Extraction.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:08.291068",
+    "publication_count": 5
+  },
+  "last_dblp_update": "2025-11-07T10:42:08.333511"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e892"
+  },
+  "name": "Pierre DARDOUILLET",
+  "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/pierre-dardouillet/",
+  "email": "Non trouvé",
+  "email perso": "Non trouvé",
+  "LinkedIn": "Non trouvé",
+  "phone": "Non trouvé",
+  "WhatsApp": "Non trouvé",
+  "office": "Non trouvé",
+  "address": "Non trouvée",
+  "Theme": "AFUTE ou REGARD",
+  "Sujet": "Résumé :",
+  "Résumé": "Mots-clefs :",
+  "_unique_id": "a7fbf2ace8f0d93029e56a7acb34facd",
+  "category": "doctorants",
+  "last_updated": "2025-11-07T09:22:10.329777",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "3842652",
+        "citation": "Pierre Dardouillet, Alexandre Benoit, Emna Amri, Philippe Bolon, Dominique Dubucq, et al.. Explainability of Image Semantic Segmentation Through SHAP Values. ICPR-XAIE -26TH International Conference on Pattern Recognition 2-nd Workshop on Explainable and Ethical AI, Aug 2022, Montreal, Canada. &#x27E8;hal-03719597v2&#x27E9;",
+        "authors": "Pierre Dardouillet; Alexandre Benoit; Emna Amri; Philippe Bolon; Dominique Dubucq; Anthony Crédoz",
+        "year": "2022",
+        "abstract": "The introduction of Deep Neural Networks in high-level applications is significantly increasing. However, the understanding of such model decisions by humans is not straightforward and may limit their use for critical applications. In order to address this issue, recent research work has introduced explanation methods, typically for classification and captioning. Nevertheless, for some tasks, explainability methods need to be developed. This includes image segmentation that is an essential component for many high-level applications. In this paper, we propose a general workflow allowing for the adaptation of a state of the art explainability methods, especially SHAP, to image segmentation tasks. The approach allows for explanation of single pixels as well image areas. We show the relevance of the approach on a critical application such as oil slick pollution detection on the sea surface. We also show the applicability of the method on a more standard multimedia domain semantic segmentation task. The conducted experiments highlight the relevant features on which the models derive their local results and help identify general model behaviours.",
+        "keywords": "SAR Images; Shapley Values; Image Segmentation; Model Explainability",
+        "domain": "0.info; 1.info.info-ts; 0.info; 1.info.info-ai; 0.info; 1.info.info-cv; 0.info; 1.info.info-mm; 0.info; 1.info.info-ne; 0.stat; 1.stat.ml",
+        "url": "https://hal.science/hal-03719597v2"
+      },
+      {
+        "hal_id": "4734683",
+        "citation": "Pierre Dardouillet, Kavé Salamatian, Hervé Verjus, Faiza Loukil, David Telisson, et al.. Strategic Integration of Context for Fine-Tuning Topic Model Performance. COMPSAC 2024, pp.366-375, 2024, &#x27E8;10.1109/COMPSAC61105.2024.00058&#x27E9;. &#x27E8;hal-04734683&#x27E9;",
+        "authors": "Pierre Dardouillet; Kavé Salamatian; Hervé Verjus; Faiza Loukil; David Telisson; Olivier Le Van",
+        "year": "2024",
+        "abstract": "Issue Tracking Systems software serves as an interface between a company and its customers. Customers can report bugs and seek assistance, among other demands. Reported issues include textual description, along with company defined metadata, aim at simplifying issue treatment by experts. In the context of the rapid growth of customer-reported issues, the manual treatment process becomes tedious and time-consuming. As a result, more and more studies focus on automating parts of this process, using semantic extraction and topic modeling approaches to automatically classify issues. To this end, most approaches consider the issue of textual description along with metadata, which can be a source of uncertainty and misleading in many real-world scenarios. Besides, knowledge from the company experts is often neglected. In this paper, we propose a general taxonomy of information incorporation into topic models. This aims to assemble all existing techniques, to further detect literature gaps. In addition, we propose a technique to incorporate expert knowledge into neural topic models. We evaluate our techniques and others in the literature on a real-world dataset coming from the JIRA software of a French HR management company. Results show a significant increase of more than 22% in classification performances when using expert knowledge, in addition to the issue textual description. The results validate our approach's effectiveness in improving the automatic classification of issues.",
+        "keywords": "Issue Tracking Systems; Neural Topic Models; Information Incorporation",
+        "domain": "0.info; 1.info.info-tt",
+        "url": "https://hal.science/hal-04734683v1"
+      },
+      {
+        "hal_id": "3763679",
+        "citation": "Emna Amri, Pierre Dardouillet, Alexandre Benoit, Hermann Courteille, Philippe Bolon, et al.. Offshore Oil Slick Detection: From Photo-Interpreter to Explainable Multi-Modal Deep Learning Models Using SAR Images and Contextual Data. Remote Sensing, 2022, 14 (15), pp.3565. &#x27E8;10.3390/rs14153565&#x27E9;. &#x27E8;hal-03763674&#x27E9;",
+        "authors": "Emna Amri; Pierre Dardouillet; Alexandre Benoit; Hermann Courteille; Philippe Bolon; Dominique Dubucq; Anthony Credoz",
+        "year": "2022",
+        "abstract": "Ocean surface monitoring, emphasizing oil slick detection, has become essential due to its importance for oil exploration and ecosystem risk prevention. Automation is now mandatory since the manual annotation process of oil by photo-interpreters is time-consuming and cannot process the data collected continuously by the available spaceborne sensors. Studies on automatic detection methods mainly focus on Synthetic Aperture Radar (SAR) data exclusively to detect anthropogenic (spills) or natural (seeps) oil slicks, all using limited datasets. The main goal is to maximize the detection of oil slicks of both natures while being robust to other phenomena that generate false alarms, called “lookalikes”. To this end, this paper presents the automation of offshore oil slick detection on an extensive database of real and recent oil slick monitoring scenarios, including both types of slicks. It relies on slick annotations performed by expert photo-interpreters on Sentinel-1 SAR data over four years and three areas worldwide. In addition, contextual data such as wind estimates and infrastructure positions are included in the database as they are relevant data for oil detection. The contributions of this paper are: (i) A comparative study of deep learning approaches using SAR data. A semantic and instance segmentation analysis via FC-DenseNet and Mask R-CNN, respectively. (ii) A proposal for Fuse-FC-DenseNet, an extension of FC-DenseNet that fuses heterogeneous SAR and wind speed data for enhanced oil slick segmentation. (iii) An improved set of evaluation metrics dedicated to the task that considers contextual information. (iv) A visual explanation of deep learning predictions based on the SHapley Additive exPlanation (SHAP) method adapted to semantic segmentation. The proposed approach yields a detection performance of up to 94% of good detection with a false alarm reduction ranging from 14% to 34% compared to mono-modal models. These results provide new solutions to improve the detection of natural and anthropogenic oil slicks by providing tools that allow photo-interpreters to work more efficiently on a wide range of marine surfaces to be monitored worldwide. Such a tool will accelerate the oil slick detection task to keep up with the continuous sensor acquisition. This upstream work will allow us to study its possible integration into an industrial production pipeline. In addition, a prediction explanation is proposed, which can be integrated as a step to identify the appropriate methodology for presenting the predictions to the experts and understanding the obtained predictions and their sensitivity to contextual information. Thus it helps them to optimize their way of working.",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ts; 0.info; 1.info.info-ai; 0.info; 1.info.info-cv; 0.info; 1.info.info-mm; 0.info; 1.info.info-ne; 0.stat; 1.stat.ml",
+        "url": "https://hal.science/hal-03763674v1"
+      },
+      {
+        "hal_id": "4169874",
+        "citation": "Karima Boutalbi, Visar Sylejmani, Pierre Dardouillet, Olivier Le Van, Kave Salamatian, et al.. A Clustering Approach Combining Lines and\r\nText Detection for Table Extraction. VINALDO: Machine vision and NLP for Document Analysis : 1st International Workshop, in conjunction with ICDAR 2023, Aug 2023, San José, California, United States. &#x27E8;hal-04169863&#x27E9;",
+        "authors": "Karima Boutalbi; Visar Sylejmani; Pierre Dardouillet; Olivier Le Van; Kave Salamatian; Hervé Verjus; Faiza Loukil; David Telisson",
+        "year": "2023",
+        "abstract": "Table detection is a crucial step in several document anal- ysis applications as tables are used to present essential information to the reader in a structured manner. In companies that deal with a large amount of data, administrative documents must be processed with rea- sonable accuracy, and the detection and interpretation of tables are cru- cial. Table recognition has gained interest in document image analysis, particularly in unconstrained formats (absence of rule lines, unknown information of rows and columns). This problem is challenging due to the variety of table layouts, encoding techniques, and the similarity of tabular regions with non-tabular document elements. In this, paper, we make use of the location, context, and content type, thus it is purely a structure perception approach, not dependent on the language and the quality of the text reading. We evaluate our model on invoice-like doc- uments and the proposed method showed good results for the task of table extraction.",
+        "keywords": "Table detection; Table extraction; Document analysis; Table recognition; PDF accessibility",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-04169863v1"
+      }
+    ],
+    "publication_count": 4,
+    "all_authors": [
+      "Karima Boutalbi; Visar Sylejmani; Pierre Dardouillet; Olivier Le Van; Kave Salamatian; Hervé Verjus; Faiza Loukil; David Telisson",
+      "Pierre Dardouillet; Kavé Salamatian; Hervé Verjus; Faiza Loukil; David Telisson; Olivier Le Van",
+      "Pierre Dardouillet; Alexandre Benoit; Emna Amri; Philippe Bolon; Dominique Dubucq; Anthony Crédoz",
+      "Emna Amri; Pierre Dardouillet; Alexandre Benoit; Hermann Courteille; Philippe Bolon; Dominique Dubucq; Anthony Credoz"
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "keywords": [
+      "",
+      "Model Explainability",
+      "Issue Tracking Systems",
+      "SAR Images",
+      "Neural Topic Models",
+      "Information Incorporation",
+      "Table recognition",
+      "Table detection",
+      "Table extraction",
+      "Image Segmentation",
+      "Shapley Values",
+      "Document analysis",
+      "PDF accessibility"
+    ],
+    "domains": [
+      "0.info",
+      "1.info.info-ts",
+      "1.stat.ml",
+      "1.info.info-mm",
+      "1.info.info-cv",
+      "1.info.info-tt",
+      "1.info.info-ai",
+      "1.info.info-ne",
+      "0.stat"
+    ],
+    "last_updated": "2025-11-07T10:38:51.681890"
+  },
+  "last_hal_update": "2025-11-07T10:38:51.682289",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/327/0867.html?q=Pierre+Dardouillet",
+    "publications": [
+      {
+        "title": "Strategic Integration of Context for Fine-Tuning Topic Model Performance.",
+        "coauthors": []
+      },
+      {
+        "title": "A Clustering Approach Combining Lines and Text Detection for Table Extraction.",
+        "coauthors": []
+      },
+      {
+        "title": "Offshore Oil Slick Detection: From Photo-Interpreter to Explainable Multi-Modal Deep Learning Models Using SAR Images and Contextual Data.",
+        "coauthors": []
+      },
+      {
+        "title": "Explainability of Image Semantic Segmentation Through SHAP Values.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:09.034776",
+    "publication_count": 4
+  },
+  "last_dblp_update": "2025-11-07T10:42:09.076038"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e894"
+  },
+  "name": "Ranya El hadri",
+  "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/ranya-el-hadri/",
+  "email": "ranya.el-hadri@univ-smb.fr",
+  "email perso": "Non trouvé",
+  "LinkedIn": "Non trouvé",
+  "phone": "Non trouvé",
+  "WhatsApp": "Non trouvé",
+  "office": "A221",
+  "address": "Non trouvée",
+  "Theme": "Non trouvé",
+  "Sujet": "Méthodologie outillée pour la reconstitution des ontologies de compétences et leur exploitation dans le contexte de l’accompagnement d’un individu vers l’emploi",
+  "Résumé": "Le sujet propre à la thèse portée a pour objectif principal la proposition d’une méthodologie outillée pour la reconstitution des ontologies et leur exploitation dans le contexte de l’accompagnement d’un individu vers l’emploi.",
+  "_unique_id": "2831ec717dda2366f190a75cb6b8ffa7",
+  "category": "doctorants",
+  "last_updated": "2025-11-07T09:22:10.330702",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "4476547",
+        "citation": "Ranya El-Hadri, Sorana Cimpan, Luc Damas, Julien Boissière. Application and evaluation of sentence embedding and clustering methods in the context of concept hierarchy construction. 7th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES 2023), Sep 2023, Athenes, Greece. &#x27E8;hal-04476547&#x27E9;",
+        "authors": "Ranya El-Hadri; Sorana Cimpan; Luc Damas; Julien Boissière",
+        "year": "2023",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info; 0.info; 1.info.info-ai; 0.info; 1.info.info-it",
+        "url": "https://hal.science/hal-04476547v1"
+      },
+      {
+        "hal_id": "4476543",
+        "citation": "Ranya El-Hadri, Julien Boissière, Sorana Cimpan, Luc Damas. Construction of a concept-hierarchy: An automatic process using semantic and linguistic tools. Terminology & Ontology: Theories and applications International Conference (TOTh 2023), Jun 2023, Chambéry, France. &#x27E8;hal-04476543&#x27E9;",
+        "authors": "Ranya El-Hadri; Julien Boissière; Sorana Cimpan; Luc Damas",
+        "year": "2023",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info; 0.info; 1.info.info-ai; 0.info; 1.info.info-tt",
+        "url": "https://hal.science/hal-04476543v1"
+      }
+    ],
+    "publication_count": 2,
+    "all_authors": [
+      "Ranya El-Hadri; Julien Boissière; Sorana Cimpan; Luc Damas",
+      "Ranya El-Hadri; Sorana Cimpan; Luc Damas; Julien Boissière"
+    ],
+    "years": [
+      "2023"
+    ],
+    "keywords": [
+      ""
+    ],
+    "domains": [
+      "0.info",
+      "1.info.info-ai",
+      "1.info.info-it",
+      "1.info.info-tt"
+    ],
+    "last_updated": "2025-11-07T10:38:51.990750"
+  },
+  "last_hal_update": "2025-11-07T10:38:51.991492",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/301/6514.html?q=ranya+el+hadri",
+    "publications": [
+      {
+        "title": "Application and evaluation of sentence embedding and clustering methods in the context of concept hierarchy construction.",
+        "coauthors": []
+      },
+      {
+        "title": "Breast Fine Needle Cytological Classification Using Deep Hybrid Architectures.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:09.716686",
+    "publication_count": 2
+  },
+  "last_dblp_update": "2025-11-07T10:42:09.734427"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e896"
+  },
+  "name": "Fatema EL-HUSSEINI",
+  "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/fatema-el-husseini/",
+  "email": "Non trouvé",
+  "email perso": "Non trouvé",
+  "LinkedIn": "Non trouvé",
+  "phone": "+33 759368753",
+  "WhatsApp": "Non trouvé",
+  "office": "A103",
+  "address": "Non trouvée",
+  "Theme": "ReGard",
+  "Sujet": "Solutions d’apprentissage automatique efficaces et robustes pour l’industrie 4.0",
+  "Résumé": "Récemment, la quatrième révolution industrielle, ou industrie 4.0, a été définie par l’intégration de technologies de pointe telles que l’automatisation, l’analyse de données et l’internet des objets (IdO) dans les processus industriels et de production. L’intelligence artificielle, en particulier l’apprentissage automatique, nous permet de construire des solutions qui apprennent de l’expérience et progressent sans programmation explicite. En permettant l’analyse et l’interprétation de volumes massifs de données produites par des appareils connectés à l’industrie et en alimentant des systèmes d’automatisation et de contrôle de pointe, l’apprentissage automatique (ML) joue un rôle essentiel dans l’industrie 4.0. Il permet au secteur de réduire les coûts et les temps d’arrêt, de prévoir la maintenance, d’améliorer la qualité des produits et d’optimiser la performance des opérations industrielles. Cette thèse analysera les avantages, les limites et les orientations futures de l’apprentissage automatique pour l’industrie 4.0.  Ensuite, nous nous concentrerons sur la conception de solutions efficaces et robustes d’apprentissage automatique et d’apprentissage profond pour l’industrie 4.0, en mettant l’accent sur la maintenance prédictive, le contrôle qualité prédictif et l’inspection.",
+  "_unique_id": "c860bacec12a3e1812146f0be4121e4a",
+  "category": "doctorants",
+  "last_updated": "2025-11-07T09:22:10.331636",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "4698557",
+        "citation": "Fatema El Husseini, Hassan Noura, Flavien Vernier. Machine-Learning-Based Smart Energy Management Systems: A Review. The 20th International Wireless Communications & Mobile Computing Conference, May 2024, Ayia Napa, Cyprus. &#x27E8;10.1109/IWCMC61514.2024.10592420&#x27E9;. &#x27E8;hal-04698557&#x27E9;",
+        "authors": "Fatema El Husseini; Hassan Noura; Flavien Vernier",
+        "year": "2024",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-04698557v1"
+      }
+    ],
+    "publication_count": 1,
+    "all_authors": [
+      "Fatema El Husseini; Hassan Noura; Flavien Vernier"
+    ],
+    "years": [
+      "2024"
+    ],
+    "keywords": [
+      ""
+    ],
+    "domains": [
+      "0.info"
+    ],
+    "last_updated": "2025-11-07T10:38:54.005241"
+  },
+  "last_hal_update": "2025-11-07T10:38:54.006081",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/395/4981.html?q=Fatema+El-Husseini",
+    "publications": [
+      {
+        "title": "Security and Privacy-Preserving for Machine Learning Models: Attacks, Countermeasures, and Future Directions.",
+        "coauthors": []
+      },
+      {
+        "title": "Advanced Machine Learning Approaches for Zero-Day Attack Detection: A Review.",
+        "coauthors": []
+      },
+      {
+        "title": "Machine-Learning-Based Smart Energy Management Systems: A Review.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:10.349559",
+    "publication_count": 3
+  },
+  "last_dblp_update": "2025-11-07T10:42:10.374063"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e898"
+  },
+  "name": "Romain FERRER",
+  "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/romain-ferrer/",
+  "email": "romain.ferrer@univ-smb.fr",
+  "email perso": "Non trouvé",
+  "LinkedIn": "Non trouvé",
+  "phone": "Non trouvé",
+  "WhatsApp": "Non trouvé",
+  "office": "A221",
+  "address": "Non trouvée",
+  "Theme": "Non trouvé",
+  "Sujet": "Construction de parcours d’apprentissage flexibles et suivi des étudiants",
+  "Résumé": "Le sujet proposé se positionne en informatique dans le large domaine des applications de l’intelligence artificielle. Mais il faut y adjoindre des approches qualitatives qui s’ouvrent vers les sciences de l’éducation.",
+  "_unique_id": "666247f1523765f9beb482cc6293611d",
+  "category": "doctorants",
+  "last_updated": "2025-11-07T09:22:10.332509",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "5227339",
+        "citation": "Cimpan Sorana, Romain Ferrer, Yokoyama Hinata. FORESTED : INTERACTIVE TOOL FOR COMPETENCY CENTERED CURRICULUM VISUALIZATION. 19th International Conference on e-Learning and Digital Learning, IADIS, Jul 2025, Lisbonne, Portugal. &#x27E8;hal-05227339&#x27E9;",
+        "authors": "Cimpan Sorana; Romain Ferrer; Yokoyama Hinata",
+        "year": "2025",
+        "abstract": "<div><p>This paper addresses the topic of curricula visualization in the context of competency-based approaches. We introduce ForestED, an interactive tool for competency centered curriculum visualization, highlighting how visualizing the links between competencies and the courses helps understand the interplay between the two. The visualizations concern one computing engineering curriculum. While the visualization reflects the static curriculum definition, it also allows inference of competency development over time through the course timeline.</p></div>",
+        "keywords": "Competency-Based Curricula; Curriculum Visualization",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-05227339v1"
+      }
+    ],
+    "publication_count": 1,
+    "all_authors": [
+      "Cimpan Sorana; Romain Ferrer; Yokoyama Hinata"
+    ],
+    "years": [
+      "2025"
+    ],
+    "keywords": [
+      "Curriculum Visualization",
+      "Competency-Based Curricula"
+    ],
+    "domains": [
+      "0.info"
+    ],
+    "last_updated": "2025-11-07T10:38:54.298448"
+  },
+  "last_hal_update": "2025-11-07T10:38:54.299328"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e89a"
+  },
+  "name": "Douba JAFUNO",
+  "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/douba-jafuno/",
+  "email": "Non trouvé",
+  "email perso": "Non trouvé",
+  "LinkedIn": "Non trouvé",
+  "phone": "Non trouvé",
+  "WhatsApp": "Non trouvé",
+  "office": "Non trouvé",
+  "address": "Non trouvée",
+  "Theme": "AFUTE ou REGARD",
+  "Sujet": "Résumé :",
+  "Résumé": "Mots-clefs :",
+  "_unique_id": "911cf6f307b7feb59ec3d2891df36fa8",
+  "category": "doctorants",
+  "last_updated": "2025-11-07T09:22:10.333429",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "4770269",
+        "citation": "Douba Jafuno, Ammar Mian, Guillaume Ginolhac, Nickolas Stelzenmuller. Buried Object Classification from GPR Data by using Second Order Deep Learning Models. International Geoscience and Remote Sensing Symposium (IGARSS), IEEE, Jul 2024, Athenes, Greece. &#x27E8;hal-04770269&#x27E9;",
+        "authors": "Douba Jafuno; Ammar Mian; Guillaume Ginolhac; Nickolas Stelzenmuller",
+        "year": "2024",
+        "abstract": "We propose a new pipeline to classify Ground Penetrating Radar (GPR) images, based upon the use of second-orders statistics computed over convolutional features of a ResNetlike architecture. In particular, the architecture consists in an end-to-end training phase with backpropagation from convolutional filters from layers adapted to Symmetric Positive Definite (SPD) matrices. The developed approach is tested and compared to a shallow network given in the GPR literature and a deep Computer Vision model like ResNet. We show that we outperform these methods when the number of training data is small and when some of them are mislabelled.",
+        "keywords": "Covariance matrices; CNN; Classification of buried object; GPR",
+        "domain": "0.spi; 1.spi.signal",
+        "url": "https://hal.univ-grenoble-alpes.fr/hal-04770269v1"
+      },
+      {
+        "hal_id": "4902720",
+        "citation": "Douba Jafuno, Ammar Mian, Guillaume Ginolhac, Nickolas Stelzenmuller. Classification of Buried Objects From Ground Penetrating Radar Images by Using Second-Order Deep Learning Models. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18, pp.3185-3197. &#x27E8;10.1109/JSTARS.2024.3524424&#x27E9;. &#x27E8;hal-04902720&#x27E9;",
+        "authors": "Douba Jafuno; Ammar Mian; Guillaume Ginolhac; Nickolas Stelzenmuller",
+        "year": "2025",
+        "abstract": "In this paper, a new classification model based on covariance matrices is built in order to classify buried objects. The inputs of the proposed models are the hyperbola thumbnails obtained with a classical Ground Penetrating Radar (GPR) system. These thumbnails are then inputs to the first layers of a classical CNN, which then produces a covariance matrix using the outputs of the convolutional filters. Next, the covariance matrix is given to a network composed of specific layers to classify Symmetric Positive Definite (SPD) matrices. We show in a large database that our approach outperform shallow networks designed for GPR data and conventional CNNs typically used in computer vision applications, particularly when the number of training data decreases and in the presence of mislabeled data. We also illustrate the interest of our models when training data and test sets are obtained from different weather modes or considerations.",
+        "keywords": "Symmetric Positive Definite matrix networks; Buried objects classification; Covariance matrices; Ground Penetrating Radar; Ground Penetrating Radar covariance matrices buried objects classification Symmetric Positive Definite matrix networks",
+        "domain": "0.spi; 1.spi.signal",
+        "url": "https://hal.science/hal-04902720v1"
+      },
+      {
+        "hal_id": "4234436",
+        "citation": "Douba Jafuno, Ammar Mian, Guillaume Ginolhac, Nickolas Stelzenmuller. Classification d'objets enfouis par un modèle du second d'ordre en utilisant des données GPR. GRETSI, Aug 2023, Grenoble (38000), France. &#x27E8;hal-04234436&#x27E9;",
+        "authors": "Douba Jafuno; Ammar Mian; Guillaume Ginolhac; Nickolas Stelzenmuller",
+        "year": "2023",
+        "abstract": "Dans ce papier, nous considérons un problème de classification multi-classes des signaux de radar à pénétration de sol (GPR pour Ground Penetrating Radar). Ce type de système permet de fournir une image du sous-sol et en particulier des objets enfouis. A cause du mouvement du RADAR, la réponse des objets est hyperbolique. Nous proposons donc d'effectuer cette classification à partir d'imagettes de ces hyperboles. Pour ce faire, le modèle proposé utilise des matrices de covariances calculées en sortie de filtre d'un réseau peu profond. L'estimation est effectuée avec un pipeline comprenant une étape de backpropagation et des couches convolutives adaptées aux matrices de covariances sont ensuite ajoutées. Ces dernières permettent d'effectuer une réduction de dimension avant d'effectuer la classification en fin de réseau. Différentes couches basées sur des concepts de géométrie riemannienne gèrent les spécificités des matrices de covariances dans la classification. L'approche proposée permet alors d'effectuer une classification automatique des objets enfouis avec les données étiquetées disponibles. Nous testons notre approche sur un jeu de données réelles fourni par la société Géolithe.",
+        "keywords": "",
+        "domain": "0.spi; 1.spi.signal",
+        "url": "https://hal.science/hal-04234436v1"
+      }
+    ],
+    "publication_count": 3,
+    "all_authors": [
+      "Douba Jafuno; Ammar Mian; Guillaume Ginolhac; Nickolas Stelzenmuller"
+    ],
+    "years": [
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "keywords": [
+      "Symmetric Positive Definite matrix networks",
+      "",
+      "GPR",
+      "CNN",
+      "Buried objects classification",
+      "Ground Penetrating Radar",
+      "Ground Penetrating Radar covariance matrices buried objects classification Symmetric Positive Definite matrix networks",
+      "Covariance matrices",
+      "Classification of buried object"
+    ],
+    "domains": [
+      "0.spi",
+      "1.spi.signal"
+    ],
+    "last_updated": "2025-11-07T10:38:56.279798"
+  },
+  "last_hal_update": "2025-11-07T10:38:56.280620",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/385/9747.html?q=Douba+Jafuno",
+    "publications": [
+      {
+        "title": "Classification of Buried Objects From Ground Penetrating Radar Images by Using Second-Order Deep Learning Models.",
+        "coauthors": []
+      },
+      {
+        "title": "Buried Object Classification from GPR Data by using Second Order Deep Learning Models.",
+        "coauthors": []
+      },
+      {
+        "title": "Classification of Buried Objects from Ground Penetrating Radar Images by using Second Order Deep Learning Models.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:11.731628",
+    "publication_count": 3
+  },
+  "last_dblp_update": "2025-11-07T10:42:11.756615"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e89c"
+  },
+  "name": "Utpal KANT",
+  "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/utpal-kant/",
+  "email": "Non trouvé",
+  "email perso": "Non trouvé",
+  "LinkedIn": "Non trouvé",
+  "phone": "Non trouvé",
+  "WhatsApp": "Non trouvé",
+  "office": "Non trouvé",
+  "address": "Non trouvée",
+  "Theme": "AFUTE ou REGARD",
+  "Sujet": "Résumé :",
+  "Résumé": "Mots-clefs :",
+  "_unique_id": "31f9e95bcfbb50c65e4f82cfb0806c4a",
+  "category": "doctorants",
+  "last_updated": "2025-11-07T09:22:10.334496"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e89e"
+  },
+  "name": "Paul MATHIEU",
+  "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/paul-mathieu/",
+  "email": "paul.mathieu@univ-smb.fr",
+  "email perso": "Non trouvé",
+  "LinkedIn": "Non trouvé",
+  "phone": "Non trouvé",
+  "WhatsApp": "Non trouvé",
+  "office": "A117",
+  "address": "Non trouvée",
+  "Theme": "Non trouvé",
+  "Sujet": "Cartographie des Appropriations Territoriales par l’Investigation Numérique Augmentée",
+  "Résumé": "L’objectif principal de cette thèse est de développer des mécanismes d’investigations numériques pour étudier le contrôle du cyberespace et son intégration dans une dynamique d’appropriation territoriale de l’espace global, qu’il soit numérique ou physique. Cela se fera à travers le développement de méthodologies et d’outils de collecte et d’analyse de données en source ouverte. L’enjeu réside dans la détermination de la manière dont ces logiques peuvent être mesurées, identifiées et représentées.",
+  "_unique_id": "64b06fec46bc1f97c56890b82cbef442",
+  "category": "doctorants",
+  "last_updated": "2025-11-07T09:22:10.335525",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "1932315",
+        "citation": "Paul Mathieu. Les céphalées d’origine cervicale : évaluation des différentes prises en charge en médecine libérale (médecine générale, médecine manuelle et ostéopathique, neurologie). Sciences du Vivant [q-bio]. 2017. &#x27E8;hal-01932315&#x27E9;",
+        "authors": "Paul Mathieu",
+        "year": "2017",
+        "abstract": "Introduction : Les céphalées sont des pathologies fréquentes dans la population générale. Parmi celles-ci, nous distinguons les céphalées d’origine cervicale qui sont considérées comme des céphalées secondaires. Même si les manipulations vertébrales ont été le premier traitement proposé pour cette pathologie, peu d’études permettent d’évaluer les différentes options thérapeutiques. L’objectif de notre étude était d’évaluer les différentes prises en charge des céphalées d’origine cervicale en médecine libérale. Méthodes : Il s’agit d’une étude quantitative transversale descriptive reposant sur l’utilisation d’un questionnaire. Le questionnaire a été remis à différents professionnels de santé (médecins généralistes, médecins ostéopathes et neurologues) sélectionnés dans toute la région Grand Est. Ont été inclus tous les patients consultant chez leur médecin pour le motif de céphalée d’origine cervicale. Le critère de jugement principal était la diminution de la douleur, évaluée grâce à l’Echelle Visuelle Analogique (EVA) 30 jours après la prise en charge, comparée à l’EVA le jour de la consultation initiale. L’évaluation de la douleur au 30ème jour s’est faite au cours d’un entretien téléphonique réalisé par le thésard. Résultats : 43 patients ont été inclus grâce aux questionnaires retournés par 12 médecins. Parmi eux, 19 patients ont pu être contactés par téléphone afin de pouvoir compléter l’étude. Il s’agissait d’une majorité de femmes (62,8%) avec une moyenne d’âge de 38,9 ans. L’amélioration des douleurs était plus importante chez les patients ayant été traités par manipulations ostéopathiques. Cela se traduisait par une diminution de l’EVA de 2 entre le jour de la consultation et le 30ème jour pour les patients traités par un médecin ostéopathe, contre une diminution de 1,3 pour les patients traités par un médecin généraliste. Discussion : Malgré la limite de notre échantillonnage, notre étude a permis de mettre en avant le traitement par la médecine manuelle et ostéopathique dans la prise en charge des céphalées d’origine cervicale. Nous avons également pu constater que les manipulations ostéopathiques permettaient de soulager les sensations vertigineuses qui pouvaient être présentes au cours de la pathologie. Dans tous les cas, les patients se sont avérés satisfaits de la prise en charge dont ils ont fait l’objet.",
+        "keywords": "Soins médicaux; Vertèbres cervicales; Thèse d'exercice de médecine; Ostéopathie; Neurologie; Médecine générale; Manipulation thérapeutique; Céphalée",
+        "domain": "0.sdv",
+        "url": "https://hal.univ-lorraine.fr/hal-01932315v1"
+      },
+      {
+        "hal_id": "4968016",
+        "citation": "Paul Mathieu. Conception d’un agent de contraste nanostructuré pour l’imagerie médicale. Chimie thérapeutique. Toulouse III, 2020. Français. &#x27E8;NNT : 2020TOU30083&#x27E9;. &#x27E8;tel-04968016&#x27E9;",
+        "authors": "Paul Mathieu",
+        "year": "2020",
+        "abstract": "Durant les années 1990, les nanoparticules (NPs) d’oxydes de fer ont été considérées comme de bons agents de contraste (AC) pour l’Imagerie par Résonance Magnétique (IRM). A partir des années 2010 cependant, elles ont été retirées du marché pour des raisons économiques : leur production n’était pas assez rentable pour les laboratoires pharmaceutiques. Dans un contexte de développement de la médecine personnalisée et d’exigence croissante sur la précision des diagnostics, l’objectif de cette thèse, fondée sur une collaboration entre des chercheurs en chimie et en sociologie, est de questionner la pertinence des NPs dans le domaine émergeant de l’imagerie multimodale. Dans cette perspective, ont été éprouvés, tant la faisabilité de leur synthèse que l’intérêt qui leur est porté par le corps médical. Cette collaboration prend place entre un laboratoire de sociologie, le Centre d’Etude et de Recherche Travail Organisation Pouvoir, et deux laboratoires de chimie : le Laboratoire de Chimie de Coordination et le Laboratoire Synthèse et Physico-chimie de Molécules d’Intérêt Biologique. La collaboration avec des sociologues a permis de mieux cerner les enjeux liés aux processus d’innovation d’un AC incluant, dans le cas d’un AC « nano », la dimension « risques ». Les enquêtes réalisées dans le milieu médical ont permis : (a) dans une approche historique, de saisir les raisons de la sous-utilisation des oxydes de fer durant les années 90 ; sous-utilisation ayant conduit à leur retrait du marché et (b) de faire émerger les propriétés jugées essentielles par le corps médical, pour un AC performant. L’état de l’art sur trois grandes techniques d’imagerie médicale (IRM, nucléaire, CT-SCAN) ainsi que sur le développement des agents de contraste lié à ces techniques sont ensuite rapportés. La synthèse d’un nanosystème cœur/coquille fer/oxyde de fer enrobé de silice (NPFe@FeOx@SiO2) et sa PEGylation sont ensuite détaillées. Une étude complète de ses propriétés magnétiques, ainsi que de sa stabilité en solution est présentée. Enfin une évaluation de ces NPs en tant qu’AC en IRM pondérée en T2, et des analyses cytotoxiques sur des lignées cellulaires saines et cancéreuses sont détaillées. Les résultats obtenus confirment leur efficacité en imagerie et l’absence de cytotoxicité, notamment lorsque les nanosystèmes sont PEGylés. La suite du manuscrit concerne l’accès à des AC bimodaux. Dans un premier temps, nous détaillons la synthèse de complexes de bismuth ainsi que les tentatives d’incorporation de ces complexes à la couche de silice, dans le but de créer un AC bimodal IRM-CT Scan. Ensuite, le greffage d’un complexe de gadolinium à la surface des NPFe@FeOx@SiO2 et de NPSiO2 a été effectué et une évaluation des propriétés des nanomatériaux obtenus en IRM T1/T2 et de leur cytotoxicité est présentée. Dans une dernière partie, les verrous à l’élaboration d’un AC bimodal seront discutés et confrontés aux verrous à l’acquisition des machines multimodales par les hôpitaux en France. En effet, si le développement des agents de contraste multimodaux en laboratoire est en plein essor, l’équipement des machines multimodales est beaucoup plus incertain comme le montre à titre d’exemple l’étude sociologique menée sur les conditions d’acquisition et d’intégration des TEP-IRM par les hôpitaux. Nous concluons sur la portée de la collaboration entre la chimie et la sociologie et sur les perspectives ouvertes par ce travail., During the 90’s, iron oxide nanoparticles (NPs) were considered as good Magnetic Resonance Imaging (MRI) contrast agents (CA). However, in 2010, the production of these NPs was stopped for economic reasons : their production was not profitable enough for the pharmaceutical laboratories. Taking into account the developpement of personnalized medicine, and a growing exigency in the field of diagnostics, the objective of this PhD., grounded on a collaboration between researchers in chemistry and sociology, is to question the relevance of NPs in the arising field of multimodal imaging. In this perspective, have been evaluated, as much the practicability of the synthesis as the interest of the medical field towards multimodal imaging CA. This collaboration takes place between one laboratory of sociology, the Centre d’Etude et de Recherche Travail Organisation Pouvoir, and two chemistry laboratories, the Laboratoire de Chimie de Coordination and the Laboratoire Synthèse et Physico-Chimie de Molécules d’Intérêt Biologique. The collaboration with sociologists allowed us to better understand the challenges of the innovation process of a CA including, in the case of a « nano » CA, the aspect of « risks ». The investigations realized in the medical field provided : (a) a historical approach, to seize the reasons of the underutilization of iron oxide during the early 2000’s, leading to the withdrawal of these products and (b) an oversight of the properties deemed essential by the medical professionals, for a competitive CA. The state of the art of the three most used medical imaging techniques (MRI, Nuclear, and CT-Scan) as well as the developemement of the CA used for these techniques are herein reported. The synthesis of an iron/iron oxide, core/shell nanosystem coated with silica (NPFe@FeOx@SiO2) and its PEGylation are detailed. A complete study of its magnetic properties, and its stability in solution are presented. Lastly, the evaluation of these NPs as a CA for T2 MRI, and cytotoxicity assays on sain and cancerous cells are detailed. The results, corroborates their efficiency in imaging, as well as the absence of toxicity, particularly when the system is PEGylated. Then, this manuscript describes the first assays to obtain a multimodal CA. In a first part, we describe the synthesis of bismuth complexes and the attempts of their incorporation inside the silica shell, in order to create a multimodal CA in MRI and CT-Scan. Then the grafting of a gadolinium complex on the surface of the NPFe@FeOx@SiO2 and NPSiO2 have been carried out and the evaluation of its T1/T2 MRI and cytotoxicity properties are presented. In a last part, the locks towards the developpement of a bimodal CA will be discussed, and faced to the procurement locks of multimodal machines by hospitals in France. Indeed, if the developpement of these multimodal CA in the laboratory is in its golden age, the acquisition of multimodal equipement is uncertain, as the sociology study on the acquisitions and integration processes of PET-MRI in French hospitals has clearly shown. We then conclude on the benefits of the collaboration between chemists and sociologists and on the possibilities and perspectives opened by this work.",
+        "keywords": "Nanoparticles; Bifunctional imaging; Cytotoxicity; Nanomedicine; Sociology; Interdisciplinarity; Nanoparticules; Interdisciplinarité; Sociologie; Nanomédecine; Cytotoxicité; Imagerie bimodale",
+        "domain": "0.chim; 1.chim.ther; 0.shs; 1.shs.socio",
+        "url": "https://hal.science/tel-04968016v1"
+      },
+      {
+        "hal_id": "241991",
+        "citation": "Paul Mathieu. Contribution à l'étude des proportions de chlore et d'hydrogène limitant l'explosion des mélanges de ces gaz. J. Phys. Theor. Appl., 1917, 7 (1), pp.166-172. &#x27E8;10.1051/jphystap:019170070016601&#x27E9;. &#x27E8;jpa-00241991&#x27E9;",
+        "authors": "Paul Mathieu",
+        "year": "1917",
+        "abstract": "Pas de Résumé disponible",
+        "keywords": "Gases",
+        "domain": "0.phys; 1.phys.hist",
+        "url": "https://hal.science/jpa-00241991v1"
+      },
+      {
+        "hal_id": "4974613",
+        "citation": "Paul-Mathieu Caitucoli. Le modèle d’Identification des Résidents au Village Rural (IRVR) : étude de l’impact de la communication territoriale sur l’attractivité interne du territoire. Gestion et management. Université Paris sciences et lettres, 2024. Français. &#x27E8;NNT : 2024UPSLD052&#x27E9;. &#x27E8;tel-04974613&#x27E9;",
+        "authors": "Paul-Mathieu Caitucoli",
+        "year": "2024",
+        "abstract": "Le maintien des résidents en ruralité est un enjeu majeur des politiques d’attractivité, et ainsi du marketing territorial rural. Pourtant, les recherches en marketing territorial se sont plutôt focalisées sur l’attractivité de populations « externes » au territoire, surtout à l’échelle de grandes régions et de métropoles. Or, l’étude des résidents est cruciale et représente une autre facette de l’attractivité territoriale, une attractivité dite « interne ». Elle permet de favoriser l'implication des résidents et ainsi renforcer la cohésion sociale dans les territoires. L'étude des résidents permet de prendre en compte les spécialités propres aux territoires, et ainsi au marketing territorial d'être pleinement légitime. Dans les territoires ruraux, le marketing territorial emprunte aux représentations du territoire afin de valoriser la qualité de vie de ces espaces. Notre thèse suggère que ces représentations appellent l'enjeu managérial de la communication territoriale. Nous supposons que la communication peut directement influencer l'intention de rester sur le territoire des résidents. Après une étude approfondie des représentations de la ruralité et de leurs enjeux pour le marketing territorial (partie 1), nous testons l’influence de la communication territoriale sur l’intention de rester sur le territoire (partie 2). Nous testons ce lien sur trois grandes représentations : rural idyll « nature », « social », « services ». Nous montrons que la communication hédonique a globalement plus d’impact que la communication symbolique sur l’intention de rester sur le territoire. Le bien-être est une variable pertinente pour expliquer ce lien. En dehors du rural idyll « nature » pour les résidents secondaires, la communication hédonique (vs. symbolique) n’a en revanche pas plus d’impact sur l’intention de rester des résidents principaux ou secondaires, relativisant ainsi l’idée d’un fort conflit de représentations entre ces deux populations., Maintaining residents in rural areas is a major challenge for attractiveness policies, and thus for rural place marketing. However, place marketing research has tended to focus on the attractiveness of “external” populations, especially on a regional or metropolitan scale. However, the study of residents is crucial and represents another facet of territorial attractiveness, a so-called “internal” attractiveness. This approach fosters resident involvement and thus reinforces social cohesion within a territory. The study of residents allows us to consider the specificities of each place, giving place marketing its full legitimacy. In rural areas, place marketing mobilizes representations of the place to promote the quality of life. Our thesis suggests that these representations raise the managerial stakes of communication. We assume that communication can directly influence residents' intention to stay. After an in-depth study of representations of rurality and their implications for place marketing (part 1), we test the influence of communication on the intention to stay of residents (part 2). We test this relationship on three major representations of the rural idyll: “nature”, “social” and “services”. We show that, overall, hedonic communication has a greater impact than symbolic communication on the intention to stay of residents. Well-being is a relevant variable to explain this relation. In contrast, hedonic communication (vs. symbolic communication) has no greater impact on the intention to stay of main or temporary residents, relativizing the idea of a strong conflict between these two populations.",
+        "keywords": "Representations; Well-being; Rural areas; Identification; Place marketing; Bien-être; Ruralité; Identification; Représentations; Marketing territorial",
+        "domain": "0.shs; 1.shs.gestion",
+        "url": "https://theses.hal.science/tel-04974613v1"
+      },
+      {
+        "hal_id": "234090",
+        "citation": "Jean-Paul Mathieu. L'anisotropie de l'effet Raman dans les cristaux cubiques. Journal de Physique et le Radium, 1948, 9 (3), pp.83-83. &#x27E8;10.1051/jphysrad:019480090308300&#x27E9;. &#x27E8;jpa-00234090&#x27E9;",
+        "authors": "Jean-Paul Mathieu",
+        "year": "1948",
+        "abstract": "L'intensité I et le facteur de dépolarisation ρ de la raie dépendent d'un tenseur dérivé qui n'a pas la symétrie sphérique. Il en résulte que pour les vibrations doublement et triplement dégénérées, ρ n'est pas nul mais varie entre zéro et 3 et entre zéro et 2. Vérifications expérimentales.",
+        "keywords": "Raman spectra; Luminescence; Mechanical properties",
+        "domain": "0.phys; 1.phys.hist",
+        "url": "https://hal.science/jpa-00234090v1"
+      },
+      {
+        "hal_id": "233490",
+        "citation": "Jean-Paul Mathieu. Recherches sur les complexes de Werner spectre Raman d'ions complexes du type [MeA3]. Journal de Physique et le Radium, 1937, 8 (5), pp.169-174. &#x27E8;10.1051/jphysrad:0193700805016900&#x27E9;. &#x27E8;jpa-00233490&#x27E9;",
+        "authors": "Jean-Paul Mathieu",
+        "year": "1937",
+        "abstract": "Les composés de triéthylènediamine donnent des raies Raman caractéristiques des vibrations de l'ensemble des groupes qui forment l'ion complexe. Ces raies sont les plus nettes chez les complexes les plus robustes chimiquement. On étudie leur nombre, leur polarisation, et on compare les résultats de l'expérience aux prévisions de la théorie.",
+        "keywords": "Spectra; Raman spectra",
+        "domain": "0.phys; 1.phys.hist",
+        "url": "https://hal.science/jpa-00233490v1"
+      },
+      {
+        "hal_id": "235130",
+        "citation": "Jean-Paul Mathieu. Dichroïsme infrarouge et structure cristalline. Journal de Physique et le Radium, 1955, 16 (3), pp.219-231. &#x27E8;10.1051/jphysrad:01955001603021900&#x27E9;. &#x27E8;jpa-00235130&#x27E9;",
+        "authors": "Jean-Paul Mathieu",
+        "year": "1955",
+        "abstract": "Après avoir rappelé les principes de la théorie électromagnétique et de la théorie quantique de la propagation des ondes infrarouges dans les cristaux absorbants, on étudie plus particulièrement les renseignements que les mesures en lumière polarisée peuvent fournir sur la structure des cristaux : détermination du type des fréquences fondamentales; orientation des molécules, des ion complexes ou des groupements atomiques. On fait dans chaque cas un examen critique des données les plus récentes.",
+        "keywords": "Bibliographies; Crystal structure; Lattice dynamics; Pleochroism",
+        "domain": "0.phys; 1.phys.hist",
+        "url": "https://hal.science/jpa-00235130v1"
+      },
+      {
+        "hal_id": "233940",
+        "citation": "Lucienne Couture, Jean-Paul Mathieu. Étude des règles de sélection dans l'effet Raman pour les vibrations dégénérées. Journal de Physique et le Radium, 1945, 6 (12), pp.314-319. &#x27E8;10.1051/jphysrad:01945006012031400&#x27E9;. &#x27E8;jpa-00233940&#x27E9;",
+        "authors": "Lucienne Couture; Jean-Paul Mathieu",
+        "year": "1945",
+        "abstract": "Pour étudier les vibrations dégénérées actives dans l'effet Raman, il convient de considérer des tenseurs de polarisabilité dérivés en nombre égal à celui des coordonnées normales dégénérées entre elles. En faisant subir à chacun de ces tenseurs pris séparément les transformations imposées par la symétrie, on parvient à des relations entre leurs composantes. On applique la méthode à la recherche des règles de sélection dans les groupes cycliques et dans le groupe du tétraèdre et l'on indique son emploi dans le cas des cristaux.",
+        "keywords": "Raman effect",
+        "domain": "0.phys; 1.phys.hist",
+        "url": "https://hal.science/jpa-00233940v1"
+      },
+      {
+        "hal_id": "233401",
+        "citation": "Jean-Paul Mathieu, Jacques Perrichet. Propriétés optiques de quelques dérivés halogénés du camphre. Journal de Physique et le Radium, 1936, 7 (3), pp.138-140. &#x27E8;10.1051/jphysrad:0193600703013800&#x27E9;. &#x27E8;jpa-00233401&#x27E9;",
+        "authors": "Jean-Paul Mathieu; Jacques Perrichet",
+        "year": "1936",
+        "abstract": "Etude de l'absorption, de la rotation et du dichroïsme circulaire, entre 650 m μ et 250 m μ, pour les composés : α-chlorocamphre, α-bromocamphre, αα-dichlorocamphre, αα-dibromo-camphre. Il existe, vers 0 μ 3, une bande d'absorption qui possède un fort effet Cotton; mais le dichroïsme circulaire ne passe pas par un maximum en même temps que l'absorption.",
+        "keywords": "Dichroism",
+        "domain": "0.phys; 1.phys.hist",
+        "url": "https://hal.science/jpa-00233401v1"
+      },
+      {
+        "hal_id": "234163",
+        "citation": "Lucienne Couture, Jean-Paul Mathieu. Étude des oscillations fondamentales d'un ensemble de groupements atomiques identiques au moyen de la méthode du couplage. Journal de Physique et le Radium, 1949, 10 (5), pp.145-150. &#x27E8;10.1051/jphysrad:01949001005014500&#x27E9;. &#x27E8;jpa-00234163&#x27E9;",
+        "authors": "Lucienne Couture; Jean-Paul Mathieu",
+        "year": "1949",
+        "abstract": "Lorsqu'une molécule ou une maille cristalline est formée de groupements atomiques homologues, la théorie des groupes permet de dénombrer dans tous les cas les mouvements de l'ensemble provenant du couplage des mouvements des groupements et d'en prévoir le type. En toute rigueur, on ne peut parler du couplage d'un seul mouvement ou d'une seule oscillation des groupements, mais on doit considérer simultanément tous les mouvements appartenant aux divers types entrant dans la composition d'une oscillation fondamentale de l'ensemble.",
+        "keywords": "Lattice dynamics",
+        "domain": "0.phys; 1.phys.hist",
+        "url": "https://hal.science/jpa-00234163v1"
+      },
+      {
+        "hal_id": "235412",
+        "citation": "Henri Poulet, Jean-Paul Mathieu. Spectre de vibration des cristaux piézoélectriques : VI. Etude des vibrations dégénérées du sulfate de béryllium hydraté et du phosphate monoammonique. Journal de Physique et le Radium, 1956, 17 (6), pp.472-474. &#x27E8;10.1051/jphysrad:01956001706047200&#x27E9;. &#x27E8;jpa-00235412&#x27E9;",
+        "authors": "Henri Poulet; Jean-Paul Mathieu",
+        "year": "1956",
+        "abstract": "Lorsqu'on tient compte du couplage des vibrations doublement dégénérées des ions qui composent la maille des cristaux du groupe S 4U et des différences entre la fréquence des ondes élastiques longitudinales et transversales qui portent ces vibrations, on explique des particularités du spectre Raman de certains de ces cristaux.",
+        "keywords": "Raman spectra; Luminescence; Beryllium compounds; Ammonium compounds; Vibrational modes",
+        "domain": "0.phys; 1.phys.hist",
+        "url": "https://hal.science/jpa-00235412v1"
+      },
+      {
+        "hal_id": "234576",
+        "citation": "Jean-Paul Mathieu, Lucienne Couture-Mathieu. Anomalies dans le spectre de diffusion des cristaux piézoélectriques. III. - Perchlorate de lithium hydraté. Journal de Physique et le Radium, 1952, 13 (5), pp.271-274. &#x27E8;10.1051/jphysrad:01952001305027100&#x27E9;. &#x27E8;jpa-00234576&#x27E9;",
+        "authors": "Jean-Paul Mathieu; Lucienne Couture-Mathieu",
+        "year": "1952",
+        "abstract": "Étude du spectre de Raman d'un monocristal dans diverses orientations. La plupart des raies s'interprètent par la théorie de Placzek en tenant compte de la structure du cristal. Cependant, certains faits échappent à la théorie : variations du tenseur de polarisabilité dérivé et de la fréquence de certaines raies avec l'orientation.",
+        "keywords": "Raman spectra; Luminescence; Optical properties",
+        "domain": "0.phys; 1.phys.hist",
+        "url": "https://hal.science/jpa-00234576v1"
+      },
+      {
+        "hal_id": "1708648",
+        "citation": "Paul Mathieu, Ahmed Benali, Olivia Aubriot. Dynamiques institutionnelles et conflit autour des droits d'eau dans un système d'irrigation traditionnel au Maroc. Revue Tiers Monde, 2001, 42 (166), pp.353-374. &#x27E8;10.3406/tiers.2001.1509&#x27E9;. &#x27E8;hal-00595983&#x27E9;",
+        "authors": "Paul Mathieu; Ahmed Benali; Olivia Aubriot",
+        "year": "2001",
+        "abstract": "L'article présente les effets d'une intervention externe à la fois technique (réhabilitation des réseaux) et institutionnelle (création d'associations d'usagers de l'eau) dans un système d'irrigation semi- traditionnel du Nord du Maroc. Cette intervention a défini des enjeux nouveaux et induit des tensions, puis un processus conflictuel de négociation et de recherche d'un compromis acceptable pour toutes les parties, mais surtout pour les groupes dominants. À la lumière de cette analyse, le texte discute ensuite quelques questions de portée plus générale concernant les dynamiques institutionnelles des systèmes irrigués paysans : le lien entre investissement et droits d'appropriation, les fondements idéologiques des mécanismes de coordination, ainsi que les relations entre conflit et changement des institutions de gestion de l'eau.",
+        "keywords": "Maroc; Droit coutumier; Irrigation; Politique; Forêt; Élevage; Pêche; Agriculture",
+        "domain": "0.shs; 1.shs.geo; 0.shs; 1.shs.anthro-se",
+        "url": "https://hal.science/hal-00595983v1"
+      },
+      {
+        "hal_id": "595975",
+        "citation": "Paul Mathieu, Ahmed Benali, Olivia Aubriot. Water rights, investments and meanings. International Journal of Water, 2001, 1 (3-4), pp.270-284. &#x27E8;10.1504/IJW.2001.002067&#x27E9;. &#x27E8;hal-00595975&#x27E9;",
+        "authors": "Paul Mathieu; Ahmed Benali; Olivia Aubriot",
+        "year": "2001",
+        "abstract": "This paper starts by discussing the relationships between water rights, investment and issues of legitimacy and social relationships in traditional (farmer-created and farmer-managed) irrigated systems. External interventions to modify or \"improve\" these systems create \"stakes\" at different levels, i.e. opportunities for a change in the balances of power and wealth among the various stakeholders. What change will be considered as acceptable by the actors and actually implemented will be the outcome of a social bargaining inside the local community, and between this community and external powers (the State, funding agencies, projects). This bargaining can be analysed as determined by the history of the scheme (including the historical initial investment in the traditional system), the present balance of powers and social relationships in the community, and the \"legitimate and operational meanings\" that various actors can use in the negotiation about the new rules and water rights in the new (transformed) system.",
+        "keywords": "Agriculture; Pêche; Élevage; Forêt; Politique; Irrigation; Conflit; Droit coutumier; Maroc",
+        "domain": "0.shs; 1.shs.anthro-se",
+        "url": "https://hal.science/hal-00595975v1"
+      },
+      {
+        "hal_id": "3515091",
+        "citation": "Paul-Mathieu Caitucoli, Valérie Guillard, Fabrice Larceneux. « Restez chez vous avec vos microbes ! » : les locaux pestent contre les exilés urbains. COVID-19. REGARDS CROISÉS SUR LA CRISE, 2021. &#x27E8;halshs-03515091&#x27E9;",
+        "authors": "Paul-Mathieu Caitucoli; Valérie Guillard; Fabrice Larceneux",
+        "year": "2021",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.gestion",
+        "url": "https://shs.hal.science/halshs-03515091v1"
+      },
+      {
+        "hal_id": "3963037",
+        "citation": "Paul-Mathieu Caitucoli, Valérie Guillard, Fabrice Larceneux. La campagne et la ville s’opposent-elles toujours ? Les représentations des mondes rural et urbain entre idylle et enfer. L'état du management 2021, pp.77-91, 2021. &#x27E8;hal-03963037&#x27E9;",
+        "authors": "Paul-Mathieu Caitucoli; Valérie Guillard; Fabrice Larceneux",
+        "year": "2021",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.gestion",
+        "url": "https://hal.science/hal-03963037v1"
+      },
+      {
+        "hal_id": "235265",
+        "citation": "Jean-Paul Mathieu, Lucienne Couture, Henri Poulet. Spectre de vibration des cristaux piézoélectriques. - V. Sulfate de lithium et de potassium. Journal de Physique et le Radium, 1955, 16 (10), pp.781-785. &#x27E8;10.1051/jphysrad:019550016010078100&#x27E9;. &#x27E8;jpa-00235265&#x27E9;",
+        "authors": "Jean-Paul Mathieu; Lucienne Couture; Henri Poulet",
+        "year": "1955",
+        "abstract": "Étude du spectre Raman et du spectre d'absorption infrarouge de monocristaux orientés. Variations de la fréquence et de l'intensité de certaines raies de diffusion avec l'orientation du cristal.",
+        "keywords": "Raman spectra; Luminescence; Electric properties; Spectra",
+        "domain": "0.phys; 1.phys.hist",
+        "url": "https://hal.science/jpa-00235265v1"
+      },
+      {
+        "hal_id": "4386534",
+        "citation": "Paul-Mathieu Caitucoli, Fabrice Larceneux, Arnaud Simon. L’affirmation des territoires ruraux par le management de projet : préparer le retour plutôt que la revanche. Revue d'économie régionale et urbaine, 2022, Avril (2), pp.161-182. &#x27E8;10.3917/reru.222.0161&#x27E9;. &#x27E8;hal-04386534&#x27E9;",
+        "authors": "Paul-Mathieu Caitucoli; Fabrice Larceneux; Arnaud Simon",
+        "year": "2022",
+        "abstract": "Cette introduction interroge l’influence réciproque du management de projet dans le développement rural, et de l’impact de la ruralité sur les pratiques managériales. Recourant aujourd’hui davantage aux méthodes et techniques de gestion, comme la marque ou le projet, les managers ruraux tentent d’articuler les différentes parties prenantes et de valoriser au mieux les potentialités rurales. Pour ce faire, un cadre institutionnel favorable leur est nécessaire. Les dispositifs LEADER et TZCLD, abordés dans ce numéro spécial, présentent deux approches institutionnelles visant ainsi à aider à la mobilisation du capital endogène. Ne se limitant pas à un ensemble de techniques, le management rural présente également un versant symbolique. Il s’affirme en phase avec les aspirations contemporaines, environnementales notamment. Évitant les positions revanchardes, il doit prendre en compte les interactions multiples avec le monde urbain pour être efficace.",
+        "keywords": "Rural management project management brand territorial development LEADER JEL  O22 M00 R58; Rural management; Project management; Territorial development; Brand; Développement territorial; LEADER; Management de projet; Management rural; Marque",
+        "domain": "0.shs",
+        "url": "https://hal.science/hal-04386534v1"
+      },
+      {
+        "hal_id": "2283706",
+        "citation": "Paul-Mathieu Caitucoli, Valérie Guillard, Fabrice Larceneux. Pour un renouvellement du concept d’attractivité rurale: les motivations et freins des néoruraux français évoqués par la presse. 35ème Congrès International de l'Association Française du Marketing : L'attractivité territoriale, May 2019, Le Havre, France. &#x27E8;hal-02283706&#x27E9;",
+        "authors": "Paul-Mathieu Caitucoli; Valérie Guillard; Fabrice Larceneux",
+        "year": "2019",
+        "abstract": "Non disponible",
+        "keywords": "Territoires; Agriculture; Consommation; Ruralité; Tradition",
+        "domain": "0.shs; 1.shs.gestion",
+        "url": "https://hal.science/hal-02283706v1"
+      },
+      {
+        "hal_id": "3962592",
+        "citation": "Paul-Mathieu Caitucoli, Fabrice Larceneux, Arnaud Simon. numéro spécial Management des territoires ruraux. Revue d'économie régionale et urbaine, 2022, Numéro spécial. &#x27E8;hal-03962592&#x27E9;",
+        "authors": "Paul-Mathieu Caitucoli; Fabrice Larceneux; Arnaud Simon",
+        "year": "2022",
+        "abstract": "Non disponible",
+        "keywords": "Management rural; Management de projet; Marque; Developpement territorial",
+        "domain": "0.shs; 1.shs.gestion",
+        "url": "https://hal.science/hal-03962592v1"
+      },
+      {
+        "hal_id": "235319",
+        "citation": "Jean-Paul Mathieu, Henri Poulet, R. Machiroux. Spectres de vibration de fluosels de zinc hydratés. Journal de Physique et le Radium, 1956, 17 (2), pp.122-123. &#x27E8;10.1051/jphysrad:01956001702012200&#x27E9;. &#x27E8;jpa-00235319&#x27E9;",
+        "authors": "Jean-Paul Mathieu; Henri Poulet; R. Machiroux",
+        "year": "1956",
+        "abstract": "Étude des spectres Raman et infrarouge de cristaux de sels de zinc d'ions MF6. Détermination des fréquences fondamentales de ces ions. Influence de la symétrie cristalline et de la structure électronique de l'élément M.",
+        "keywords": "Vibrational states; Raman spectra; Spectra",
+        "domain": "0.phys; 1.phys.hist",
+        "url": "https://hal.science/jpa-00235319v1"
+      },
+      {
+        "hal_id": "3993114",
+        "citation": "Paul-Mathieu Caitucoli, Valérie Guillard, Fabrice Larceneux. Pour un renouvellement du concept d’attractivité rurale : les motivations et freins des néoruraux français évoqués par la presse. 35ème Congrès International de l'Association Française du Marketing, May 2019, Le Havre, France. &#x27E8;hal-03993114&#x27E9;",
+        "authors": "Paul-Mathieu Caitucoli; Valérie Guillard; Fabrice Larceneux",
+        "year": "2019",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.gestion",
+        "url": "https://hal.science/hal-03993114v1"
+      },
+      {
+        "hal_id": "234850",
+        "citation": "Raymond Kara, Jean-Paul Mathieu, Henri Poulet. Propriétés piézo-optiques et électro-optiques de la blende. Journal de Physique et le Radium, 1954, 15 (1), pp.60-61. &#x27E8;10.1051/jphysrad:0195400150106001&#x27E9;. &#x27E8;jpa-00234850&#x27E9;",
+        "authors": "Raymond Kara; Jean-Paul Mathieu; Henri Poulet",
+        "year": "1954",
+        "abstract": "Pas de Résumé disponible",
+        "keywords": "Optical properties; Mechanical birefringence; Electro optical effects; Zinc compounds",
+        "domain": "0.phys; 1.phys.hist",
+        "url": "https://hal.science/jpa-00234850v1"
+      },
+      {
+        "hal_id": "4837421",
+        "citation": "Paul-Mathieu Caitucoli, Valérie Guillard, Fabrice Larceneux. Favoriser le bien-être et le maintien des populations rurales : comment mieux communiquer ?. 2024. &#x27E8;hal-04837421&#x27E9;",
+        "authors": "Paul-Mathieu Caitucoli; Valérie Guillard; Fabrice Larceneux",
+        "year": "2024",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs",
+        "url": "https://cnrs.hal.science/hal-04837421v1"
+      },
+      {
+        "hal_id": "3515064",
+        "citation": "Paul-Mathieu Caitucoli, Fabrice Larceneux, Arnaud Simon. L’affirmation des territoires ruraux par le management de projet : Préparer le retour plutôt que la revanche. Revue d'économie régionale et urbaine, A paraître. &#x27E8;halshs-03515064&#x27E9;",
+        "authors": "Paul-Mathieu Caitucoli; Fabrice Larceneux; Arnaud Simon",
+        "year": "2022",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.gestion",
+        "url": "https://shs.hal.science/halshs-03515064v1"
+      },
+      {
+        "hal_id": "781554",
+        "citation": "Sébastien Lengagne, Paul Mathieu, Abderrahmane Kheddar, Eiichi Yoshida. Generation of Dynamic Multi-Contact Motions: 2D case studies. Humanoids, Dec 2010, Nashville, TN, United States. pp.014-020, &#x27E8;10.1109/ICHR.2010.5686836&#x27E9;. &#x27E8;lirmm-00781554&#x27E9;",
+        "authors": "Sébastien Lengagne; Paul Mathieu; Abderrahmane Kheddar; Eiichi Yoshida",
+        "year": "2010",
+        "abstract": "We present a multi-contact motion planning method that generates dynamic joint trajectories for multi-body robots that satisfy a set of continuous constraints. We highlight two variants when it comes to generate a single-contact or a multi-contact motion: the presence of the continuous equality geometrical constraints and of the contact forces. In this work, we compute the free-flyer trajectory and the contact forces from the joint trajectories provided by the optimization process. We assess our method on three dynamical multi-contact motions with 2D models. The comparison with intuitive adaptations of the single-contact motion planning methods shows the effectiveness of our method.",
+        "keywords": "Contact forces; Dynamic motion; Multi-contact motion; Continuous constraint",
+        "domain": "0.info; 1.info.info-rb",
+        "url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-00781554v1"
+      },
+      {
+        "hal_id": "3935634",
+        "citation": "Sebastien Lengagne, Paul Mathieu, Abderrahmane Kheddar, Eiichi Yoshida. Multi-Contact Motion Generation: Continuous Constraints and Contact Forces. 28th annual conference of the Robotics Society of Japan (RSJ), Sep 2010, Nagoya, Japan. &#x27E8;hal-03935634&#x27E9;",
+        "authors": "Sebastien Lengagne; Paul Mathieu; Abderrahmane Kheddar; Eiichi Yoshida",
+        "year": "2010",
+        "abstract": "This paper proposes a new computation method to plan multi-contact motions. The first problem is to deal with continuous equality and inequality constraint which rely on the physical limits of the robot and on the properties of the desired motion. The second problem in the modeling of a multi-contact motion is the indetermination relative to the contact forces. We propose a method to compute them from the contact stance and form the joint trajectories.",
+        "keywords": "Taylor Polynomials continuous constraints contact forces; Taylor Polynomials; Continuous constraints; Contact forces",
+        "domain": "0.spi; 1.spi.auto",
+        "url": "https://hal.science/hal-03935634v1"
+      },
+      {
+        "hal_id": "781557",
+        "citation": "Sébastien Lengagne, Paul Mathieu, Abderrahmane Kheddar, Eiichi Yoshida. Generation of Dynamic Motions Under Continuous Constraints: Efficient Computation Using B-Splines and Taylor polynomials. IROS'10: International Conference on Intelligent Robots and Systems, Oct 2010, Taipei, Taiwan. IEEE/RSJ, pp.698-703, 2010, &#x27E8;10.1109/IROS.2010.5649233&#x27E9;. &#x27E8;lirmm-00781557&#x27E9;",
+        "authors": "Sébastien Lengagne; Paul Mathieu; Abderrahmane Kheddar; Eiichi Yoshida",
+        "year": "2010",
+        "abstract": "This paper proposes a new computation method to solve semi-infinite optimization problems for motion planning of robotic systems. Usually, this problem is solved by means of time-grid discretization of the continuous constraints. Unfortunately, discretization may lead to unsafe motions since there is no guarantee of constraint satisfaction between time samples. First, we show that constraints such as joint position and velocity do not need time-discretization to be checked. Then, we present the computation method based on Taylor polynomials to evaluate more complex constraints over time-intervals. This method also applies to continuous equality constraints, to continuous maximum derivative constraint, and to compute the cost function.",
+        "keywords": "Semi-Infinite Programming; Motion optimization; Taylor polynomials; Humanoid robots",
+        "domain": "0.info; 1.info.info-rb",
+        "url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-00781557v1"
+      },
+      {
+        "hal_id": "3544005",
+        "citation": "Nathan Ben Kemoun, Paul-Mathieu Caitucoli, Valérie Guillard. La déconsommation en ruralité comme axe de développement territorial?. Revue d'économie régionale et urbaine, 2021, 2022/2, pp.209-228. &#x27E8;10.3917/reru.222.0209&#x27E9;. &#x27E8;hal-03544005&#x27E9;",
+        "authors": "Nathan Ben Kemoun; Paul-Mathieu Caitucoli; Valérie Guillard",
+        "year": "2021",
+        "abstract": "Dans l’optique d’un développement rural soutenable, cet article interroge les pratiques de déconsommation à l’aune du lien au territoire. L’analyse de treize entretiens auprès de femmes engagées dans le défi « Rien de Neuf » de l’association Zero Waste permet de voir que la déconsommation n’est pas seulement une problématique urbaine, mais aussi une problématique rurale de premier plan. Face aux difficultés rencontrées par les participantes, la mise en œuvre de pratiques de déconsommation en ruralité suscite des liens au territoire de deux types : un lien pendulaire qui entretient la dichotomie centre / périphérie ; un lien d’engagement qui témoigne d’une volonté de s’ancrer autrement à son territoire de résidence pour parvenir à déconsommer. Ces résultats seront discutés à l’aune des littératures relatives au développement territorial et aux pratiques de déconsommation. Enfin, nous mettrons en évidence les limites de cette enquête, et les voies de recherche qui s’y dessinent., This article contributes to the debate on sustainable rural development. It aims to better understand individual connections to rural places through an analysis of deconsumption practices and, conversely, their implementation from the perspective of the territory. The analysis of thirteen interviews conducted with women engaged in the challenge of reducing their consumption level – the ‘Rien de Neuf’ challenge of the Zero Waste association – shows that deconsumption is not only an urban issue, but also a major rural issue. The results call to reassess the simplistic representations of an idyllic rurality with intrinsic voluntary simplicity. Indeed, the findings suggest that rural deconsumption practices have specificities that deserve to be considered, especially with respect to the frequency of purchases, exchange platforms and local networks. We highlight the different challenges faced by the participants when they try to consume less. The implementation of deconsumption practices in rural places reveals two types of link to the territory: a commuting link that maintains the centre/periphery dichotomy and an involvement link that shows a willingness to establish a different anchorage to one’s place of residence in order to achieve deconsumption. These results are discussed in light of the literature on territorial development and deconsumption practices. We draw the attention of the stakeholders involved in sustainable rural development to the importance of local infrastructures, which are more likely to support the ecological transition of daily practices. Finally, we highlight the limits of this research and the avenues for future research.",
+        "keywords": "Développement territorial; Lien au territoire; Ruralité; Déconsommation; Territorial development; Connection to place; Rural areas; Deconsumption",
+        "domain": "0.shs; 1.shs.gestion",
+        "url": "https://hal.science/hal-03544005v1"
+      },
+      {
+        "hal_id": "2290479",
+        "citation": "Sandra Hoibian, Nathan Ben Kemoun, Lucie Brice, Paul-Mathieu Caitucoli, Valérie Guillard, et al.. Comment les pratiques de circulation des objets sont-elles cadrées par le média télévisuel ?. 5eme Journée de Recherche en Marketing du Grand-Est, Mar 2019, Strasbourg, France. &#x27E8;hal-02290479&#x27E9;",
+        "authors": "Sandra Hoibian; Nathan Ben Kemoun; Lucie Brice; Paul-Mathieu Caitucoli; Valérie Guillard; Nacer Rezoug",
+        "year": "2019",
+        "abstract": "Analyse statique et dynamique des JT (2010-2018).",
+        "keywords": "Média télévisuel; Pratiques de circulation des objets; Marketing durable",
+        "domain": "0.shs; 1.shs.gestion",
+        "url": "https://hal.science/hal-02290479v1"
+      },
+      {
+        "hal_id": "375699",
+        "citation": "Pascale Perret, Catherine Ghezzi, Lionel Ogier, Medhi Abbadi, Christophe Morin, et al.. Biological studies of radiolabeled glucose analogues iodinated in positions 3, 4 or 6.. Nuclear Medicine and Biology, 2004, 31 (2), pp.241-50. &#x27E8;10.1016/j.nucmedbio.2003.08.009&#x27E9;. &#x27E8;inserm-00375699&#x27E9;",
+        "authors": "Pascale Perret; Catherine Ghezzi; Lionel Ogier; Medhi Abbadi; Christophe Morin; Jean-Paul Mathieu; Daniel Fagret",
+        "year": "2004",
+        "abstract": "The aim of this study was to assess the biological behavior of new radiolabeled glucose analogues proposed as tracers of glucose uptake in vivo and iodinated in position 3, 4, or 6. Biological results obtained in vitro on adipocytes and erythrocytes and in vivo in mice were compared to those obtained with the gold-standard tracer of glucose uptake, 2-deoxy-D-glucose. None of these molecules had the same biological behavior than 2-deoxy-D-glucose. Therefore, these compounds cannot be considered as tracers of glucose uptake.",
+        "keywords": "Iodinated glucose analogues; Glucose uptake; Radiopharmaceuticals; SPECT",
+        "domain": "0.sdv; 1.sdv.ib; 2.sdv.ib.mn",
+        "url": "https://inserm.hal.science/inserm-00375699v1"
+      },
+      {
+        "hal_id": "4015655",
+        "citation": "Paul Mathieu, Rémi Bascou, Francisco Sebastian Navarro Oliva, Alla Nesterenko, Anh-Tu Ngo, et al.. Electrospinning of ultrafine non-hydrolyzed silk sericin/PEO fibers on PLA : a bilayer scaffold fabrication. Colloque InterUT Systèmes sures et durables, Université de Technologie de Compiègne [UTC], Feb 2023, Paris, France. &#x27E8;10.34746/kqcb-mt61&#x27E9;. &#x27E8;hal-04015655&#x27E9;",
+        "authors": "Paul Mathieu; Rémi Bascou; Francisco Sebastian Navarro Oliva; Alla Nesterenko; Anh-Tu Ngo; Isabelle Lisiecki; Erwann Guénin; Fahmi Bedoui",
+        "year": "2023",
+        "abstract": "We report the feasibility of electrospinning of protein-polymer multilayered scaffolds with selected materials: non-hydrolyzed silk sericin (SS), polyethylene oxide (PEO) and polylactic acid (PLA), with tuned fiber size and properties for each layer. We present an innovative way for the electrospinning (ES) of non-hydrolyzed SS with PEO yielding fibers with an average diameter ranging between 120 nm and 150 nm. Different SS:PEO ratios have been electrospun to study the effect of the concentration of silk sericin protein on the fibers size and shape, as well and their electrospinnability. Electrospun SS:PEO fibers display weak to no mechanical resistance (non-measurable) their deposition onto a sturdier scaffold is necessary to allow their use in biomedical and/or pharmaceutical fields. Therefore, bilayer scaffolds were fabricated with PLA support and SS:PEO fibers obtained from the optimized SS:PEO ratio (1.2:4). They are composed of hydrophobic layer of PLA fibers and a layer of sticky hydrophilic SS:PEO fibers. Scaffolds were characterized extensively by Fourier Transforms Infra-Red (FTIR) spectroscopy, X-Ray diffraction (XRD), Scanning Electron Microscopy (SEM) and their resistance to mechanical stress. Finally, hydrophobicity of both layers has been determined by measuring the contact angle of water droplets on the scaffolds, further proving the bilayer nature of the scaffolds.",
+        "keywords": "Bilayer scaffolds; Electrospinning; Nano; Polylactic acid; Silk sericin; Fibers",
+        "domain": "0.spi",
+        "url": "https://hal.science/hal-04015655v1"
+      },
+      {
+        "hal_id": "4170934",
+        "citation": "Paul Mathieu, Rémi Bascou, Francisco Sebastian Navarro Oliva, Alla Nesterenko, Anh-Tu Ngo, et al.. Electrospinning of ultrafine non-hydrolyzed silk sericin/PEO fibers on PLA : a bilayer scaffold fabrication. Polymer Engineering and Science, 2023, 63 (3), pp.830-840. &#x27E8;10.1002/pen.26248&#x27E9;. &#x27E8;hal-04158440&#x27E9;",
+        "authors": "Paul Mathieu; Rémi Bascou; Francisco Sebastian Navarro Oliva; Alla Nesterenko; Anh-Tu Ngo; Isabelle Lisiecki; Erwann Guénin; Fahmi Bedoui",
+        "year": "2023",
+        "abstract": "We report the feasibility of electrospinning of protein-polymer multilayered scaffolds with selected materials such as non-hydrolyzed silk sericin (SS), poly- ethylene oxide (PEO), and polylactic acid (PLA), with tuned fiber size and properties for each layer. We present a new innovative way for the electrospin- ning (ES) of non-hydrolyzed SS mixed with PEO yielding fibers with an aver- age diameter ranging between 120 and 150 nm. Different SS:PEO ratios have been electrospun to study the effect of the concentration of SS protein on the fibers size and shape, as well and their electrospinnability. Electrospun SS:PEO fibers display weak to no mechanical resistance (non-measurable) and their deposition onto a sturdier scaffold is necessary to allow their use in bio- medical and/or pharmaceutical fields. Therefore, bilayer scaffolds have been fabricated consisting of a PLA support and SS:PEO fibers obtained from the optimized SS:PEO ratio (1.2:4). They are composed of a sturdy hydrophobic layer of PLA fibers and a layer of sticky hydrophilic SS:PEO fibers. The scaf- folds have been characterized extensively by Fourier transforms infra-red (FTIR) spectroscopy, X-ray diffraction (XRD), scanning electron microscopy (SEM), and their resistance to mechanical stress. Finally, hydrophobicity of both layers has been determined by measuring the contact angle of water drop- lets on the scaffolds, further proving the bilayer nature of the scaffolds.",
+        "keywords": "Electrospinning; Bilayer scaffolds; Silk Sericin; Polylactic Acid; Nano-fibers",
+        "domain": "0.spi; 1.spi.gproc; 0.chim; 1.chim.poly; 0.sdv; 1.sdv.ib; 2.sdv.ib.bio",
+        "url": "https://hal.science/hal-04158440v1"
+      },
+      {
+        "hal_id": "1902801",
+        "citation": "Kais Gharbi, Florent Salles, Paul Mathieu, Catherine Amiens, Vincent Collière, et al.. Alkyl phosphonic acid-based ligands as tools for converting hydrophobic iron nanoparticles into water soluble iron–iron oxide core–shell nanoparticles. New Journal of Chemistry, 2017, 41 (20), pp.11898-11905. &#x27E8;10.1039/c7nj02482g&#x27E9;. &#x27E8;hal-01902801&#x27E9;",
+        "authors": "Kais Gharbi; Florent Salles; Paul Mathieu; Catherine Amiens; Vincent Collière; Yannick Coppel; Karine Philippot; Laurent Fontaine; V. Montembault; Leila Samia Smiri; Diana Ciuculescu-Pradines",
+        "year": "2017",
+        "abstract": "Phosphonic acid derivatives are suitable compounds for controlling the surface properties of materials and nanomaterials. Here, we present for the first time the use of alkyl phosphonic acid ligands to transfer into water zero-valent iron nanoparticles (FeNP) synthesized by an organometallic approach. The transfer takes place with the formation of an oxide layer at the surface of the iron nanoparticles, beneficial for the coordination of the alkyl phosphonic acid ligands. The nanoparticles are highly soluble in water and present a core–shell structure, with a monocrystalline body-centered cubic iron core of ca. 10 nm in size surrounded by a spinel oxide shell of ca. 2 nm thickness. These hydrophilic nanoparticles display excellent structural stability, magnetization still reaching 70% of that of bulk iron, and a transversal relaxivity r2 of 335 mM−1 s−1 which give them high potential for biomedical applications.",
+        "keywords": "",
+        "domain": "0.chim; 1.chim.orga; 0.chim; 1.chim.poly",
+        "url": "https://univ-lemans.hal.science/hal-01902801v1"
+      },
+      {
+        "hal_id": "4351382",
+        "citation": "Oscar Demeulenaere, Philippe Mateo, René Ferrera, Paul-Mathieu Chiaroni, Alain Bizé, et al.. Assessment of coronary microcirculation alterations in a porcine model of no-reflow using ultrasound localization microscopy: a proof of concept study. EBioMedicine, 2023, 94, pp.104727. &#x27E8;10.1016/j.ebiom.2023.104727&#x27E9;. &#x27E8;hal-04336658v2&#x27E9;",
+        "authors": "Oscar Demeulenaere; Philippe Mateo; René Ferrera; Paul-Mathieu Chiaroni; Alain Bizé; Jianping Dai; Lucien Sambin; Romain Gallet; Mickaël Tanter; Clément Papadacci; Bijan Ghaleh; Mathieu Pernot",
+        "year": "2023",
+        "abstract": "Background: Coronary microvascular obstruction also known as no-reflow phenomenon is a major issue during myocardial infarction that bears important prognostic implications. Alterations of the microvascular network remains however challenging to assess as there is no imaging modality in the clinics that can image directly the coronary microvascular vessels. Ultrasound Localization Microscopy (ULM) imaging was recently introduced to map microvascular flows at high spatial resolution (∼10 μm). In this study, we developed an approach to image alterations of the microvascular coronary flow in ex vivo perfused swine hearts. Methods: A porcine model of myocardial ischemia-reperfusion was used to obtain microvascular coronary alterations and no-reflow. Four female hearts with myocardial infarction in addition to 6 controls were explanted and placed immediately in a dedicated preservation and perfusion box manufactured for ultrasound imaging. Microbubbles (MB) were injected into the vasculature to perform Ultrasound Localization Microscopy (ULM) imaging and a linear ultrasound probe mounted on a motorized device was used to scan the heart on multiple slices. The coronary microvascular anatomy and flow velocity was reconstructed using dedicated ULM algorithms and analyzed quantitatively. Findings: We were able to image the coronary microcirculation of ex vivo swine hearts at a resolution of tens of microns and measure flow velocities ranging from 10 mm/s in arterioles up to more than 200 mm/s in epicardial arteries. Under different aortic perfusion pressures, we measured in large arteries of a subset of control hearts an increase of flow velocity from 31 ± 11 mm/s at 87 mmHg to 47 ± 17 mm/s at 132 mmHg (N = 3 hearts, P < 0.05). This increase was compared with a control measurement with a flowmeter in the aorta. We also compared 6 control hearts to 4 hearts in which no-reflow was induced by the occlusion and reperfusion of a coronary artery. Using average MB velocity and average density of MB per unit of surface as two ULM quantitative markers of perfusion, we were able to detect areas of coronary no-reflow in good agreement with a control anatomical pathology analysis of the cardiac tissue. In the no-reflow zone, we measured an average perfusion of 204 ± 305 MB/mm2 compared to 3182 ± 1302 MB/mm2 in the surrounding re-perfused area. Interpretation: We demonstrated this approach can directly image and quantify coronary microvascular obstruction and no-reflow on large mammal perfused hearts. This is a first step for noninvasive, quantitative and affordable assessment of the coronary microcirculation function and particularly coronary microvascular anatomy in the infarcted heart. This approach has the potential to be extended to other clinical situations characterized by microvascular dysfunction.",
+        "keywords": "ULM; Ultrasound; Medical imaging; No-reflow; Coronary microcirculation",
+        "domain": "0.sdv; 1.sdv.mhep; 0.info; 1.info.info-im; 0.sdv; 1.sdv.mhep; 2.sdv.mhep.csc",
+        "url": "https://hal.science/hal-04336658v2"
+      },
+      {
+        "hal_id": "4838515",
+        "citation": "Paul Mathieu, Yannick Coppel, Marc Respaud, Quyen T. Nguyen, Sébastien Boutry, et al.. Silica Coated Iron/Iron Oxide Nanoparticles as a Nano-Platform for T2 Weighted Magnetic Resonance Imaging. Molecules, 2019, 24 (24), pp.4629. &#x27E8;10.3390/molecules24244629&#x27E9;. &#x27E8;hal-02445217&#x27E9;",
+        "authors": "Paul Mathieu; Yannick Coppel; Marc Respaud; Quyen T. Nguyen; Sébastien Boutry; Sophie Laurent; Dimitri Stanicki; Céline Henoumont; Fernando Novio; Julia Lorenzo; David Montpeyó; Catherine Amiens",
+        "year": "2019",
+        "abstract": "The growing concern over the toxicity of Gd-based contrast agents used in magnetic resonance imaging (MRI) motivates the search for less toxic and more effective alternatives. Among these alternatives, iron–iron oxide (Fe@FeOx) core-shell architectures have been long recognized as promising MRI contrast agents while limited information on their engineering is available. Here we report the synthesis of 10 nm large Fe@FeOx nanoparticles, their coating with a 11 nm thick layer of dense silica and functionalization by 5 kDa PEG chains to improve their biocompatibility. The nanomaterials obtained have been characterized by a set of complementary techniques such as infra-red and nuclear magnetic resonance spectroscopies, transmission electron microscopy, dynamic light scattering and zetametry, and magnetometry. They display hydrodynamic diameters in the 100 nm range, zetapotential values around −30 mV, and magnetization values higher than the reference contrast agent RESOVIST®. They display no cytotoxicity against 1BR3G and HCT116 cell lines and no hemolytic activity against human red blood cells. Their nuclear magnetic relaxation dispersion (NMRD) profiles are typical for nanomaterials of this size and magnetization. They display high r2 relaxivity values and low r1 leading to enhanced r2/r1 ratios in comparison with RESOVIST®. All these data make them promising contrast agents to detect early stage tumors.",
+        "keywords": "Toxicity; MRI; Surface functionalization; Nanochemistry; Nanomaterials",
+        "domain": "0.chim; 1.chim.coor",
+        "url": "https://hal.science/hal-02445217v1"
+      },
+      {
+        "hal_id": "2822336",
+        "citation": "Donata Gnisci, Léonidas Hitimana, Jean Sibiri Zoundi (Dir.). Land, agricultural change and conflict in West Africa : regional issues from Sierra Leone, Liberia and Côte d'Ivoire. Historical overview. , 61 p., 2007. &#x27E8;hal-02822336&#x27E9;",
+        "authors": "Paul Richards; Jean-Pierre Chauveau; Karim Hussein; Paul Mathieu; Hubert Ouedraogo; Donata Gnisci; Léonidas Hitimana; Jean Sibiri Zoundi; . Club Du Sahel Et de L'Afrique de L'Ouest",
+        "year": "2007",
+        "abstract": "This study identifies the hyper-mobility of impoverished rural youth as a common factor in armed conflicts across three neighbouring states (Liberia, Sierra Leone, and Côte d‟Ivoire) in the Upper Guinean Forest region. Hyper-mobility can be defined as the inability to settle and forge stable attachments professionally and socially in either rural or urban settings. Hyper-mobile impoverished rural youth are not a sufficient cause of armed conflict, but their availability for recruitment when other employment opportunities fail is a major factor in fuelling insurgency in all three countries. Cutting off the supply of recruits to militia factions by providing more suitable employment opportunities attractive to these young people would contribute to peace and stability in West Africa.",
+        "keywords": "",
+        "domain": "0.shs",
+        "url": "https://hal.inrae.fr/hal-02822336v1"
+      },
+      {
+        "hal_id": "3084369",
+        "citation": "Paul Mathieu, Marie Chalet, Marie Myriam Clain, Lauryanne Teulon, Eric Benoist, et al.. Surface engineering of silica nanoparticles with a gadolinium–PCTA complex for efficient T 1 -weighted MRI contrast agents. New Journal of Chemistry, 2020, 44 (41), pp.18031-18047. &#x27E8;10.1039/D0NJ04430J&#x27E9;. &#x27E8;hal-03084369&#x27E9;",
+        "authors": "Paul Mathieu; Marie Chalet; Marie Myriam Clain; Lauryanne Teulon; Eric Benoist; Nadine Leygue; Claude Picard; Sébastien Boutry; Sophie Laurent; Dimitri Stanicki; Céline Hénoumont; Fernando Novio; Julia Lorenzo; David Montpeyó; Diana Ciuculescu-Pradines; Catherine Amiens",
+        "year": "2020",
+        "abstract": "New pyridine containing triAza; 3,6,9,15-tetraazabicyclo[9.3.1]pentadeca-1(15),11,13-triene-3,6,9-triacetic acid (PCTA) ligands presenting pendant carboxylic acid or alcohol functions have been synthesized and used to form diaqua Gd(III) complexes, which have been immobilized onto dense silica nanoparticles. Cytotoxicity studies of these complexes (free or immobilized on the nanoparticles) on normal 1BR3G cells and cancerous HCT 116 cells indicated a dependence on the pendant chemical group for the free complexes. However, this effect disappeared once the complexes were immobilized on the surface of the nanoparticles, leading to non-toxic nanomaterials. The interest of these complexes (free or immobilized on dense silica nanoparticles) as contrast agents in magnetic resonance imaging (MRI) has been evaluated in comparison with DOTAREM® by recording their nuclear magnetic resonance dispersion (NMRD) profiles, measuring their transversal and longitudinal relaxivities as well as recording images on phantoms at 37 °C. This study has evidenced the high potential of these complexes: first it suggested the possibility to reduce the dose to be injected by a factor of 10, second it evidenced their high efficiency in high field T1-weighted MRI (9.4 T), the key towards images of higher resolution and shorter acquisition times.",
+        "keywords": "",
+        "domain": "0.chim; 1.chim.coor",
+        "url": "https://hal.science/hal-03084369v1"
+      },
+      {
+        "hal_id": "2339480",
+        "citation": "Paul Mathieu, Vincent Collière, Yannick Coppel, Marc Respaud, Eric Benoist, et al.. Iron/iron oxide nanoparticles coated with silica as a nanoplatform for multimodal biomedical imaging. 10th International Chemistry Conference Toulouse-Kiev (ICTK-10), Jun 2019, Toulouse, France. &#x27E8;hal-02339480&#x27E9;",
+        "authors": "Paul Mathieu; Vincent Collière; Yannick Coppel; Marc Respaud; Eric Benoist; Claude Picard; Nadine Leygue; Sophie Laurent; Dimitri Stanicki; Céline Henoumont; Sébastien Boutry; Fernando Novio; J.L. Riviera; David Montpeyó Garcia-Moreno; Sergi Rodriguez Calado; Catherine Amiens",
+        "year": "2019",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.chim",
+        "url": "https://hal.science/hal-02339480v1"
+      }
+    ],
+    "publication_count": 39,
+    "all_authors": [
+      "Paul-Mathieu Caitucoli; Valérie Guillard; Fabrice Larceneux",
+      "Paul Mathieu; Rémi Bascou; Francisco Sebastian Navarro Oliva; Alla Nesterenko; Anh-Tu Ngo; Isabelle Lisiecki; Erwann Guénin; Fahmi Bedoui",
+      "Oscar Demeulenaere; Philippe Mateo; René Ferrera; Paul-Mathieu Chiaroni; Alain Bizé; Jianping Dai; Lucien Sambin; Romain Gallet; Mickaël Tanter; Clément Papadacci; Bijan Ghaleh; Mathieu Pernot",
+      "Jean-Paul Mathieu; Lucienne Couture-Mathieu",
+      "Henri Poulet; Jean-Paul Mathieu",
+      "Paul-Mathieu Caitucoli; Fabrice Larceneux; Arnaud Simon",
+      "Kais Gharbi; Florent Salles; Paul Mathieu; Catherine Amiens; Vincent Collière; Yannick Coppel; Karine Philippot; Laurent Fontaine; V. Montembault; Leila Samia Smiri; Diana Ciuculescu-Pradines",
+      "Paul Mathieu; Marie Chalet; Marie Myriam Clain; Lauryanne Teulon; Eric Benoist; Nadine Leygue; Claude Picard; Sébastien Boutry; Sophie Laurent; Dimitri Stanicki; Céline Hénoumont; Fernando Novio; Julia Lorenzo; David Montpeyó; Diana Ciuculescu-Pradines; Catherine Amiens",
+      "Sebastien Lengagne; Paul Mathieu; Abderrahmane Kheddar; Eiichi Yoshida",
+      "Sandra Hoibian; Nathan Ben Kemoun; Lucie Brice; Paul-Mathieu Caitucoli; Valérie Guillard; Nacer Rezoug",
+      "Paul Richards; Jean-Pierre Chauveau; Karim Hussein; Paul Mathieu; Hubert Ouedraogo; Donata Gnisci; Léonidas Hitimana; Jean Sibiri Zoundi; . Club Du Sahel Et de L'Afrique de L'Ouest",
+      "Paul Mathieu; Ahmed Benali; Olivia Aubriot",
+      "Jean-Paul Mathieu; Henri Poulet; R. Machiroux",
+      "Sébastien Lengagne; Paul Mathieu; Abderrahmane Kheddar; Eiichi Yoshida",
+      "Lucienne Couture; Jean-Paul Mathieu",
+      "Raymond Kara; Jean-Paul Mathieu; Henri Poulet",
+      "Paul Mathieu",
+      "Jean-Paul Mathieu",
+      "Paul-Mathieu Caitucoli",
+      "Nathan Ben Kemoun; Paul-Mathieu Caitucoli; Valérie Guillard",
+      "Jean-Paul Mathieu; Jacques Perrichet",
+      "Pascale Perret; Catherine Ghezzi; Lionel Ogier; Medhi Abbadi; Christophe Morin; Jean-Paul Mathieu; Daniel Fagret",
+      "Paul Mathieu; Yannick Coppel; Marc Respaud; Quyen T. Nguyen; Sébastien Boutry; Sophie Laurent; Dimitri Stanicki; Céline Henoumont; Fernando Novio; Julia Lorenzo; David Montpeyó; Catherine Amiens",
+      "Jean-Paul Mathieu; Lucienne Couture; Henri Poulet",
+      "Paul Mathieu; Vincent Collière; Yannick Coppel; Marc Respaud; Eric Benoist; Claude Picard; Nadine Leygue; Sophie Laurent; Dimitri Stanicki; Céline Henoumont; Sébastien Boutry; Fernando Novio; J.L. Riviera; David Montpeyó Garcia-Moreno; Sergi Rodriguez Calado; Catherine Amiens"
+    ],
+    "years": [
+      "1917",
+      "1936",
+      "1937",
+      "1945",
+      "1948",
+      "1949",
+      "1952",
+      "1954",
+      "1955",
+      "1956",
+      "2001",
+      "2004",
+      "2007",
+      "2010",
+      "2017",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "keywords": [
+      "",
+      "Radiopharmaceuticals",
+      "Iodinated glucose analogues",
+      "Vertèbres cervicales",
+      "Nano-fibers",
+      "Interdisciplinarité",
+      "Sociology",
+      "Bibliographies",
+      "Média télévisuel",
+      "Représentations",
+      "Glucose uptake",
+      "Developpement territorial",
+      "Raman effect",
+      "Motion optimization",
+      "Vibrational states",
+      "Nanomédecine",
+      "Lien au territoire",
+      "Conflit",
+      "Rural management project management brand territorial development LEADER JEL  O22 M00 R58",
+      "Déconsommation",
+      "Coronary microcirculation",
+      "Territoires",
+      "Brand",
+      "Nano",
+      "Marketing territorial",
+      "Silk sericin",
+      "Humanoid robots",
+      "Forêt",
+      "Dynamic motion",
+      "Semi-Infinite Programming",
+      "ULM",
+      "Rural management",
+      "Ostéopathie",
+      "Rural areas",
+      "Ammonium compounds",
+      "Continuous constraint",
+      "Taylor polynomials",
+      "Nanochemistry",
+      "MRI",
+      "Bilayer scaffolds",
+      "Nanomedicine",
+      "Consommation",
+      "Sociologie",
+      "Place marketing",
+      "Zinc compounds",
+      "Electro optical effects",
+      "Cytotoxicity",
+      "Nanomaterials",
+      "Electrospinning",
+      "LEADER",
+      "Pêche",
+      "Taylor Polynomials continuous constraints contact forces",
+      "Connection to place",
+      "Multi-contact motion",
+      "Ultrasound",
+      "Fibers",
+      "Marque",
+      "Crystal structure",
+      "Identification",
+      "Médecine générale",
+      "No-reflow",
+      "Ruralité",
+      "Nanoparticules",
+      "Spectra",
+      "Droit coutumier",
+      "Luminescence",
+      "Contact forces",
+      "Thèse d'exercice de médecine",
+      "Representations",
+      "Polylactic Acid",
+      "Lattice dynamics",
+      "Toxicity",
+      "Neurologie",
+      "Agriculture",
+      "Dichroism",
+      "SPECT",
+      "Raman spectra",
+      "Développement territorial",
+      "Beryllium compounds",
+      "Vibrational modes",
+      "Deconsumption",
+      "Céphalée",
+      "Polylactic acid",
+      "Imagerie bimodale",
+      "Continuous constraints",
+      "Tradition",
+      "Territorial development",
+      "Bien-être",
+      "Mechanical properties",
+      "Gases",
+      "Medical imaging",
+      "Silk Sericin",
+      "Electric properties",
+      "Project management",
+      "Management rural",
+      "Pleochroism",
+      "Manipulation thérapeutique",
+      "Mechanical birefringence",
+      "Politique",
+      "Well-being",
+      "Pratiques de circulation des objets",
+      "Irrigation",
+      "Maroc",
+      "Bifunctional imaging",
+      "Nanoparticles",
+      "Marketing durable",
+      "Taylor Polynomials",
+      "Interdisciplinarity",
+      "Management de projet",
+      "Surface functionalization",
+      "Optical properties",
+      "Cytotoxicité",
+      "Soins médicaux",
+      "Élevage"
+    ],
+    "domains": [
+      "1.chim.poly",
+      "0.shs",
+      "0.chim",
+      "2.sdv.ib.bio",
+      "1.shs.socio",
+      "1.shs.geo",
+      "1.info.info-rb",
+      "0.spi",
+      "1.chim.orga",
+      "1.spi.auto",
+      "1.phys.hist",
+      "1.shs.gestion",
+      "1.shs.anthro-se",
+      "0.phys",
+      "1.sdv.mhep",
+      "1.chim.coor",
+      "1.spi.gproc",
+      "1.chim.ther",
+      "2.sdv.mhep.csc",
+      "0.info",
+      "0.sdv",
+      "1.sdv.ib",
+      "1.info.info-im",
+      "2.sdv.ib.mn"
+    ],
+    "last_updated": "2025-11-07T10:38:58.597004"
+  },
+  "last_hal_update": "2025-11-07T10:38:58.597438",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/98/10007.html?q=Paul+Mathieu",
+    "publications": [
+      {
+        "title": "Generation of dynamic multi-contact motions: 2D case studies.",
+        "coauthors": []
+      },
+      {
+        "title": "Generation of dynamic motions under continuous constraints: Efficient computation using B-Splines and Taylor polynomials.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:12.715495",
+    "publication_count": 2
+  },
+  "last_dblp_update": "2025-11-07T10:42:12.733417"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8a0"
+  },
+  "name": "Saloua NAAMA",
+  "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/saloua-naama/",
+  "email": "saloua.naama@univ-smb.fr",
+  "email perso": "Non trouvé",
+  "LinkedIn": "Non trouvé",
+  "phone": "Non trouvé",
+  "WhatsApp": "Non trouvé",
+  "office": "Non trouvé",
+  "address": "Non trouvée",
+  "Theme": "ReGaRD",
+  "Sujet": "Non trouvé",
+  "Résumé": "Non trouvé",
+  "_unique_id": "5268a5e37d2d472f726add192238939b",
+  "category": "doctorants",
+  "last_updated": "2025-11-07T09:22:10.336550",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/341/1292.html?q=Saloua+Naama",
+    "publications": [
+      {
+        "title": "Ironing the Graphs: Toward a Correct Geometric Analysis of Large-Scale Graphs.",
+        "coauthors": []
+      },
+      {
+        "title": "AC-DC: Adaptive Ensemble Classification for Network Traffic Identification.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:14.367176",
+    "publication_count": 2
+  },
+  "last_dblp_update": "2025-11-07T10:42:14.385160"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8a2"
+  },
+  "name": "Georgios SARLAS",
+  "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/georgios-sarlas/",
+  "email": "Non trouvé",
+  "email perso": "Non trouvé",
+  "LinkedIn": "Non trouvé",
+  "phone": "Non trouvé",
+  "WhatsApp": "Non trouvé",
+  "office": "Non trouvé",
+  "address": "Non trouvée",
+  "Theme": "AFUTE ou REGARD",
+  "Sujet": "Résumé :",
+  "Résumé": "Mots-clefs :",
+  "_unique_id": "f9d4a44815de37bcb69a429b9a7ff4a3",
+  "category": "doctorants",
+  "last_updated": "2025-11-07T09:22:10.337560",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/206/3420.html?q=Georgios+Sarlas",
+    "publications": [
+      {
+        "title": "It's also about timing! When do pedestrians want to receive navigation instructions.",
+        "coauthors": []
+      },
+      {
+        "title": "Analysis of Urban Traffic Network Vulnerability and Classification of Signalized Intersections.",
+        "coauthors": []
+      },
+      {
+        "title": "Timing of Pedestrian Navigation Instructions.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:13.930128",
+    "publication_count": 3
+  },
+  "last_dblp_update": "2025-11-07T10:42:13.954823"
+}]

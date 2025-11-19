@@ -1,0 +1,2274 @@
+[{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8aa"
+  },
+  "name": "Patrick BARLATIER",
+  "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/collaborateurs-benevoles/patrick-barlatier/",
+  "email": "patrick.barlatier@univ-smb.fr",
+  "Theme": "Ontologies - Type Dependent Conceptualization - AI",
+  "_unique_id": "c81d3d53f7996e3988fa5795058b1911",
+  "category": "collaborateurs_benevoles",
+  "last_updated": "2025-11-07T09:22:10.370201",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "4267609",
+        "citation": "Patrick Barlatier, Richard Dapoigny. A Monadic Second-Order Version of Tarski's Geometry of Solids. Logic and Logical Philosophy, In press. &#x27E8;hal-04267609&#x27E9;",
+        "authors": "Patrick Barlatier; Richard Dapoigny",
+        "year": "2023",
+        "abstract": "In this paper, we are concerned with the development of a general set theory using the single axiom version of Leśniewski’s mereology. The specification of mereology, and further of Tarski’s geometry of solids will rely on the Calculus of Inductive Constructions (CIC). In the first, part we provide a specification of Leśniewski’s mereology as a model for an atomless Boolean algebra using Clay’s ideas. In the second part, we interpret Leśniewski’s mereology in monadic second-order logic using namesa nd develop a full version of mereology referred to as CIC-based Monadic Mereology (λ-MM) allowing an expressive theory while involving only two axioms. In the third part, we propose a modeling of Tarski’s geometry of solids relying on λ-MM. It is intended to serve as a basis for spatial reasoning. All parts have been proved using a translation in type theory.",
+        "keywords": "Type theory; Theorem prover; Calculus of inductive constructions; Geometry of solids; Monadic second-order logic; Mereology",
+        "domain": "0.info; 0.math",
+        "url": "https://hal.science/hal-04267609v1"
+      },
+      {
+        "hal_id": "678354",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Formal Foundations for Situation Awareness based on Dependent Type Theory. Information Fusion, 2013, 14 (1), pp. 87-107. &#x27E8;10.1016/j.inffus.2012.02.006&#x27E9;. &#x27E8;hal-00678354&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2013",
+        "abstract": "Cognitive situation awareness has recently caught the attention of the information fusion community. Some approaches have developed formalizations that are both ontology-based and underpinned with Situation Theory. While the semantics of Situation Theory is very attractive from the cognitive point of view, the languages that are used to express knowledge and to reason with suffer from a number of limitations concerning both expressiveness and reasoning capabilities. In this paper we propose a more general formal foundation denoted S-DTT (Situation-based Dependent Type Theory) that is expressed with the language of the Extended Calculus of Constructions (ECC), a widely used theory in mathematical formalization and in software validation. Situation awareness relies on small blocks of knowledge called situation fragment types whose composition leads to a very expressive and unifying theory. The semantic part is provided by an ontology that is rooted in the S-DTT theory and, on which higher-order reasoning can be performed. The basis of the theory is summarized and its expressing power is illustrated with numerous examples. A scenario in the healthcare context for patient safety issues is detailed and a comparison with well-known approaches is discussed.",
+        "keywords": "Situation Awareness; Ontologies; Dependent types; Aggregation; Subsumption; Type inhabitation",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://univ-smb.hal.science/hal-00678354v1"
+      },
+      {
+        "hal_id": "498191",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Towards Ontological Correctness of Part-whole Relations with Dependent Types. Proceedings of the Sixth international Conference on Formal ontology in information Systems (FOIS 2010), May 2010, Toronto, Canada. pp. 45-58. &#x27E8;hal-00498191&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2010",
+        "abstract": "Generally, part-whole relations are modeled using fragments of first-order logic(FOL) and difficulties arise when meta-reasoning is done over their properties, leading to reason outside the logic. Alternatively, classical languages for ontological reasoning such as Description Logics + Logic Programming lack of expressive formal foundations resulting in ambiguous interpretations of relations. Moreover, they show some difficulties to prove that a given meta property is logically correct. In order to address these problems, we suggest a formal framework using a dependent (higher-order) type theory such as those used in program checking and theorem provers (e.g., Coq). All properties of part-whole relations are formalized through abstract constructs called parameterized specifications (p-specifications). We detail their content and explain how they are suitable to build an ontology of formal properties that can be further used for reasoning about higher-order properties.",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://univ-smb.hal.science/hal-00498191v1"
+      },
+      {
+        "hal_id": "1850086",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Towards a qualitative representation for specifying natural language. 2017 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (CIVEMSA), Jun 2017, Annecy, France. &#x27E8;10.1109/CIVEMSA.2017.7995299&#x27E9;. &#x27E8;hal-01850086&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2017",
+        "abstract": "—The imprecision of natural language such as X is before Y does not provide any information about the distance between X and Y. The human's way of reasoning often uses incomplete knowledge, and any formalization of natural language should be able to produce qualitative reasoning. For that purpose, we introduce a modeling for specifying cognitive geometry. More precisely, in this paper we tackle the problem of geometric reasoning using a formal representation that is built from an appropriate spatial theory which departs from classical geometry in many points. Instead of basic spatial entities of ordinary geometry such as points, lines and surfaces, we rather consider physical three-dimensional objects used to perceive space based on pointless geometry. Based on Tarski's mereogeometry of solids, we explain how the interpretation of mereogeometry within Lesniewski's framework of mereology leads to a coherent and simplified framework in which qualitative representations (e.g., solids, balls, concentricity, equidistance, etc.) can be expressed. I. INTRODUCTION The qualitative representation of information assumes that knowledge about spatial information is expressed with a finite set of qualitative relations. It has a wide number of applications in the fields of computer vision [16], geographic information system [25], autonomous robot navigation [23], natural language understanding [3] and the like. When quantitative descriptions are not available or computationally intractable, qualitative representations appear as fruitful substitutes. For example, a few set of primitives forms the basis of a rich spatial calculus (see e.g., [17]). Assessing situations require to specify relationships between objects of the domain. Then, it seems natural to represent qualitative information with relations. Many approaches in qualitative representation are based on mereological theories. Mereology which is the theory of parts and wholes assumes that the part-of relation is the fundamental primitive [19]. However, mereology by itself is not a sufficient theory to take in account topological relations. For that purpose, mereotopology has been introduced as a common theory for integrating both topology and mereology [8], [24]. As underlined in [10] there are many situations in which mereotopology itself is lacking e.g., direction and orientation relations, distances and sizes or even, shapes. To cope with such deficiencies, mereogeometry which builds on the earlier work of Tarski [21], extends mereology with geometric",
+        "keywords": "",
+        "domain": "0.info; 0.info; 1.info.info-lo; 0.info; 1.info.info-cg",
+        "url": "https://hal.science/hal-01850086v1"
+      },
+      {
+        "hal_id": "661381",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Using a dependently-typed language for Expressing ontologies. KSEM'2011, Dec 2011, Los Angeles, United States. pp.257-268, &#x27E8;10.1007/978-3-642-25975-3&#x27E9;. &#x27E8;hal-00661381&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2011",
+        "abstract": "Since the last decade the wide spread language for expressing ontologies relies on Description Logics (DLs). However, most of the versions syntactically anchor their modeling primitives on classical logic and require additional theories (i.e., first-order logic, ...) for simultaneously supporting (i) the introduction of constant values (e.g., for individuals) (ii) the limitation of expressiveness for decidability and (iii) the introduc- tion of variables for reasoning with rules. In this paper we show that the introduction of a type theoretical formalism that relies both on a constructive logic and on a typed lambda calculus is able to go beyond these aspects in a single theory. In particular we will show that a number of logical choices (constructive logic, predicative universes for data types, impredicative1 universe for logic, ...) about the theory will lead to an highly expressive theory which allows for the production of conceptually clean and semantically unambiguous ontologies.",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://hal.science/hal-00661381v1"
+      },
+      {
+        "hal_id": "498209",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Towards an Ontological Modeling with Dependent Types: Application to Part-Whole Relations. 28th International Conference on Conceptual Modeling (ER'2009), Nov 2009, Brazil. pp.145-158, &#x27E8;10.1007/978-3-642-04840-1_13&#x27E9;. &#x27E8;hal-00498209&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2009",
+        "abstract": "Generally, mereological relations are modeled using fragments of first-order logic(FOL) and difficulties arise when meta-reasoning is done over their properties, leading to reason outside the logic. Alternatively, classical languages for conceptual modeling such as UML lack of formal foundations resulting in ambiguous interpretations of mereological relations. Moreover, they cannot prove that a given specification is correct from a logical perspective. In order to address all these problems, we suggest a formal framework using a dependent (higher-order) type theory such as those used in program checking and theorem provers (e.g., Coq). It is based on constructive logic and allows reasoning in different abstraction levels within the logic. Furthermore, it maximizes the expressiveness while preserving decidability of type checking and results in a coherent theory with a powerful sub-typing mechanism.",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://univ-smb.hal.science/hal-00498209v1"
+      },
+      {
+        "hal_id": "1238709",
+        "citation": "Richard Dapoigny, Patrick Barlatier. A Coq-based Implementation of Tarski's Mereogeometry. COSIT'2015 - 12th International Conference on Spatial Information Theory, Oct 2015, Santa Fe, United States. pp.108-129, &#x27E8;10.1007/978-3-319-23374-1_6&#x27E9;. &#x27E8;hal-01238709&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2015",
+        "abstract": "During the last decade, the domain of Qualitative Spatial Reasoning, has known a renewal of interest for mereogeometry, a theory that has been initiated by Tarski. Mereogeometry relies on mereology, the Lesniewski's theory of parts and wholes that is further extended with geometrical primitives and appropriate definitions. However, most approaches (i) depart from the original Lesniewski's mereology which does not assume usual sets as a basis, (ii) restrict the logical power of mereology to a mere theory of part-whole relations and (iii) require the introduction of a connection relation. Moreover, the seminal paper of Tarki shows up unclear foundations and we argue that mereogeometry as it is introduced by Tarski, can be more suited to extend the whole theory of Lesniewski. For that purpose, we investigate a type-theoretical representation of space more closely related with the original ideas of Lesniewski and expressed with the Coq language. We show that (i) it can be given a more clear foundation, (ii) it can be based on three axioms instead of four and (iii) it can serve as a basis for spatial reasoning with full compliance with Lesniewski's systems.",
+        "keywords": "Mereology; Point; Solids; Coq; Mereogeometry; Balls",
+        "domain": "0.info; 1.info.info-ai; 0.math",
+        "url": "https://inria.hal.science/hal-01238709v1"
+      },
+      {
+        "hal_id": "498519",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Deriving behavior from goal structure for the intelligent control of physical systems. J.Filipe, J.L. Ferrier, J.A. Cetto and M. Carvalho. Informatics in Control, Automation and Robotics II, Springer, pp.51-58, 2007. &#x27E8;hal-00498519&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2007",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://univ-smb.hal.science/hal-00498519v1"
+      },
+      {
+        "hal_id": "748124",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Modeling Ontological Structures with Type Classes in Coq. ICCS 2013 (IOS Press), Jan 2013, Mumbai, India. &#x27E8;hal-00748124&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2013",
+        "abstract": "In the domain of ontology design as well as in Conceptual Modeling, representing universals is a challenging problem. Most approaches which have addressed this problem rely either on Description Logics (DLs) or on First Order Logic (FOL), but many difficulties remain especially about expressiveness. In mathematical logic and program checking, type theories have proved to be appealing but so far, they have not been applied in the formalization of ontologies. To bridge this gap, we present here the main capabilities of a theory for representing ontological structures in a dependently-typed framework which relies both on a constructive logic and on a functional type system. The usability of the theory is demonstrated with the Coq language which defines in a precise way what ontological primitives such as classes, relations, properties and meta-properties, are in terms of type classes.",
+        "keywords": "Ontological structures; Type classes; Coq; Inheritance; Reasoning",
+        "domain": "0.scco; 1.scco.comp",
+        "url": "https://hal.science/hal-00748124v1"
+      },
+      {
+        "hal_id": "547613",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Modeling Contexts with Dependent Types. Fundamenta Mathematicae, 2010, 104 (4), pp. 293-327. &#x27E8;10.3233/FI-2010-351&#x27E9;. &#x27E8;hal-00547613&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2010",
+        "abstract": "In the area of knowledge representation, a challenging topic is the formalization of context knowledge on the basis of logical foundations and ontological semantics. However, most attempts to provide a formal model of contexts suffer from a number of difficulties, such as limited expressiveness of representation, restricted variable quantification, lack of (meta) reasoning about properties, etc. In addition, type theory originally developed for formal modeling of mathematics has also been successfully applied to the correct specification of programs and in the semantics of natural language. In this paper, we suggest a type theoretical approach to the problem of context and action modeling. Type theory is used both for representing the system's knowledge of the discourse domain and for reasoning about it. For that purpose, we extend an existing dependent type theory having nice properties, with context-based rules and appropriate inductive types. We claim that the resulting theory exploiting the power of dependent types is able to provide a very expressive system together with a unified theory allowing higher-order reasoning.",
+        "keywords": "Context; Action; Type Theory; Dependent Types; Subtyping; Subsumption; Partonomies",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://hal.science/hal-00547613v1"
+      },
+      {
+        "hal_id": "732371",
+        "citation": "Patrick Barlatier, Richard Dapoigny. A Type-theoretical approach for ontologies: the case of roles. Applied Ontology, 2012, 7 (3), pp.311-356. &#x27E8;10.3233/AO-2012-0113&#x27E9;. &#x27E8;hal-00732371&#x27E9;",
+        "authors": "Patrick Barlatier; Richard Dapoigny",
+        "year": "2012",
+        "abstract": "In the domain of ontology design as well as in Knowledge Representation, modeling universals is a challenging problem. Most approaches that have addressed this problem rely on Description Logics (DLs) but many difficulties remain, due to under-constrained representation which reduces the inferences that can be drawn and further causes problems in expressiveness. In mathematical logic and program checking, type theories have proved to be appealing but, so far they have not been applied in the formalization of ontologies. To bridge this gap, we present in this paper a theory for representing ontologies in a dependently-typed framework which relies on strong formal foundations including both a constructive logic and a functional type system. The language of this theory defines in a precise way what ontological primitives such as classes, relations, properties, etc., and thereof roles, are. The first part of the paper details how these primitives are defined and used within the theory. In a second part, we focus on the formalization of the role primitive. A review of significant role properties leads to the specification of a role profile and most of the remaining work details through numerous examples, how the proposed theory is able to fully satisfy this profile. It is demonstrated that dependent types can model several non-trivial aspects of roles including a formal solution for generalization hierarchies, identity criteria for roles and other contributions. A discussion is given on how the theory is able to cope with many of the constraints inherent in a good role representation.",
+        "keywords": "Ontology; Dependent types; Categories; Relation type; Role type; Context; Subsumption; Generalization hierarchies",
+        "domain": "0.info; 1.info.info-ai; 0.info; 1.info.info-lo; 0.info; 1.info.info-ds",
+        "url": "https://hal.science/hal-00732371v1"
+      },
+      {
+        "hal_id": "498210",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Reasoning about Relations with Dependent Types: Application to Context-Aware Applications. ISMIS 2009, Sep 2009, Prague, Czech Republic. pp.171-180, &#x27E8;10.1007/978-3-642-04125-9_20&#x27E9;. &#x27E8;hal-00498210&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2009",
+        "abstract": "Generally, ontological relations are modeled using fragments of first order logic (FOL) and difficulties arise when meta-reasoning is done over ontological properties, leading to reason outside the logic. Moreover, when such systems are used to reason about knowledge and meta-knowledge, classical languages are not able to cope with different levels of abstraction in a clear and simple way. In order to address these problems, we suggest a formal framework using a dependent (higher order) type theory. It maximizes the expressiveness while preserving decidability of type checking and results in a coherent theory. Two examples of meta-reasoning with transitivity and distributivity and a case study illustrate this approach.",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://univ-smb.hal.science/hal-00498210v1"
+      },
+      {
+        "hal_id": "498532",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Towards a Context Theory for Context-aware systems, Advances in Ambient Intelligence. J.C. Augusto and D. Shapiro. Frontiers in Artificial Intelligence and Applications, IOS Press The Netherlands, pp.36-55, 2007. &#x27E8;hal-00498532&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2007",
+        "abstract": "The basic goal of context-aware systems is to make software aware of the environment and to adapt to their changing context. For that purpose, the core problem is to have a powerful context model. While significative formalizations have been proposed, context models are either expressed through logical formalisms or with ontology-based approaches. The major problem with all that approaches is that they suffer from the chronic insufficiency of first-order logic to cope with dynamic change and especially, to solve the frame problem. Therefore, building context-aware software is a complex task due to a lack of appropriate formal models in dynamic environments. In this paper, we propose a model which combines the strengths of both approaches while trying not to carry their specific weaknesses into the resulting formal framework. For this purpose, the formal model relies both on a knowledge representation with ontologies and on a logical reasoning with Dependent Record Types (DRT) based on Intuitionistic Type Theory and the Curry-Howard isomorphism. This logic modelling aims to be applied to any kind of process-based applications.",
+        "keywords": "Contexts-Aware; Dependent Record Types; Intuitionistic Type Theory; Ontology",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://univ-smb.hal.science/hal-00498532v1"
+      },
+      {
+        "hal_id": "4470647",
+        "citation": "Patrick Barlatier, Richard Dapoigny. A Monadic Second-Order Version of Tarski’s Geometry of Solids. Logic and Logical Philosophy, 2023, 33 (1), pp.55-99. &#x27E8;10.12775/LLP.2023.019&#x27E9;. &#x27E8;hal-04470647&#x27E9;",
+        "authors": "Patrick Barlatier; Richard Dapoigny",
+        "year": "2023",
+        "abstract": "In this paper, we are concerned with the development of a general set theory using the single axiom version of Leśniewski’s mereology. The specification of mereology, and further of Tarski’s geometry of solids will rely on the Calculus of Inductive Constructions (CIC). In the first part, we provide a specification of Leśniewski’s mereology as a model for an atomless Boolean algebra using Clay’s ideas. In the second part, we interpret Leśniewski’s mereology in monadic second-order logic using names and develop a full version of mereology referred to as CIC-based Monadic Mereology (λ-MM) allowing an expressive theory while involving only two axioms. In the third part, we propose a modeling of Tarski’s solid geometry relying on λ-MM. It is intended to serve as a basis for spatial reasoning. All parts have been proved using a translation in type theory.",
+        "keywords": "Mereology; Monadic second-order logic; Geometry of solids; Calculus of inductive constructions; Theorem prover; Type theory; Mereology monadic second-order logic geometry of solids calculus of inductive constructions theorem prover type theory; Mereology",
+        "domain": "0.info; 1.info.info-ai; 0.math",
+        "url": "https://hal.science/hal-04470647v1"
+      },
+      {
+        "hal_id": "2068302",
+        "citation": "Nacima Mellal, Richard Dapoigny, Patrick Barlatier, Laurent Foulloy. Modeling and Multi-agent Specification of IF-Based Distributed Goal Ontologies. Advances in Applied Artificial Intelligence, Lecture Notes in Computer Science (4031), Springer, pp.14-23, 2006, &#x27E8;10.1007/11779568_4&#x27E9;. &#x27E8;hal-02068302&#x27E9;",
+        "authors": "Nacima Mellal; Richard Dapoigny; Patrick Barlatier; Laurent Foulloy",
+        "year": "2006",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-02068302v1"
+      }
+    ],
+    "publication_count": 15,
+    "all_authors": [
+      "Nacima Mellal; Richard Dapoigny; Patrick Barlatier; Laurent Foulloy",
+      "Richard Dapoigny; Patrick Barlatier",
+      "Patrick Barlatier; Richard Dapoigny"
+    ],
+    "years": [
+      "2006",
+      "2007",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2015",
+      "2017",
+      "2023"
+    ],
+    "keywords": [
+      "Dependent types",
+      "",
+      "Partonomies",
+      "Relation type",
+      "Role type",
+      "Reasoning",
+      "Subsumption",
+      "Inheritance",
+      "Contexts-Aware",
+      "Subtyping",
+      "Solids",
+      "Ontology",
+      "Type inhabitation",
+      "Situation Awareness",
+      "Theorem prover",
+      "Action",
+      "Dependent Types",
+      "Calculus of inductive constructions",
+      "Mereogeometry",
+      "Monadic second-order logic",
+      "Type theory",
+      "Ontological structures",
+      "Aggregation",
+      "Point",
+      "Mereology monadic second-order logic geometry of solids calculus of inductive constructions theorem prover type theory",
+      "Categories",
+      "Type Theory",
+      "Coq",
+      "Context",
+      "Ontologies",
+      "Balls",
+      "Mereology",
+      "Generalization hierarchies",
+      "Intuitionistic Type Theory",
+      "Geometry of solids",
+      "Type classes",
+      "Dependent Record Types"
+    ],
+    "domains": [
+      "0.info",
+      "1.info.info-ds",
+      "1.info.info-ai",
+      "1.info.info-lo",
+      "0.scco",
+      "0.math",
+      "1.scco.comp",
+      "1.info.info-cg"
+    ],
+    "last_updated": "2025-11-07T10:39:05.371081"
+  },
+  "last_hal_update": "2025-11-07T10:39:05.371458",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/53/271.html?q=Patrick+Barlatier",
+    "publications": [
+      {
+        "title": "Towards a qualitative representation for specifying natural language.",
+        "coauthors": []
+      },
+      {
+        "title": "A Coq-Based Axiomatization of Tarski's Mereogeometry.",
+        "coauthors": []
+      },
+      {
+        "title": "Specifying Well-Formed Part-Whole Relations in Coq.",
+        "coauthors": []
+      },
+      {
+        "title": "Formalizing Context for Domain Ontologies in Coq.",
+        "coauthors": []
+      },
+      {
+        "title": "Formal foundations for situation awareness based on dependent type theory.",
+        "coauthors": []
+      },
+      {
+        "title": "A Typed Approach for Contextualizing the Part-Whole Relation.",
+        "coauthors": []
+      },
+      {
+        "title": "Modeling Ontological Structures with Type Classes in Coq.",
+        "coauthors": []
+      },
+      {
+        "title": "A type-theoretical approach for ontologies: The case of roles.",
+        "coauthors": []
+      },
+      {
+        "title": "Using a Dependently-Typed Language for Expressing Ontologies.",
+        "coauthors": []
+      },
+      {
+        "title": "Modeling Contexts with Dependent Types.",
+        "coauthors": []
+      },
+      {
+        "title": "Towards Ontological Correctness of Part-whole Relations with Dependent Types.",
+        "coauthors": []
+      },
+      {
+        "title": "Conception et implantation d'un modèle de raisonnement sur les contextes basée sur une théorie des types et utilisant une ontologie de domaine.",
+        "coauthors": []
+      },
+      {
+        "title": "Towards an Ontological Modeling with Dependent Types: Application to Part-Whole Relations.",
+        "coauthors": []
+      },
+      {
+        "title": "Reasoning about Relations with Dependent Types: Application to Context-Aware Applications.",
+        "coauthors": []
+      },
+      {
+        "title": "Vers un modèle formel pour le raisonnement à partir des contextes.",
+        "coauthors": []
+      },
+      {
+        "title": "Causal Reasoning with Contexts Using Dependent Types.",
+        "coauthors": []
+      },
+      {
+        "title": "Towards a Conceptual Structure based on Type Theory.",
+        "coauthors": []
+      },
+      {
+        "title": "A Theorem Prover with Dependent Types for Reasoning about Actions.",
+        "coauthors": []
+      },
+      {
+        "title": "Goal Reasoning with Context Record Types.",
+        "coauthors": []
+      },
+      {
+        "title": "Using Contexts to Prove and Share Situations.",
+        "coauthors": []
+      },
+      {
+        "title": "Towards a Context Theory for Context-aware systems.",
+        "coauthors": []
+      },
+      {
+        "title": "Modeling and Multi-agent Specification of IF-Based Distributed Goal Ontologies.",
+        "coauthors": []
+      },
+      {
+        "title": "Dependent Record Types for Dynamic Context Representation.",
+        "coauthors": []
+      },
+      {
+        "title": "deriving behavior from goal structure for the intelligent control of physical systems.",
+        "coauthors": []
+      },
+      {
+        "title": "Formal Goal Generation for Intelligent Control Systems.",
+        "coauthors": []
+      },
+      {
+        "title": "Inferential Knowledge Sharing with Goal Hierarchies in Distributed Engineering Systems.",
+        "coauthors": []
+      },
+      {
+        "title": "A Functional and Behavioral Knowledge-based Implementation for Intelligent Sensors/Actuators.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:17.192717",
+    "publication_count": 27
+  },
+  "last_dblp_update": "2025-11-07T10:42:17.370526"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8ac"
+  },
+  "name": "Richard DAPOIGNY",
+  "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/collaborateurs-benevoles/richard-dapoigny/",
+  "email": " richard.dapoigny@univ-smb.fr",
+  "phone": " 0621353143",
+  "adresse": " LISTIC, Polytech Annecy-Chambéry, 5 chemin de bellevue, Annecy-le-vieux, 74 940 Annecy",
+  "_unique_id": "dcf183127b55ac0b537f6a6bf8a02f82",
+  "category": "collaborateurs_benevoles",
+  "last_updated": "2025-11-07T09:22:10.401250",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "498210",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Reasoning about Relations with Dependent Types: Application to Context-Aware Applications. ISMIS 2009, Sep 2009, Prague, Czech Republic. pp.171-180, &#x27E8;10.1007/978-3-642-04125-9_20&#x27E9;. &#x27E8;hal-00498210&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2009",
+        "abstract": "Generally, ontological relations are modeled using fragments of first order logic (FOL) and difficulties arise when meta-reasoning is done over ontological properties, leading to reason outside the logic. Moreover, when such systems are used to reason about knowledge and meta-knowledge, classical languages are not able to cope with different levels of abstraction in a clear and simple way. In order to address these problems, we suggest a formal framework using a dependent (higher order) type theory. It maximizes the expressiveness while preserving decidability of type checking and results in a coherent theory. Two examples of meta-reasoning with transitivity and distributivity and a case study illustrate this approach.",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://univ-smb.hal.science/hal-00498210v1"
+      },
+      {
+        "hal_id": "498209",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Towards an Ontological Modeling with Dependent Types: Application to Part-Whole Relations. 28th International Conference on Conceptual Modeling (ER'2009), Nov 2009, Brazil. pp.145-158, &#x27E8;10.1007/978-3-642-04840-1_13&#x27E9;. &#x27E8;hal-00498209&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2009",
+        "abstract": "Generally, mereological relations are modeled using fragments of first-order logic(FOL) and difficulties arise when meta-reasoning is done over their properties, leading to reason outside the logic. Alternatively, classical languages for conceptual modeling such as UML lack of formal foundations resulting in ambiguous interpretations of mereological relations. Moreover, they cannot prove that a given specification is correct from a logical perspective. In order to address all these problems, we suggest a formal framework using a dependent (higher-order) type theory such as those used in program checking and theorem provers (e.g., Coq). It is based on constructive logic and allows reasoning in different abstraction levels within the logic. Furthermore, it maximizes the expressiveness while preserving decidability of type checking and results in a coherent theory with a powerful sub-typing mechanism.",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://univ-smb.hal.science/hal-00498209v1"
+      },
+      {
+        "hal_id": "498191",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Towards Ontological Correctness of Part-whole Relations with Dependent Types. Proceedings of the Sixth international Conference on Formal ontology in information Systems (FOIS 2010), May 2010, Toronto, Canada. pp. 45-58. &#x27E8;hal-00498191&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2010",
+        "abstract": "Generally, part-whole relations are modeled using fragments of first-order logic(FOL) and difficulties arise when meta-reasoning is done over their properties, leading to reason outside the logic. Alternatively, classical languages for ontological reasoning such as Description Logics + Logic Programming lack of expressive formal foundations resulting in ambiguous interpretations of relations. Moreover, they show some difficulties to prove that a given meta property is logically correct. In order to address these problems, we suggest a formal framework using a dependent (higher-order) type theory such as those used in program checking and theorem provers (e.g., Coq). All properties of part-whole relations are formalized through abstract constructs called parameterized specifications (p-specifications). We detail their content and explain how they are suitable to build an ontology of formal properties that can be further used for reasoning about higher-order properties.",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://univ-smb.hal.science/hal-00498191v1"
+      },
+      {
+        "hal_id": "1850086",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Towards a qualitative representation for specifying natural language. 2017 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (CIVEMSA), Jun 2017, Annecy, France. &#x27E8;10.1109/CIVEMSA.2017.7995299&#x27E9;. &#x27E8;hal-01850086&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2017",
+        "abstract": "—The imprecision of natural language such as X is before Y does not provide any information about the distance between X and Y. The human's way of reasoning often uses incomplete knowledge, and any formalization of natural language should be able to produce qualitative reasoning. For that purpose, we introduce a modeling for specifying cognitive geometry. More precisely, in this paper we tackle the problem of geometric reasoning using a formal representation that is built from an appropriate spatial theory which departs from classical geometry in many points. Instead of basic spatial entities of ordinary geometry such as points, lines and surfaces, we rather consider physical three-dimensional objects used to perceive space based on pointless geometry. Based on Tarski's mereogeometry of solids, we explain how the interpretation of mereogeometry within Lesniewski's framework of mereology leads to a coherent and simplified framework in which qualitative representations (e.g., solids, balls, concentricity, equidistance, etc.) can be expressed. I. INTRODUCTION The qualitative representation of information assumes that knowledge about spatial information is expressed with a finite set of qualitative relations. It has a wide number of applications in the fields of computer vision [16], geographic information system [25], autonomous robot navigation [23], natural language understanding [3] and the like. When quantitative descriptions are not available or computationally intractable, qualitative representations appear as fruitful substitutes. For example, a few set of primitives forms the basis of a rich spatial calculus (see e.g., [17]). Assessing situations require to specify relationships between objects of the domain. Then, it seems natural to represent qualitative information with relations. Many approaches in qualitative representation are based on mereological theories. Mereology which is the theory of parts and wholes assumes that the part-of relation is the fundamental primitive [19]. However, mereology by itself is not a sufficient theory to take in account topological relations. For that purpose, mereotopology has been introduced as a common theory for integrating both topology and mereology [8], [24]. As underlined in [10] there are many situations in which mereotopology itself is lacking e.g., direction and orientation relations, distances and sizes or even, shapes. To cope with such deficiencies, mereogeometry which builds on the earlier work of Tarski [21], extends mereology with geometric",
+        "keywords": "",
+        "domain": "0.info; 0.info; 1.info.info-lo; 0.info; 1.info.info-cg",
+        "url": "https://hal.science/hal-01850086v1"
+      },
+      {
+        "hal_id": "661381",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Using a dependently-typed language for Expressing ontologies. KSEM'2011, Dec 2011, Los Angeles, United States. pp.257-268, &#x27E8;10.1007/978-3-642-25975-3&#x27E9;. &#x27E8;hal-00661381&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2011",
+        "abstract": "Since the last decade the wide spread language for expressing ontologies relies on Description Logics (DLs). However, most of the versions syntactically anchor their modeling primitives on classical logic and require additional theories (i.e., first-order logic, ...) for simultaneously supporting (i) the introduction of constant values (e.g., for individuals) (ii) the limitation of expressiveness for decidability and (iii) the introduc- tion of variables for reasoning with rules. In this paper we show that the introduction of a type theoretical formalism that relies both on a constructive logic and on a typed lambda calculus is able to go beyond these aspects in a single theory. In particular we will show that a number of logical choices (constructive logic, predicative universes for data types, impredicative1 universe for logic, ...) about the theory will lead to an highly expressive theory which allows for the production of conceptually clean and semantically unambiguous ontologies.",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://hal.science/hal-00661381v1"
+      },
+      {
+        "hal_id": "1238709",
+        "citation": "Richard Dapoigny, Patrick Barlatier. A Coq-based Implementation of Tarski's Mereogeometry. COSIT'2015 - 12th International Conference on Spatial Information Theory, Oct 2015, Santa Fe, United States. pp.108-129, &#x27E8;10.1007/978-3-319-23374-1_6&#x27E9;. &#x27E8;hal-01238709&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2015",
+        "abstract": "During the last decade, the domain of Qualitative Spatial Reasoning, has known a renewal of interest for mereogeometry, a theory that has been initiated by Tarski. Mereogeometry relies on mereology, the Lesniewski's theory of parts and wholes that is further extended with geometrical primitives and appropriate definitions. However, most approaches (i) depart from the original Lesniewski's mereology which does not assume usual sets as a basis, (ii) restrict the logical power of mereology to a mere theory of part-whole relations and (iii) require the introduction of a connection relation. Moreover, the seminal paper of Tarki shows up unclear foundations and we argue that mereogeometry as it is introduced by Tarski, can be more suited to extend the whole theory of Lesniewski. For that purpose, we investigate a type-theoretical representation of space more closely related with the original ideas of Lesniewski and expressed with the Coq language. We show that (i) it can be given a more clear foundation, (ii) it can be based on three axioms instead of four and (iii) it can serve as a basis for spatial reasoning with full compliance with Lesniewski's systems.",
+        "keywords": "Mereology; Point; Solids; Coq; Mereogeometry; Balls",
+        "domain": "0.info; 1.info.info-ai; 0.math",
+        "url": "https://inria.hal.science/hal-01238709v1"
+      },
+      {
+        "hal_id": "498519",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Deriving behavior from goal structure for the intelligent control of physical systems. J.Filipe, J.L. Ferrier, J.A. Cetto and M. Carvalho. Informatics in Control, Automation and Robotics II, Springer, pp.51-58, 2007. &#x27E8;hal-00498519&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2007",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://univ-smb.hal.science/hal-00498519v1"
+      },
+      {
+        "hal_id": "748124",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Modeling Ontological Structures with Type Classes in Coq. ICCS 2013 (IOS Press), Jan 2013, Mumbai, India. &#x27E8;hal-00748124&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2013",
+        "abstract": "In the domain of ontology design as well as in Conceptual Modeling, representing universals is a challenging problem. Most approaches which have addressed this problem rely either on Description Logics (DLs) or on First Order Logic (FOL), but many difficulties remain especially about expressiveness. In mathematical logic and program checking, type theories have proved to be appealing but so far, they have not been applied in the formalization of ontologies. To bridge this gap, we present here the main capabilities of a theory for representing ontological structures in a dependently-typed framework which relies both on a constructive logic and on a functional type system. The usability of the theory is demonstrated with the Coq language which defines in a precise way what ontological primitives such as classes, relations, properties and meta-properties, are in terms of type classes.",
+        "keywords": "Ontological structures; Type classes; Coq; Inheritance; Reasoning",
+        "domain": "0.scco; 1.scco.comp",
+        "url": "https://hal.science/hal-00748124v1"
+      },
+      {
+        "hal_id": "4267609",
+        "citation": "Patrick Barlatier, Richard Dapoigny. A Monadic Second-Order Version of Tarski's Geometry of Solids. Logic and Logical Philosophy, In press. &#x27E8;hal-04267609&#x27E9;",
+        "authors": "Patrick Barlatier; Richard Dapoigny",
+        "year": "2023",
+        "abstract": "In this paper, we are concerned with the development of a general set theory using the single axiom version of Leśniewski’s mereology. The specification of mereology, and further of Tarski’s geometry of solids will rely on the Calculus of Inductive Constructions (CIC). In the first, part we provide a specification of Leśniewski’s mereology as a model for an atomless Boolean algebra using Clay’s ideas. In the second part, we interpret Leśniewski’s mereology in monadic second-order logic using namesa nd develop a full version of mereology referred to as CIC-based Monadic Mereology (λ-MM) allowing an expressive theory while involving only two axioms. In the third part, we propose a modeling of Tarski’s geometry of solids relying on λ-MM. It is intended to serve as a basis for spatial reasoning. All parts have been proved using a translation in type theory.",
+        "keywords": "Type theory; Theorem prover; Calculus of inductive constructions; Geometry of solids; Monadic second-order logic; Mereology",
+        "domain": "0.info; 0.math",
+        "url": "https://hal.science/hal-04267609v1"
+      },
+      {
+        "hal_id": "678354",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Formal Foundations for Situation Awareness based on Dependent Type Theory. Information Fusion, 2013, 14 (1), pp. 87-107. &#x27E8;10.1016/j.inffus.2012.02.006&#x27E9;. &#x27E8;hal-00678354&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2013",
+        "abstract": "Cognitive situation awareness has recently caught the attention of the information fusion community. Some approaches have developed formalizations that are both ontology-based and underpinned with Situation Theory. While the semantics of Situation Theory is very attractive from the cognitive point of view, the languages that are used to express knowledge and to reason with suffer from a number of limitations concerning both expressiveness and reasoning capabilities. In this paper we propose a more general formal foundation denoted S-DTT (Situation-based Dependent Type Theory) that is expressed with the language of the Extended Calculus of Constructions (ECC), a widely used theory in mathematical formalization and in software validation. Situation awareness relies on small blocks of knowledge called situation fragment types whose composition leads to a very expressive and unifying theory. The semantic part is provided by an ontology that is rooted in the S-DTT theory and, on which higher-order reasoning can be performed. The basis of the theory is summarized and its expressing power is illustrated with numerous examples. A scenario in the healthcare context for patient safety issues is detailed and a comparison with well-known approaches is discussed.",
+        "keywords": "Situation Awareness; Ontologies; Dependent types; Aggregation; Subsumption; Type inhabitation",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://univ-smb.hal.science/hal-00678354v1"
+      },
+      {
+        "hal_id": "498260",
+        "citation": "Richard Dapoigny, Patrick Brézillon. Special Issue on Learning and Modeling in Intelligent Applications. Applied Intelligence, 31, pp.211-362, 2009. &#x27E8;hal-00498260&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Brézillon",
+        "year": "2009",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://univ-smb.hal.science/hal-00498260v1"
+      },
+      {
+        "hal_id": "547613",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Modeling Contexts with Dependent Types. Fundamenta Mathematicae, 2010, 104 (4), pp. 293-327. &#x27E8;10.3233/FI-2010-351&#x27E9;. &#x27E8;hal-00547613&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2010",
+        "abstract": "In the area of knowledge representation, a challenging topic is the formalization of context knowledge on the basis of logical foundations and ontological semantics. However, most attempts to provide a formal model of contexts suffer from a number of difficulties, such as limited expressiveness of representation, restricted variable quantification, lack of (meta) reasoning about properties, etc. In addition, type theory originally developed for formal modeling of mathematics has also been successfully applied to the correct specification of programs and in the semantics of natural language. In this paper, we suggest a type theoretical approach to the problem of context and action modeling. Type theory is used both for representing the system's knowledge of the discourse domain and for reasoning about it. For that purpose, we extend an existing dependent type theory having nice properties, with context-based rules and appropriate inductive types. We claim that the resulting theory exploiting the power of dependent types is able to provide a very expressive system together with a unified theory allowing higher-order reasoning.",
+        "keywords": "Context; Action; Type Theory; Dependent Types; Subtyping; Subsumption; Partonomies",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://hal.science/hal-00547613v1"
+      },
+      {
+        "hal_id": "732371",
+        "citation": "Patrick Barlatier, Richard Dapoigny. A Type-theoretical approach for ontologies: the case of roles. Applied Ontology, 2012, 7 (3), pp.311-356. &#x27E8;10.3233/AO-2012-0113&#x27E9;. &#x27E8;hal-00732371&#x27E9;",
+        "authors": "Patrick Barlatier; Richard Dapoigny",
+        "year": "2012",
+        "abstract": "In the domain of ontology design as well as in Knowledge Representation, modeling universals is a challenging problem. Most approaches that have addressed this problem rely on Description Logics (DLs) but many difficulties remain, due to under-constrained representation which reduces the inferences that can be drawn and further causes problems in expressiveness. In mathematical logic and program checking, type theories have proved to be appealing but, so far they have not been applied in the formalization of ontologies. To bridge this gap, we present in this paper a theory for representing ontologies in a dependently-typed framework which relies on strong formal foundations including both a constructive logic and a functional type system. The language of this theory defines in a precise way what ontological primitives such as classes, relations, properties, etc., and thereof roles, are. The first part of the paper details how these primitives are defined and used within the theory. In a second part, we focus on the formalization of the role primitive. A review of significant role properties leads to the specification of a role profile and most of the remaining work details through numerous examples, how the proposed theory is able to fully satisfy this profile. It is demonstrated that dependent types can model several non-trivial aspects of roles including a formal solution for generalization hierarchies, identity criteria for roles and other contributions. A discussion is given on how the theory is able to cope with many of the constraints inherent in a good role representation.",
+        "keywords": "Ontology; Dependent types; Categories; Relation type; Role type; Context; Subsumption; Generalization hierarchies",
+        "domain": "0.info; 1.info.info-ai; 0.info; 1.info.info-lo; 0.info; 1.info.info-ds",
+        "url": "https://hal.science/hal-00732371v1"
+      },
+      {
+        "hal_id": "498189",
+        "citation": "Richard Dapoigny, Barlatier Patrick. Vers un modèle formel pour le raisonnement à partir des contextes. Revue des Sciences et Technologies de l'Information - Série RIA : Revue d'Intelligence Artificielle, 2008, 22 (6), pp.697-723. &#x27E8;10.3166/ria.22.725-755&#x27E9;. &#x27E8;hal-00498189&#x27E9;",
+        "authors": "Richard Dapoigny; Barlatier Patrick",
+        "year": "2008",
+        "abstract": "Ces dix dernières années de nombreuses recherches dans le domaine des contextes furent menées, cependant, peu d'entre elles utilisèrent la logique comme sémantique. Dans cet article, nous abordons ce problème en utilisant une théorie constructive des types comme support pour la modélisation des contextes. Nous décrivons un outil théorique formé à partir de la théorie intuitionniste des types. Cette théorie est étendue par les enregistrements à types dépendants - DTR - qui permettent la représentation de connaissances partielles et le raisonnement sur des données évolutives.",
+        "keywords": "Théorie constructive des types; Intuitionnisme; Enregistrements à types dépendants; Sous-typage; Causalité; Vérification de types; Ontologies de domaine",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://univ-smb.hal.science/hal-00498189v1"
+      },
+      {
+        "hal_id": "498532",
+        "citation": "Richard Dapoigny, Patrick Barlatier. Towards a Context Theory for Context-aware systems, Advances in Ambient Intelligence. J.C. Augusto and D. Shapiro. Frontiers in Artificial Intelligence and Applications, IOS Press The Netherlands, pp.36-55, 2007. &#x27E8;hal-00498532&#x27E9;",
+        "authors": "Richard Dapoigny; Patrick Barlatier",
+        "year": "2007",
+        "abstract": "The basic goal of context-aware systems is to make software aware of the environment and to adapt to their changing context. For that purpose, the core problem is to have a powerful context model. While significative formalizations have been proposed, context models are either expressed through logical formalisms or with ontology-based approaches. The major problem with all that approaches is that they suffer from the chronic insufficiency of first-order logic to cope with dynamic change and especially, to solve the frame problem. Therefore, building context-aware software is a complex task due to a lack of appropriate formal models in dynamic environments. In this paper, we propose a model which combines the strengths of both approaches while trying not to carry their specific weaknesses into the resulting formal framework. For this purpose, the formal model relies both on a knowledge representation with ontologies and on a logical reasoning with Dependent Record Types (DRT) based on Intuitionistic Type Theory and the Curry-Howard isomorphism. This logic modelling aims to be applied to any kind of process-based applications.",
+        "keywords": "Contexts-Aware; Dependent Record Types; Intuitionistic Type Theory; Ontology",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://univ-smb.hal.science/hal-00498532v1"
+      },
+      {
+        "hal_id": "4470647",
+        "citation": "Patrick Barlatier, Richard Dapoigny. A Monadic Second-Order Version of Tarski’s Geometry of Solids. Logic and Logical Philosophy, 2023, 33 (1), pp.55-99. &#x27E8;10.12775/LLP.2023.019&#x27E9;. &#x27E8;hal-04470647&#x27E9;",
+        "authors": "Patrick Barlatier; Richard Dapoigny",
+        "year": "2023",
+        "abstract": "In this paper, we are concerned with the development of a general set theory using the single axiom version of Leśniewski’s mereology. The specification of mereology, and further of Tarski’s geometry of solids will rely on the Calculus of Inductive Constructions (CIC). In the first part, we provide a specification of Leśniewski’s mereology as a model for an atomless Boolean algebra using Clay’s ideas. In the second part, we interpret Leśniewski’s mereology in monadic second-order logic using names and develop a full version of mereology referred to as CIC-based Monadic Mereology (λ-MM) allowing an expressive theory while involving only two axioms. In the third part, we propose a modeling of Tarski’s solid geometry relying on λ-MM. It is intended to serve as a basis for spatial reasoning. All parts have been proved using a translation in type theory.",
+        "keywords": "Mereology; Monadic second-order logic; Geometry of solids; Calculus of inductive constructions; Theorem prover; Type theory; Mereology monadic second-order logic geometry of solids calculus of inductive constructions theorem prover type theory; Mereology",
+        "domain": "0.info; 1.info.info-ai; 0.math",
+        "url": "https://hal.science/hal-04470647v1"
+      },
+      {
+        "hal_id": "689411",
+        "citation": "Christian Cote, Richard Dapoigny, Caroline Wintergerst. Enhancing Publication Description with Resources Metadata. The 25th International Florida Artificial Intelligence Research Society Conference.FLAIRS-25, May 2012, United States. pp.277-282. &#x27E8;hal-00689411&#x27E9;",
+        "authors": "Christian Cote; Richard Dapoigny; Caroline Wintergerst",
+        "year": "2012",
+        "abstract": "In this paper, we suggest to increase the quality and the precision of a document description using publication's context description. Today, a lot of linguistic resources are both available on line and described by specific metadata. We first integrate them into an ontology which describes how linguists consider their primary data and tools. Then, we add to this ontology an inference system based on the information flow theory in order to establish causal relations between heterogeneous data. The result of the inference is characterized by a small set of properties which are embedded into three sequences of metadata enhancing the usual metadata describing publications.",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://hal.science/hal-00689411v1"
+      },
+      {
+        "hal_id": "1384950",
+        "citation": "Meriem Hafsi, Richard Dapoigny, Philippe Bolon. Détection automatique de canalisations enterrées par raisonnement sur des ontologies de domaine alimentées par des connaissances issues de mesures vibro- acoustiques. 6èmes Journées Francophones sur les Ontologies JFO 2016, Oct 2016, Bordeaux, France. &#x27E8;hal-01384950&#x27E9;",
+        "authors": "Meriem Hafsi; Richard Dapoigny; Philippe Bolon",
+        "year": "2016",
+        "abstract": "L’objectif du présent article est la détection automatique des canalisations de gaz, par la méthode gaz tracker, basée sur des ontologies et des règles de raisonnement spatial. Les ontologies de domaine utilisées ici décrivent l’environnement dans lequel les canalisations sont enterrées, leurs matériaux, les produits transportés et les techniques de détection. Des bases de règles sont utilisées à différents niveaux du processus pour le calcul du niveau de confiance de chaque détection. Enfin, nous proposons une méthode de raisonnement pour la détection finale de la canalisation incluant des niveaux de confiance., The purpose of this paper is the automatic detection of gas pipes by the gas tracker method, by using ontologies and spatial reasoning. Domain ontologies describe the environment in which pipelines are buried, their materials, products carried and detection methods. Reasoning rule bases are used at different levels of the process to calculate a confidence level for each detection. The final pipe detection is performed by a spatial reasoning method including confidence evaluation.",
+        "keywords": "Raisonnement; Vibro-acoustique; Gaz Tracker; Détection de canalisations; Ontologie; Représentation des connaissances",
+        "domain": "0.info; 1.info.info-ai; 0.info; 1.info.info-lo; 0.info; 1.info.info-fl",
+        "url": "https://hal.science/hal-01384950v1"
+      },
+      {
+        "hal_id": "1225218",
+        "citation": "Meriem Hafsi, Richard Dapoigny, Philippe Bolon. Toward a Type-Theoretical Approach for an Ontologically-Based Detection of Underground Networks. Knowledge Science, Engineering and Management, Oct 2015, Chongqing, China. pp.90-101, &#x27E8;10.1007/978-3-319-25159-2&#x27E9;. &#x27E8;hal-01225218&#x27E9;",
+        "authors": "Meriem Hafsi; Richard Dapoigny; Philippe Bolon",
+        "year": "2015",
+        "abstract": "In this article, we present a new approach with the purpose of providing a Knowledge-based system able to solve the problem of reliable detection of underground networks by optimization of the existing methods. The method must be able to provide an accurate geo-detection of underground networks regardless of their material, their purpose or even the composition of the soil in which they are buried. We investigate an approach based on knowledge reasoning using ontologies. We show that OWL-DL/SWRL suffers from a lack of expressiveness and that to overcome their limitations regarding the representation and reasoning, we propose a new approach using the proof system Coq for the formalization of knowledge and reasoning. We show on a case study the strengths and limitations of this proposal.",
+        "keywords": "Proof search; Type theory; Underground networks detection; Knowledge reasoning; Ontology; Knowledge representation",
+        "domain": "0.info; 1.info.info-ai; 0.info; 1.info.info-lo; 0.info; 1.info.info-fl",
+        "url": "https://hal.science/hal-01225218v1"
+      },
+      {
+        "hal_id": "2068406",
+        "citation": "Nacima Mellal, Richard Dapoigny, Laurent Foulloy. Semantic Interoperability between Functional Ontologies. Databases and Information Systems {IV} - Selected Papers from the Seventh International Baltic Conference, DB{\\&}IS 2006, July 3-6, 2006, Vilnius, Lithuania, 155, IOS Press, pp.277-290, 2006, Frontiers in Artificial Intelligence and Applications, 978-1-58603-715-4. &#x27E8;hal-02068406&#x27E9;",
+        "authors": "Nacima Mellal; Richard Dapoigny; Laurent Foulloy",
+        "year": "2006",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-02068406v1"
+      },
+      {
+        "hal_id": "1096189",
+        "citation": "Patrick Brézillon, Patrick Blackburn, Richard Dapoigny. Modeling and Using Context. 8175, Springer, 2013, Lecture Notes in Artificial Intelligence. &#x27E8;hal-01096189&#x27E9;",
+        "authors": "Patrick Brézillon; Patrick Blackburn; Richard Dapoigny",
+        "year": "2013",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://hal.science/hal-01096189v1"
+      },
+      {
+        "hal_id": "2068420",
+        "citation": "Richard Dapoigny, Eric Benoit, Laurent Foulloy. Agent-Based Implementation on Intelligent Instruments. 16th International Conference on Industrial and Engineering Applications of Artificial Intelligence and Expert Systems, 2718, Springer Berlin Heidelberg, pp.505-515, 2003, Lecture Notes in Computer Science, &#x27E8;10.1007/3-540-45034-3_51&#x27E9;. &#x27E8;hal-02068420&#x27E9;",
+        "authors": "Richard Dapoigny; Eric Benoit; Laurent Foulloy",
+        "year": "2003",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-02068420v1"
+      },
+      {
+        "hal_id": "377912",
+        "citation": "Eric Benoit, Richard Dapoigny, Laurent Foulloy. Fuzzy-Based Intelligent Sensors: Modeling, Design, Application. 8th IEEE Int. Conf. on Emerging Technologies and Factory Automation, Oct 2001, Juan les Pins, France. pp.401-407, &#x27E8;10.1109/ETFA.2001.997712&#x27E9;. &#x27E8;hal-00377912&#x27E9;",
+        "authors": "Eric Benoit; Richard Dapoigny; Laurent Foulloy",
+        "year": "2001",
+        "abstract": "This paper presents a modeling of intelligent sensors based on a representation of the sensor by services it uses or it proposes, and by its USer Operating Modes (USOMs). This modeling is used for the definition of the reactive layer of distributed agent based intelligent sensors. Our area of interest is the agent-level layer in which the concept of IIC (Intelligent Instrument Cluster) is defined. An application that uses fuzzy-based intelligent sensors is presented in order to illustrate the concepts.",
+        "keywords": "Fuzzy subset; Intelligent sensor; Fuzzy sensor",
+        "domain": "0.phys; 1.phys.phys; 2.phys.phys.phys-ins-det; 0.scco; 1.scco.comp",
+        "url": "https://hal.science/hal-00377912v1"
+      },
+      {
+        "hal_id": "1684125",
+        "citation": "Meriem Hafsi, Philippe Bolon, Richard Dapoigny. Detection and Localization of Underground Networks by Fusion of Electromagnetic Signal and GPR Images. 13th International Conference on Quality Control by Artificial Vision 2017, May 2017, Tokyo, Japan. &#x27E8;hal-01684125&#x27E9;",
+        "authors": "Meriem Hafsi; Philippe Bolon; Richard Dapoigny",
+        "year": "2017",
+        "abstract": "In this paper, we purpose a new approach to the post-processing of multi-sensor detection based on knowledge representation and data fusion provided by several technologies. The aim is to improve the detection and localization of underground networks. This work is part of the G4M project, leaded by ENGIE LAB CRIGEN, the objective of which is the design of a versatile device for a reliable detection and localization of underground networks. The objective of this work, which is at the core of the G4M project, focuses on the validity of current detection methods, to optimize the process of detection using these methods and to establish a 3D map of subsoil networks.",
+        "keywords": "EM detection; GPR; Detection of underground networks; Knowledge representation; Data fusion",
+        "domain": "0.info; 1.info.info-ai; 0.info; 1.info.info-lo; 0.info; 1.info.info-fl; 0.info; 1.info.info-et; 0.info; 1.info.info-ts",
+        "url": "https://hal.science/hal-01684125v1"
+      },
+      {
+        "hal_id": "2068405",
+        "citation": "Nacima Mellal, Richard Dapoigny, Laurent Foulloy. The Fusion Process of Goal Ontologies using Intelligent Agents in Distributed Systerns. 2006 3rd International IEEE Conference Intelligent Systems, Sep 2006, London, France. pp.42-47, &#x27E8;10.1109/IS.2006.348391&#x27E9;. &#x27E8;hal-02068405&#x27E9;",
+        "authors": "Nacima Mellal; Richard Dapoigny; Laurent Foulloy",
+        "year": "2006",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-02068405v1"
+      },
+      {
+        "hal_id": "2068302",
+        "citation": "Nacima Mellal, Richard Dapoigny, Patrick Barlatier, Laurent Foulloy. Modeling and Multi-agent Specification of IF-Based Distributed Goal Ontologies. Advances in Applied Artificial Intelligence, Lecture Notes in Computer Science (4031), Springer, pp.14-23, 2006, &#x27E8;10.1007/11779568_4&#x27E9;. &#x27E8;hal-02068302&#x27E9;",
+        "authors": "Nacima Mellal; Richard Dapoigny; Patrick Barlatier; Laurent Foulloy",
+        "year": "2006",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-02068302v1"
+      },
+      {
+        "hal_id": "724281",
+        "citation": "Richard Dapoigny, Nacima Mellal, Eric Benoit, Laurent Foulloy. Service integration in distributed control systems: an approach based on fusion of mereologies. IEEE Conf. on Cybernetics and Intelligent Systems, Dec 2004, Singapour, Singapore. pp.1282-1287, &#x27E8;10.1109/ICCIS.2004.1460776&#x27E9;. &#x27E8;hal-00724281&#x27E9;",
+        "authors": "Richard Dapoigny; Nacima Mellal; Eric Benoit; Laurent Foulloy",
+        "year": "2004",
+        "abstract": "The objective of the present paper is to provide a methodology where the functional characteristics of a distributed engineering system can be obtained by merging domaindependent knowledge at run-time. We focus on distributed control systems where computing nodes are related to the physical environment in which they operate via sensors/actuators. The knowledge representation is formally expressed with a mereological approach where a structural mereology describes the physical environment and a functional mereology identifies available engineering goals for each computing node. During the design step, a mechanism based on Formal Concept Analysis (FCA) allows to generate the resulting goal mereology. The concept of goal is refined with sub-concepts in the multilevel structure. Because computing nodes depend on each other for goals to be achieved, an agent-based method is proposed to establish dynamically the dependencies among distributed nodes. This method is centered on a fusion mechanism involving the functional mereologies of appropriate nodes. We use an example from an open-channel hydraulic system controlling the water level to motivate and illustrate the model. Although it is limited to the engineering systems, this approach can be reused in related domains where the goal representation can be expressed as a triple including an action, a role and a physical entity.",
+        "keywords": "Mereology; Intelligent sensor; Distributed computing",
+        "domain": "0.phys; 1.phys.phys; 2.phys.phys.phys-ins-det; 0.scco; 1.scco.comp",
+        "url": "https://hal.science/hal-00724281v1"
+      }
+    ],
+    "publication_count": 27,
+    "all_authors": [
+      "Richard Dapoigny; Barlatier Patrick",
+      "Eric Benoit; Richard Dapoigny; Laurent Foulloy",
+      "Patrick Brézillon; Patrick Blackburn; Richard Dapoigny",
+      "Richard Dapoigny; Eric Benoit; Laurent Foulloy",
+      "Richard Dapoigny; Patrick Barlatier",
+      "Christian Cote; Richard Dapoigny; Caroline Wintergerst",
+      "Nacima Mellal; Richard Dapoigny; Laurent Foulloy",
+      "Patrick Barlatier; Richard Dapoigny",
+      "Richard Dapoigny; Nacima Mellal; Eric Benoit; Laurent Foulloy",
+      "Meriem Hafsi; Richard Dapoigny; Philippe Bolon",
+      "Nacima Mellal; Richard Dapoigny; Patrick Barlatier; Laurent Foulloy",
+      "Richard Dapoigny; Patrick Brézillon",
+      "Meriem Hafsi; Philippe Bolon; Richard Dapoigny"
+    ],
+    "years": [
+      "2001",
+      "2003",
+      "2004",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2015",
+      "2016",
+      "2017",
+      "2023"
+    ],
+    "keywords": [
+      "",
+      "Dependent types",
+      "Partonomies",
+      "Relation type",
+      "Role type",
+      "Intuitionnisme",
+      "Détection de canalisations",
+      "Proof search",
+      "Reasoning",
+      "Knowledge representation",
+      "Detection of underground networks",
+      "Subsumption",
+      "Inheritance",
+      "Causalité",
+      "Contexts-Aware",
+      "Représentation des connaissances",
+      "Ontologie",
+      "Gaz Tracker",
+      "Subtyping",
+      "Knowledge reasoning",
+      "Solids",
+      "Ontology",
+      "Type inhabitation",
+      "Intelligent sensor",
+      "Raisonnement",
+      "Situation Awareness",
+      "Theorem prover",
+      "Enregistrements à types dépendants",
+      "Fuzzy subset",
+      "Fuzzy sensor",
+      "Data fusion",
+      "Action",
+      "Dependent Types",
+      "Vérification de types",
+      "Calculus of inductive constructions",
+      "Mereogeometry",
+      "EM detection",
+      "Monadic second-order logic",
+      "Type theory",
+      "Théorie constructive des types",
+      "Ontological structures",
+      "Distributed computing",
+      "Aggregation",
+      "Underground networks detection",
+      "Point",
+      "Mereology monadic second-order logic geometry of solids calculus of inductive constructions theorem prover type theory",
+      "Categories",
+      "Type Theory",
+      "Ontologies de domaine",
+      "Coq",
+      "Context",
+      "Ontologies",
+      "GPR",
+      "Balls",
+      "Vibro-acoustique",
+      "Sous-typage",
+      "Mereology",
+      "Generalization hierarchies",
+      "Intuitionistic Type Theory",
+      "Geometry of solids",
+      "Type classes",
+      "Dependent Record Types"
+    ],
+    "domains": [
+      "0.info",
+      "1.info.info-ds",
+      "1.info.info-ts",
+      "1.info.info-ai",
+      "1.info.info-lo",
+      "0.phys",
+      "1.info.info-fl",
+      "2.phys.phys.phys-ins-det",
+      "0.scco",
+      "1.phys.phys",
+      "0.math",
+      "1.scco.comp",
+      "1.info.info-cg",
+      "1.info.info-et"
+    ],
+    "last_updated": "2025-11-07T10:39:05.911614"
+  },
+  "last_hal_update": "2025-11-07T10:39:05.911968",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/24/1348.html?q=Richard+Dapoigny",
+    "publications": [
+      {
+        "title": "Towards a qualitative representation for specifying natural language.",
+        "coauthors": []
+      },
+      {
+        "title": "Detection and localization of underground networks by fusion of electromagnetic signal and GPR images.",
+        "coauthors": []
+      },
+      {
+        "title": "A Coq-Based Axiomatization of Tarski's Mereogeometry.",
+        "coauthors": []
+      },
+      {
+        "title": "Toward a Type-Theoretical Approach for an Ontologically-Based Detection of Underground Networks.",
+        "coauthors": []
+      },
+      {
+        "title": "Specifying Well-Formed Part-Whole Relations in Coq.",
+        "coauthors": []
+      },
+      {
+        "title": "Formalizing Context for Domain Ontologies in Coq.",
+        "coauthors": []
+      },
+      {
+        "title": "Formal foundations for situation awareness based on dependent type theory.",
+        "coauthors": []
+      },
+      {
+        "title": "A Typed Approach for Contextualizing the Part-Whole Relation.",
+        "coauthors": []
+      },
+      {
+        "title": "Modeling Ontological Structures with Type Classes in Coq.",
+        "coauthors": []
+      },
+      {
+        "title": "Modeling and Using Context - 8th International and Interdisciplinary Conference, CONTEXT 2013, Annecy, France, October 28 -31, 2013, Proceedings.",
+        "coauthors": []
+      },
+      {
+        "title": "A type-theoretical approach for ontologies: The case of roles.",
+        "coauthors": []
+      },
+      {
+        "title": "Enhancing Publication Description with Resources Metadata.",
+        "coauthors": []
+      },
+      {
+        "title": "Using a Dependently-Typed Language for Expressing Ontologies.",
+        "coauthors": []
+      },
+      {
+        "title": "Modeling Contexts with Dependent Types.",
+        "coauthors": []
+      },
+      {
+        "title": "Towards Ontological Correctness of Part-whole Relations with Dependent Types.",
+        "coauthors": []
+      },
+      {
+        "title": "Towards an Ontological Modeling with Dependent Types: Application to Part-Whole Relations.",
+        "coauthors": []
+      },
+      {
+        "title": "Special Track on Semantics, Ontologies, and Computational Linguistics.",
+        "coauthors": []
+      },
+      {
+        "title": "Reasoning about Relations with Dependent Types: Application to Context-Aware Applications.",
+        "coauthors": []
+      },
+      {
+        "title": "Vers un modèle formel pour le raisonnement à partir des contextes.",
+        "coauthors": []
+      },
+      {
+        "title": "Causal Reasoning with Contexts Using Dependent Types.",
+        "coauthors": []
+      },
+      {
+        "title": "Towards a Conceptual Structure based on Type Theory.",
+        "coauthors": []
+      },
+      {
+        "title": "A Theorem Prover with Dependent Types for Reasoning about Actions.",
+        "coauthors": []
+      },
+      {
+        "title": "Formal Method for Aligning Goal Ontologies.",
+        "coauthors": []
+      },
+      {
+        "title": "Service Retrieval for Distributed Environment: An Approach Based Service-Ontologies Mapping.",
+        "coauthors": []
+      },
+      {
+        "title": "Goal Reasoning with Context Record Types.",
+        "coauthors": []
+      },
+      {
+        "title": "Using Contexts to Prove and Share Situations.",
+        "coauthors": []
+      },
+      {
+        "title": "Formal Method for Automatic and Semantic Mapping of Distributed Service-Ontologies.",
+        "coauthors": []
+      },
+      {
+        "title": "Towards a Context Theory for Context-aware systems.",
+        "coauthors": []
+      },
+      {
+        "title": "Semantic Interoperability between Functional Ontologies.",
+        "coauthors": []
+      },
+      {
+        "title": "Modeling and Multi-agent Specification of IF-Based Distributed Goal Ontologies.",
+        "coauthors": []
+      },
+      {
+        "title": "Dependent Record Types for Dynamic Context Representation.",
+        "coauthors": []
+      },
+      {
+        "title": "Advances in Applied Artificial Intelligence, 19th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, IEA/AIE 2006, Annecy, France, June 27-30, 2006, Proceedings.",
+        "coauthors": []
+      },
+      {
+        "title": "deriving behavior from goal structure for the intelligent control of physical systems.",
+        "coauthors": []
+      },
+      {
+        "title": "Formal Goal Generation for Intelligent Control Systems.",
+        "coauthors": []
+      },
+      {
+        "title": "Inferential Knowledge Sharing with Goal Hierarchies in Distributed Engineering Systems.",
+        "coauthors": []
+      },
+      {
+        "title": "A Functional and Behavioral Knowledge-based Implementation for Intelligent Sensors/Actuators.",
+        "coauthors": []
+      },
+      {
+        "title": "Agent-Based Implementation on Intelligent Instruments.",
+        "coauthors": []
+      },
+      {
+        "title": "Functional Ontology for Intelligent Instruments.",
+        "coauthors": []
+      },
+      {
+        "title": "Fuzzy-based intelligent sensors: modeling, design, application.",
+        "coauthors": []
+      },
+      {
+        "title": "Pretopological Transformations of Binary Images: A Parallel Implementation.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:18.250010",
+    "publication_count": 40
+  },
+  "last_dblp_update": "2025-11-07T10:42:18.527309"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8ae"
+  },
+  "name": "Patrice MOREAUX",
+  "_unique_id": "44bb39e5a95bbda52d0eeed2e5e4c705",
+  "category": "collaborateurs_benevoles",
+  "last_updated": "2025-11-07T09:22:10.402385",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "441928",
+        "citation": "Serge Haddad, Patrice Moreaux. Stochastic Well-formed Petri Nets. M. Diaz. Petri Nets: Fundamental Models, Verification and Applications, Wiley-ISTE, pp.303-320, 2009. &#x27E8;hal-00441928&#x27E9;",
+        "authors": "Serge Haddad; Patrice Moreaux",
+        "year": "2009",
+        "abstract": "Non disponible",
+        "keywords": "Petri nets; Markov chain; Stochastic strong aggregation; Performances",
+        "domain": "0.info; 1.info.info-mo",
+        "url": "https://univ-smb.hal.science/hal-00441928v1"
+      },
+      {
+        "hal_id": "442015",
+        "citation": "Serge Haddad, Patrice Moreaux. Tensor Methods and Stochastic Petri Nets. M. Diaz. Petri Nets: Fundamental Models, Verification and Applications, Wiley-ISTE, pp.321-346, 2009. &#x27E8;hal-00442015&#x27E9;",
+        "authors": "Serge Haddad; Patrice Moreaux",
+        "year": "2009",
+        "abstract": "Non disponible",
+        "keywords": "Petri nets; Synchronization; Markov chain; Kronecker product",
+        "domain": "0.info; 1.info.info-mo",
+        "url": "https://univ-smb.hal.science/hal-00442015v1"
+      },
+      {
+        "hal_id": "329562",
+        "citation": "Serge Haddad, Patrice Moreaux. Verification of probabilistic systems - Methods and tools. S. Merz and N. Navet. Modeling and Verification of Real-Time Systems, ISTE - John Wiley & Sons, pp.289-318, 2008. &#x27E8;hal-00329562&#x27E9;",
+        "authors": "Serge Haddad; Patrice Moreaux",
+        "year": "2008",
+        "abstract": "Historically, functional verification and performance evaluation have been two distinct stages in the development of applications. Each one had its own models and methods. For 15 years, numerous works covered both areas. These works are now referred to as probabilistic verification or, more accurately, by verification of probabilistic systems. This direction of research is prompted by the new needs of the modelers. They wish, for instance, to compute the probability that a property expressed as some logical formula is satisfied. They also wish to analyze a system including both non-deterministic and probabilistic features. The goal of this chapter is to introduce three important topics related to this research: - the definition of high level stochastic models; - the verification of Markov chains (MC); -the verification of Markov decision processes (MDP). We will always follow the same organization for these topics: - the detailed presentation of one approach, - an overview of the other approaches, - the description of an analysis tool related to this topic.",
+        "keywords": "Temporal logic; Stochastic Discrete Event Systems; Performance evaluation; Temporal logic",
+        "domain": "0.scco; 1.scco.comp; 0.info; 1.info.info-pf; 0.info; 1.info.info-mo",
+        "url": "https://hal.science/hal-00329562v1"
+      },
+      {
+        "hal_id": "441922",
+        "citation": "Serge Haddad, Patrice Moreaux. Stochastic Petri Nets. M. Diaz. Petri Nets: Fundamental Models, Verification and Applications, Wiley-ISTE, pp.269-302, 2009. &#x27E8;hal-00441922&#x27E9;",
+        "authors": "Serge Haddad; Patrice Moreaux",
+        "year": "2009",
+        "abstract": "Non disponible",
+        "keywords": "Petri Net; Markov chain; Stochastic process; Performances",
+        "domain": "0.info; 1.info.info-mo",
+        "url": "https://univ-smb.hal.science/hal-00441922v1"
+      },
+      {
+        "hal_id": "4560553",
+        "citation": "Patrice Moreaux, Fabien Sartor, Flavien Vernier. An Effective Approach for Home Services Management. Parallel, Distributed and Network-Based Processing (PDP), 2012 20th Euromicro International Conference on, Feb 2012, Garching, Germany. pp.47-51, &#x27E8;10.1109/PDP.2012.45&#x27E9;. &#x27E8;hal-00994913&#x27E9;",
+        "authors": "Patrice Moreaux; Fabien Sartor; Flavien Vernier",
+        "year": "2012",
+        "abstract": "Domotic systems aim to offer functionalities like energy management, security, conveniences, and much more. Many domotic networks exist to provide a subset of these applications, but these networks are not necessarily compatible due to different communication mediums or protocols. Literature presents different studies that introduce high-level systems that solve the lack of incompatibility, but it does not explore how to create a network behavior. This paper concentrates on studying how to model the unit behaviors of home devices and a global behavior of a network of these devices: the automated living area. The global behavior is set-up with rules and constraints. The behaviors are modeled with an extended automaton input-output symbolic transition systems. To finish this paper, a use case shows the interest of building global behavior with unit behaviors.",
+        "keywords": "Context modeling; Transient analysis; Protocols; Electrocardiography; Extended automaton input-output symbolic transition systems; Energy management systems; Home automation; Home networks; Security; Automated living area; Communication mediums; Domotic networks; Domotic systems; Energy management; Global behavior; High-level systems; Home devices; Home services management; Network behavior; Unit behaviors; Automata; Barium; Context",
+        "domain": "0.info; 1.info.info-dc",
+        "url": "https://univ-smb.hal.science/hal-00994913v1"
+      },
+      {
+        "hal_id": "4044728",
+        "citation": "Serge Haddad, Lynda Mokdad, Patrice Moreaux. A New Approach to the Evaluation of Non Markovian Stochastic Petri Nets. 27th International Conference on Application and Theory of Petri Nets and Other Models of Councurrency (ATPN'06), Jun 2006, TURKU, Finland. pp.221-240, &#x27E8;10.1007/11767589_13&#x27E9;. &#x27E8;hal-04044728&#x27E9;",
+        "authors": "Serge Haddad; Lynda Mokdad; Patrice Moreaux",
+        "year": "2006",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info",
+        "url": "https://hal.u-pec.fr/hal-04044728v1"
+      },
+      {
+        "hal_id": "1002672",
+        "citation": "Ge Li, Frédéric Pourraz, Patrice Moreaux. PSLA: a PaaS Level SLA Description Language. IEEE 3rd Int. Workshop on Cloud Computing Interclouds, Multiclouds, Federations, and Interoperability (Intercloud 2014), Mar 2014, Boston, United States. &#x27E8;10.1109/IC2E.2014.29&#x27E9;. &#x27E8;hal-01002672&#x27E9;",
+        "authors": "Ge Li; Frédéric Pourraz; Patrice Moreaux",
+        "year": "2014",
+        "abstract": "PaaSs emerge to help SaaS providers to conquer the challenges involved in guaranteeing the QoS of international SaaSs. A well structured machine readable SLA is critical for PaaS providers to automate InterCloud management to serve the worldwide elastic user demands. WS-Agreement is a widely accepted extendible language for describing agreements. In this paper, we propose PSLA, a well structured PaaS Level SLA description language based on WS-Agreement. We summarize and describe the semantic clauses needed to be considered in PaaS level SLA. In particular, some specific characteristics of PaaS are taken into account in PSLA, such as elasticity of workload, undefined metric properties and fuzzy value range.",
+        "keywords": "QoS; PaaS; Service Level Agreement SLA",
+        "domain": "0.info; 1.info.info-dc",
+        "url": "https://univ-smb.hal.science/hal-01002672v1"
+      },
+      {
+        "hal_id": "713520",
+        "citation": "N. Salmi, Patrice Moreaux, M. Ioualalen. Structured Performance Analysis for Component Based Systems. International Journal of Critical Computer-Based Systems, 2012, 3 (1-2), pp.96-131. &#x27E8;10.1504/IJCCBS.2012.045078&#x27E9;. &#x27E8;hal-00713520&#x27E9;",
+        "authors": "N. Salmi; Patrice Moreaux; M. Ioualalen",
+        "year": "2012",
+        "abstract": "The Component Based System (CBS) paradigm is now largely used to design software systems. In addition, performance and behavioural analysis remains a required step for the design and the construction of efficient systems. This is especially the case of CBS, which involve interconnected components running concurrent processes. % This paper proposes a compositional method for modeling and structured performance analysis of CBS. Modeling is based on Stochastic Well-formed Nets (SWN), a high level model of Stochastic Petri nets, widely used for dependability analysis of concurrent systems. Starting from the definition of the system given in a suitable Architecture Description Language, and from the definition of the elementary components, we build an SWN of the global system together with a set of SWNs modeling the components of the CBS and their connections. From these models, we derive performances of the system thanks to a structured analysis induced by the structure of the CBS. We describe the application of our method through an example designed in the framework of the CORBA Component Model.",
+        "keywords": "Évaluation de performances; Système logiciel à composants",
+        "domain": "0.info; 1.info.info-pf",
+        "url": "https://univ-smb.hal.science/hal-00713520v1"
+      },
+      {
+        "hal_id": "621770",
+        "citation": "El Hachemi Bendahmane, Bruno Dillenseger, Patrice Moreaux. Introduction of Self Optimization Features in a Selfbenchmarking Architecture. The Seventh International Conference on Autonomic and Autonomous Systems (ICAS 2011), May 2011, Venice, Italy. pp.37-42. &#x27E8;hal-00621770&#x27E9;",
+        "authors": "El Hachemi Bendahmane; Bruno Dillenseger; Patrice Moreaux",
+        "year": "2011",
+        "abstract": "Benchmarking client-server systems involve complex, distributed technical infrastructures, whose management deserves an autonomic approach. It also relies on observation, analysis and feedback steps that closely matches the autonomic control loop principle. While previous work have shown how to introduce autonomic load testing features through self-regulated load injection, this paper sketches the path to full self-benchmarking, introducing self-optimization features to get meaningful results. Our contribution is twofold: completion of a component-based architecture, combining several autonomic control loops, to fully support self-benchmarking, and an original constraints programming-based optimization algorithm. The relevance of this work in progress is partially evaluated through first experimental results.",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-pf",
+        "url": "https://univ-smb.hal.science/hal-00621770v1"
+      },
+      {
+        "hal_id": "561206",
+        "citation": "Nabil Fakhfakh, Hervé Verjus, Frédéric Pourraz, Patrice Moreaux. Architectures orientées services pour les systèmes d'information d'entreprises agiles. Atelier SIRE (Systèmes d'Information des oRganisations Étendues) associé à la conférence INFORSID 2010, May 2010, Marseille, France. &#x27E8;hal-00561206&#x27E9;",
+        "authors": "Nabil Fakhfakh; Hervé Verjus; Frédéric Pourraz; Patrice Moreaux",
+        "year": "2010",
+        "abstract": "Face aux nouvelles offres du marché et à la variabilité des demandes des clients, les entreprises ont tendance à se mettre en réseau et à créer des partenariats pour améliorer leur réactivité. Par conséquent, ces formes d'entreprises doivent disposer d'un système d'informa- tion agile et interopérable afin de permettre l'évolution des besoins métier et de surmonter les obstacles liés à l'hétérogénéité des technologies utilisées par les entreprises partenaires. Nous proposons, dans cet article, la notion de \" système d'information as a service \" qui repose sur le paradigme de service et considère que les processus métier correspondent à des orchestrations agiles de services. Nous discuterons de l'intérêt de disposer d'un système de supervision des services et des orchestrations de services dans l'optique de la gestion de l'adaptation dyna- mique du système d'information.",
+        "keywords": "Système d'information; SOA; Orchestration de services; Agilité; Entreprise virtuelle; Entreprise étendue",
+        "domain": "0.info; 1.info.info-se",
+        "url": "https://univ-smb.hal.science/hal-00561206v1"
+      },
+      {
+        "hal_id": "621309",
+        "citation": "Nabil Fakhfakh, Hervé Verjus, Frédéric Pourraz, Patrice Moreaux. Measuring The Satisfaction Degree Of Quality Attributes Requirements For Services Orchestrations. Fourth International Conference on Communication Theory, Reliability, and Quality of Service (CTRQ 2011), Apr 2011, Budapest, Hungary. pp.89-94. &#x27E8;hal-00621309&#x27E9;",
+        "authors": "Nabil Fakhfakh; Hervé Verjus; Frédéric Pourraz; Patrice Moreaux",
+        "year": "2011",
+        "abstract": "Quality attributes are an important concern in critical business processes supported through services orches- tration. Various works in the literature have addressed quality attributes values computation of services orchestration. This paper proposes a novel approach to measure the satisfaction degree of services orchestration to the quality attributes re- quirements as defined at design-time. It is based on workflow patterns aggregation rules and a multi-criteria decision making method named MACBETH. We detail our approach in this paper through an illustrative example",
+        "keywords": "QoS; Quality attributes aggregation; SOA; Satisfaction degree measurement",
+        "domain": "0.info; 1.info.info-se; 0.info; 1.info.info-pf",
+        "url": "https://univ-smb.hal.science/hal-00621309v1"
+      },
+      {
+        "hal_id": "1233348",
+        "citation": "Madi Kaboré, Louis Stephan, Patrice Moreaux, Étienne Wurtz. Modélisation et caractérisation expérimentale d'un échangeur à plaque d'une VMC. AUGC et IBPSA 2012, Jun 2012, Chambéry, France. &#x27E8;hal-01233348&#x27E9;",
+        "authors": "Madi Kaboré; Louis Stephan; Patrice Moreaux; Étienne Wurtz",
+        "year": "2012",
+        "abstract": "RÉSUMÉ. Dans cet article, nous présentons la description de l'échangeur d'un système de ventilation mécanique double flux. Le modèle est décrit selon la méthode ε-NUT avec prise en compte du phénomène de condensation du côté de l'air refroidi. La modélisation est effectuée sous Modelica à l'aide des bibliothèques « Standard » et « Building ». Les résultats de la simulation du modèle dynamique sont comparés aux mesures expérimentales effectuées sur le prototype., ABSTRACT. In this paper, we model a heat exchanger of a mechanical ventilation system. The model uses the ε-NTU approach and takes into consideration the phenomenon of condensation on the cooled air side. The model is written with Modelica language using the \" Standard \" and the \" Building \" libraries. The results of the simulation of the dynamic model are discussed, and compared with on-site experimental data from the prototype.",
+        "keywords": "Heat exchanger; Ventilation; Condensing; Simulation; Condensation; Échange de chaleur",
+        "domain": "0.spi; 1.spi.gciv; 2.spi.gciv.cd",
+        "url": "https://univ-smb.hal.science/hal-01233348v1"
+      },
+      {
+        "hal_id": "755071",
+        "citation": "Nabil Fakhfakh, Hervé́ Verjus, Frédéric Pourraz, Patrice Moreaux. QoS aggregation for service orchestrations based on workflow pattern rules and MCDM method: evaluation at design time and runtime. Service Oriented Computing and Applications, 2013, 7 (1), pp. 15-31. &#x27E8;10.1007/s11761-012-0124-0&#x27E9;. &#x27E8;hal-00755071&#x27E9;",
+        "authors": "Nabil Fakhfakh; Hervé́ Verjus; Frédéric Pourraz; Patrice Moreaux",
+        "year": "2013",
+        "abstract": "Service consumers satisfaction is considered today as one of the main concern to be ensured by service providers, especially with the spread of concurrency and the increase of functionally equivalent services. This satisfaction is closely related to quality of service (QoS) perceived by service consumers. In this context, we propose an approach to determine the satisfaction degree corresponding to the QoS of service-based applications, with regard to service consumers' QoS expectations. Our approach is based on a preference model, which is built only on the basis of service consumer's provided information. This preference model is also based on the 2-additive Choquet operator that takes into account preferential dependencies. In this paper, we target both design time and runtime aggregation of QoS of service-based applications.",
+        "keywords": "Preference model; QoS aggregation; Service orchestration; Satisfaction degree; Choquet integral",
+        "domain": "0.info; 1.info.info-se",
+        "url": "https://univ-smb.hal.science/hal-00755071v1"
+      },
+      {
+        "hal_id": "772730",
+        "citation": "Nabil Fakhfakh, Frédéric Pourraz, Hervé́ Verjus, Patrice Moreaux. Client-Oriented Preferences Model for QoS Aggregation in Service-Based Applications. E-Business and Telecommunications, Springer Berlin Heidelberg, pp.141-155, 2012, Communications in Computer and Information Science, 978-3-642-35754-1. &#x27E8;10.1007/978-3-642-35755-8_11&#x27E9;. &#x27E8;hal-00772730&#x27E9;",
+        "authors": "Nabil Fakhfakh; Frédéric Pourraz; Hervé́ Verjus; Patrice Moreaux",
+        "year": "2012",
+        "abstract": "Client satisfaction is considered today as one of the main concern to be ensured by enterprises, especially in e-business, where client position is central. With the spread of concurrency and the increase of functionally equivalent services, QoS became an important criterion, which is closely related to client satisfaction. In this context, we propose an approach to determine the satisfaction degree corresponding to the QoS of service-based applications, with regard to client's QoS expectations. Our approach is based on a preferences model, which is built only on the basis of client provided information. This preferences model is also based on the 2-additive Choquet operator that supports preferential dependencies. We present a study that compares the results obtained from our preferences model with those of related work, and shows that our approach provides more accurate results in the way that it represents more precisely client satisfaction.",
+        "keywords": "Preferences model; QoS aggregation; Service orchestration; Satisfaction degree measurement; The Choquet integral",
+        "domain": "0.info; 1.info.info-se; 0.info; 1.info.info-pf; 0.spi; 1.spi.signal; 0.info; 1.info.info-ts",
+        "url": "https://univ-smb.hal.science/hal-00772730v1"
+      },
+      {
+        "hal_id": "308566",
+        "citation": "Olivier Passalacqua, Eric Benoit, Marc-Philippe Huget, Patrice Moreaux. INTEGRATING OPC DATA INTO GSN INFRASTRUCTURES. IADIS International Conference APPLIED COMPUTING 2008, Apr 2008, Algarve, Portugal. &#x27E8;hal-00308566&#x27E9;",
+        "authors": "Olivier Passalacqua; Eric Benoit; Marc-Philippe Huget; Patrice Moreaux",
+        "year": "2008",
+        "abstract": "This paper presents the design and the implementation of an interface software component between OLE for Process Control (OPC) formatted data and the Global Sensor Network (GSN) framework for management of data from sensors. This interface, named wrapper in the GSN context, communicates in Data Access mode with an OPC server and converts the received data to the internal GSN format, according to several temporal modes. This work is realized in the context of a Ph.D. Thesis about the control of distributed information fusion systems. The developed component allows the injection of OPC data, like measurements or industrial processes states information, into a distributed information fusion system deployed in a GSN framework. The component behaves as a client of the OPC server. Developed in Java and based on the Opensaca Utgard, it can be deployed on any computation node supporting a Java virtual machine. The experiments show the component conformity according to the Data Access 2.05a specification of the OPC standard and to the temporal modes.",
+        "keywords": "OPC; GSN; Control; Information fusion systems",
+        "domain": "0.info; 1.info.info-se; 0.info; 1.info.info-au; 0.info; 1.info.info-oh",
+        "url": "https://hal.science/hal-00308566v1"
+      },
+      {
+        "hal_id": "398602",
+        "citation": "Eric Benoit, Marc-Philippe Huget, Patrice Moreaux, Olivier Passalacqua. Reconfiguration of Distributed Information Fusion System – A case study. Workshop on Dependable Control of Discrete Systems, Jun 2009, Bari, Italy. pp.309-314. &#x27E8;hal-00398602&#x27E9;",
+        "authors": "Eric Benoit; Marc-Philippe Huget; Patrice Moreaux; Olivier Passalacqua",
+        "year": "2009",
+        "abstract": "Information Fusion Systems are now widely used in different fusion contexts, like scientific processing, sensor networks, video and image processing. One of the current trends in this area is to cope with distributed systems. In this context, we have defined and implemented a Dynamic Distributed Information Fusion System runtime model. It allows us to cope with dynamic execution supports while trying to maintain the functionalities of a given Dynamic Distributed Information Fusion System. The paper presents our system, the reconfiguration problems we are faced with and our solutions.",
+        "keywords": "Availability; Data fusion; Decision making; Discrete-event dynamic systems; Performance evaluation",
+        "domain": "0.info; 1.info.info-au; 0.info; 1.info.info-dc",
+        "url": "https://hal.science/hal-00398602v1"
+      },
+      {
+        "hal_id": "211831",
+        "citation": "Eric Benoit, Marc Philippe Huget, Patrice Moreaux, Olivier Passalacqua. Integrating OPC data into GSN infrastructures. 2007. &#x27E8;hal-00211831&#x27E9;",
+        "authors": "Eric Benoit; Marc Philippe Huget; Patrice Moreaux; Olivier Passalacqua",
+        "year": "2007",
+        "abstract": "We present the design and the implementation of an interface software component between OLE for Process Control (OPC) formatted data and the Global Sensor Network (GSN) framework for management of data from sensors. This interface, named wrapper in the GSN context, communicates in Data Access mode with an OPC server and converts the received data to the internal GSN format, according to several temporal modes.",
+        "keywords": "",
+        "domain": "0.phys; 1.phys.phys; 2.phys.phys.phys-ins-det; 0.info; 1.info.info-au",
+        "url": "https://hal.science/hal-00211831v1"
+      },
+      {
+        "hal_id": "561211",
+        "citation": "Hervé Verjus, Sorana Cimpan, Ilham Alloui, Frédéric Pourraz, Patrice Moreaux. Systèmes logiciels de fusion d'informations adaptatifs. Journées sur l'Ingénierie Dirigée par les Modèles - IDM 2010, Mar 2010, Pau, France. &#x27E8;hal-00561211&#x27E9;",
+        "authors": "Hervé Verjus; Sorana Cimpan; Ilham Alloui; Frédéric Pourraz; Patrice Moreaux",
+        "year": "2010",
+        "abstract": "Non disponible",
+        "keywords": "Architecture logiciels; Systèmes de fusion d'information; Évolution",
+        "domain": "0.info; 1.info.info-se",
+        "url": "https://univ-smb.hal.science/hal-00561211v1"
+      },
+      {
+        "hal_id": "1199460",
+        "citation": "Serge Haddad, Jean-Michel Ilié, Mohamed Taghelit, Claude Dutheillet, Patrice Moreaux. Contribution des Réseaux de Petri de Haut Niveau pour l'Etude des Protocoles. Revue des Sciences et Technologies de l'Information - Série TSI : Technique et Science Informatiques, 1997, 16 (6), pp.701-723. &#x27E8;hal-01199460&#x27E9;",
+        "authors": "Serge Haddad; Jean-Michel Ilié; Mohamed Taghelit; Claude Dutheillet; Patrice Moreaux",
+        "year": "1997",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-01199460v1"
+      },
+      {
+        "hal_id": "441818",
+        "citation": "Saab C. Boutrous, Demba Coulibaly, Serge Haddad, Tarek Melliti, Patrice Moreaux, et al.. An Integrated Framework for Web Services Orchestration. International Journal of Web Services Research, 2009, 6 (4), pp.1--29. &#x27E8;10.4018/jwsr.2009071301&#x27E9;. &#x27E8;hal-00441818&#x27E9;",
+        "authors": "Saab C. Boutrous; Demba Coulibaly; Serge Haddad; Tarek Melliti; Patrice Moreaux; Sylvain Rampacek",
+        "year": "2009",
+        "abstract": "Currently, Web services give place to active research and this is due both to industrial and theoretical factors. On one hand, Web services are essential as the design model of applications dedicated to the electronic business. On the other hand, this model aims to become one of the major formalisms for the design of distributed and cooperative applications in an open environment (the Internet). In this article, the authors will focus on two features of Web services. The first one concerns the interaction problem: given the interaction protocol of a Web service described in BPEL, how to generate the appropriate client? Their approach is based on a formal semantics for BPEL via process algebra and yields an algorithm which decides whether such a client exists and synthesizes the description of this client as a (timed) automaton. The second one concerns the design process of a service. They propose a method which proceeds by two successive refinements: first the service is described via UML, then refined in a BPEL model and finally enlarged with JAVA code using JCSWL, a new language that we introduce here. Their solutions are integrated in a service development framework that will be presented in a synthetic way.",
+        "keywords": "WEB service; Verification; Timed automata equivalence; BPEL",
+        "domain": "0.info; 1.info.info-wb",
+        "url": "https://univ-smb.hal.science/hal-00441818v1"
+      },
+      {
+        "hal_id": "308562",
+        "citation": "Khairunizam Wan, Atsushi Todo, Hideyuki Sawada, Olivier Passalacqua, Eric Benoit, et al.. Video conference smart room: an information fusion system based on distributed sensors. Mechatronics2008, May 2008, Le Grand-Bornand, France. &#x27E8;hal-00308562&#x27E9;",
+        "authors": "Khairunizam Wan; Atsushi Todo; Hideyuki Sawada; Olivier Passalacqua; Eric Benoit; Marc-Philippe Huget; Patrice Moreaux",
+        "year": "2008",
+        "abstract": "The needs for cross domain technologies called mecatronics have increased in the recent years and examples of mechanical tools directed by computers are now widely available. This paper gives an example of information fusion in the context of a video conference room and exposes two axes of the research. First it shows how to fuse information provided by several sources to locate a speaker. To do this, the system fuses data produced by video cameras and their associated image processing algorithm, with information resulting from signal processing algorithms applied on several micro-phones. Second, this article describes the distributed information fusion system (DIFS) used and the algorithm which decides where the speaker is located in order to allow focus on him. The whole application is managed by a new control system specifically developed for DIFSs. Some key points of the theoretical model on which the control is based are also given.",
+        "keywords": "Distributed system; Image and signal processing; Information fusion",
+        "domain": "0.info; 1.info.info-dc; 0.info; 1.info.info-ts; 0.spi; 1.spi.signal",
+        "url": "https://hal.science/hal-00308562v1"
+      },
+      {
+        "hal_id": "1496161",
+        "citation": "Jean-Michel Ilié, Souheib Baarir, Marco Beccuti, C. Delamare, Susanna Donatelli, et al.. Extended SWN Solvers in GreatSPN. 1st International Conference on Quantitative Evaluation of Systems (QEST '04), 2004, Enschede, Netherlands. pp.324-325, &#x27E8;10.1109/QEST.2004.1348049&#x27E9;. &#x27E8;hal-01496161&#x27E9;",
+        "authors": "Jean-Michel Ilié; Souheib Baarir; Marco Beccuti; C. Delamare; Susanna Donatelli; Claude Dutheillet; Giuliana Franceschinis; Rossano Gaeta; Patrice Moreaux",
+        "year": "2004",
+        "abstract": "Well-formed nets and their stochastic timed extension, take advantage of symmetries to allow efficient solution techniques for both qualitative and quantitative properties. During the last decade, these techniques have been enriched with increasingly more powerful ones: this has been achieved by exploiting partial symmetries and decomposition. In this paper, we present a suite of new software tools based on the original SWN solver of the GreatSPN tool, which implements these new features.",
+        "keywords": "",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-01496161v1"
+      },
+      {
+        "hal_id": "1126329",
+        "citation": "Tatiana Aubonnet, Eric Madelaine, Ludovic Henrio, Thomas Ledoux, Yousri Kouki, et al.. Modèle logique avancé - version V1. [Rapport de recherche] CEDRIC-13-2871, CEDRIC Lab/CNAM. 2013. &#x27E8;hal-01126329&#x27E9;",
+        "authors": "Tatiana Aubonnet; Eric Madelaine; Ludovic Henrio; Thomas Ledoux; Yousri Kouki; Patrice Moreaux; Frédéric Pourraz; Inès Ayadi; Noëmie Simoni",
+        "year": "2013",
+        "abstract": "Non disponible",
+        "keywords": "Auto-scalability; Cloud computing; SLA; Auto-scalabilité",
+        "domain": "0.info; 0.info; 1.info.info-es",
+        "url": "https://hal.science/hal-01126329v1"
+      }
+    ],
+    "publication_count": 23,
+    "all_authors": [
+      "Nabil Fakhfakh; Frédéric Pourraz; Hervé́ Verjus; Patrice Moreaux",
+      "Ge Li; Frédéric Pourraz; Patrice Moreaux",
+      "Khairunizam Wan; Atsushi Todo; Hideyuki Sawada; Olivier Passalacqua; Eric Benoit; Marc-Philippe Huget; Patrice Moreaux",
+      "Madi Kaboré; Louis Stephan; Patrice Moreaux; Étienne Wurtz",
+      "Serge Haddad; Jean-Michel Ilié; Mohamed Taghelit; Claude Dutheillet; Patrice Moreaux",
+      "Eric Benoit; Marc Philippe Huget; Patrice Moreaux; Olivier Passalacqua",
+      "Serge Haddad; Patrice Moreaux",
+      "Eric Benoit; Marc-Philippe Huget; Patrice Moreaux; Olivier Passalacqua",
+      "Nabil Fakhfakh; Hervé́ Verjus; Frédéric Pourraz; Patrice Moreaux",
+      "Patrice Moreaux; Fabien Sartor; Flavien Vernier",
+      "Serge Haddad; Lynda Mokdad; Patrice Moreaux",
+      "N. Salmi; Patrice Moreaux; M. Ioualalen",
+      "Hervé Verjus; Sorana Cimpan; Ilham Alloui; Frédéric Pourraz; Patrice Moreaux",
+      "Tatiana Aubonnet; Eric Madelaine; Ludovic Henrio; Thomas Ledoux; Yousri Kouki; Patrice Moreaux; Frédéric Pourraz; Inès Ayadi; Noëmie Simoni",
+      "Jean-Michel Ilié; Souheib Baarir; Marco Beccuti; C. Delamare; Susanna Donatelli; Claude Dutheillet; Giuliana Franceschinis; Rossano Gaeta; Patrice Moreaux",
+      "Olivier Passalacqua; Eric Benoit; Marc-Philippe Huget; Patrice Moreaux",
+      "Saab C. Boutrous; Demba Coulibaly; Serge Haddad; Tarek Melliti; Patrice Moreaux; Sylvain Rampacek",
+      "El Hachemi Bendahmane; Bruno Dillenseger; Patrice Moreaux",
+      "Nabil Fakhfakh; Hervé Verjus; Frédéric Pourraz; Patrice Moreaux"
+    ],
+    "years": [
+      "1997",
+      "2004",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014"
+    ],
+    "keywords": [
+      "",
+      "Petri Net",
+      "Decision making",
+      "Energy management",
+      "Protocols",
+      "Transient analysis",
+      "The Choquet integral",
+      "Discrete-event dynamic systems",
+      "Distributed system",
+      "Entreprise virtuelle",
+      "Data fusion",
+      "Markov chain",
+      "Performance evaluation",
+      "Heat exchanger",
+      "Automated living area",
+      "Échange de chaleur",
+      "Information fusion systems",
+      "Orchestration de services",
+      "Service Level Agreement SLA",
+      "Preferences model",
+      "Temporal logic",
+      "Home networks",
+      "Home devices",
+      "Control",
+      "Performances",
+      "Home services management",
+      "Choquet integral",
+      "Timed automata equivalence",
+      "Kronecker product",
+      "Stochastic process",
+      "Availability",
+      "Domotic networks",
+      "Verification",
+      "QoS",
+      "Simulation",
+      "Satisfaction degree measurement",
+      "Entreprise étendue",
+      "Automata",
+      "GSN",
+      "Petri nets",
+      "Systèmes de fusion d'information",
+      "Preference model",
+      "Architecture logiciels",
+      "Agilité",
+      "Système d'information",
+      "Image and signal processing",
+      "Information fusion",
+      "Satisfaction degree",
+      "Ventilation",
+      "High-level systems",
+      "PaaS",
+      "Global behavior",
+      "Condensing",
+      "Condensation",
+      "Home automation",
+      "Évaluation de performances",
+      "Évolution",
+      "Barium",
+      "SOA",
+      "Energy management systems",
+      "Context modeling",
+      "Extended automaton input-output symbolic transition systems",
+      "Quality attributes aggregation",
+      "Stochastic Discrete Event Systems",
+      "Unit behaviors",
+      "Auto-scalability",
+      "Communication mediums",
+      "Stochastic strong aggregation",
+      "Network behavior",
+      "OPC",
+      "WEB service",
+      "Electrocardiography",
+      "Service orchestration",
+      "SLA",
+      "BPEL",
+      "Context",
+      "Système logiciel à composants",
+      "Cloud computing",
+      "Security",
+      "QoS aggregation",
+      "Auto-scalabilité",
+      "Domotic systems",
+      "Synchronization"
+    ],
+    "domains": [
+      "1.spi.signal",
+      "1.info.info-wb",
+      "0.spi",
+      "1.spi.gciv",
+      "0.scco",
+      "1.info.info-oh",
+      "1.info.info-se",
+      "1.info.info-ts",
+      "1.info.info-pf",
+      "0.phys",
+      "2.spi.gciv.cd",
+      "1.info.info-au",
+      "1.scco.comp",
+      "1.info.info-mo",
+      "0.info",
+      "1.info.info-es",
+      "2.phys.phys.phys-ins-det",
+      "1.phys.phys",
+      "1.info.info-dc"
+    ],
+    "last_updated": "2025-11-07T10:39:07.672683"
+  },
+  "last_hal_update": "2025-11-07T10:39:07.673028",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/47/6146.html?q=Patrice+Moreaux",
+    "publications": [
+      {
+        "title": "PSLA: A PaaS Level SLA Description Language.",
+        "coauthors": []
+      },
+      {
+        "title": "QoS aggregation for service orchestrations based on workflow pattern rules and MCDM method: evaluation at design time and runtime.",
+        "coauthors": []
+      },
+      {
+        "title": "Structured performance analysis for component-based systems.",
+        "coauthors": []
+      },
+      {
+        "title": "An Effective Approach for Home Services Management.",
+        "coauthors": []
+      },
+      {
+        "title": "Client-Oriented Preferences Model for QoS Aggregation in Service-Based Applications.",
+        "coauthors": []
+      },
+      {
+        "title": "Performance evaluation of Fractal component-based systems.",
+        "coauthors": []
+      },
+      {
+        "title": "An Integrated Framework for Web Services Orchestration.",
+        "coauthors": []
+      },
+      {
+        "title": "Reconfiguration of Distributed Information Fusion System ? A case study.",
+        "coauthors": []
+      },
+      {
+        "title": "Integrating OPC Data into GSN Infrastructures.",
+        "coauthors": []
+      },
+      {
+        "title": "Sub-stochastic matrix analysis for bounds computation - Theoretical results.",
+        "coauthors": []
+      },
+      {
+        "title": "Formal models of Fractal Component Based Systems for performance analysis.",
+        "coauthors": []
+      },
+      {
+        "title": "A New Approach to the Evaluation of Non Markovian Stochastic Petri Nets.",
+        "coauthors": []
+      },
+      {
+        "title": "Client Synthesis for Web Services by Way of a Timed Semantics.",
+        "coauthors": []
+      },
+      {
+        "title": "A Formal Semantics and a Client Synthesis for a BPEL Service.",
+        "coauthors": []
+      },
+      {
+        "title": "Product-form and stochastic Petri nets: a structural approach.",
+        "coauthors": []
+      },
+      {
+        "title": "Analyse de performance des systèmes décomposables. Exemples et mise en oeuvre.",
+        "coauthors": []
+      },
+      {
+        "title": "Modelling Web Services Interoperability.",
+        "coauthors": []
+      },
+      {
+        "title": "Approximate Analysis of Non-Markovian Stochastic Systems with Multiple Time Scale Delays.",
+        "coauthors": []
+      },
+      {
+        "title": "Extended SWN Solvers in GreatSPN.",
+        "coauthors": []
+      },
+      {
+        "title": "Performance evaluation with asynchronously decomposable SWN: implementation and case study.",
+        "coauthors": []
+      },
+      {
+        "title": "Verification of CORBA systems with composition of Well Formed Nets.",
+        "coauthors": []
+      },
+      {
+        "title": "Structural Characterization and Qualitative Properties of Product Form Stochastic Petri Nets.",
+        "coauthors": []
+      },
+      {
+        "title": "Structured Characterization of the Markov Chain of Phase-Type SPN.",
+        "coauthors": []
+      },
+      {
+        "title": "Efficient Handling of Phase-Type Distributions in Generalized Stochastic Petri Nets.",
+        "coauthors": []
+      },
+      {
+        "title": "Asynchronous Composition of High Level Petri Nets: A Quantitative Approach.",
+        "coauthors": []
+      },
+      {
+        "title": "Evaluation of high level Petri nets by means of aggregation and decomposition.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:18.887231",
+    "publication_count": 26
+  },
+  "last_dblp_update": "2025-11-07T10:42:19.076967"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8b0"
+  },
+  "name": "Julien ROCHE",
+  "_unique_id": "3e1b52a793fc559393e639c80d35843b",
+  "category": "collaborateurs_benevoles",
+  "last_updated": "2025-11-07T09:22:10.403188",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "3111744",
+        "citation": "Julien Roche. Autour de Raymond de Miraval : les Miraval et l’hérésie. Troubadours et cathares en Occitanie médiévale, L'hydre éditions, p. 119-143., 2004. &#x27E8;hal-03111744&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2004",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.hist",
+        "url": "https://hal.univ-lille.fr/hal-03111744v1"
+      },
+      {
+        "hal_id": "3111735",
+        "citation": "Julien Roche. Le catharisme à Béziers et dans le Biterrois au début du XIIIe siècle : aux frontières de l'hérésie?. Biterris. Béziers et son rayonnement culturel au moyen âge, Presses universitaires de Perpignan, p. 61-104., 2003. &#x27E8;hal-03111735&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2003",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.hist",
+        "url": "https://hal.univ-lille.fr/hal-03111735v1"
+      },
+      {
+        "hal_id": "3111755",
+        "citation": "Julien Roche. Évolutions de la documentation : naissance d'une discipline scolaire. Compte rendu critique. 2004, p. 121-122. &#x27E8;hal-03111755&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2004",
+        "abstract": "Compte rendu critique de l'ouvrage de Muriel Frisch, évolutions de la documentation : naissance d'une discipline scolaire, Paris : L’Harmattan, 2003.",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111755v1"
+      },
+      {
+        "hal_id": "3111588",
+        "citation": "Julien Roche (Dir.). Un monde de bibliothèques. Editions du Cercle de la librairie, 349 p., 2019. &#x27E8;hal-03111588&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2019",
+        "abstract": "Les beaux-livres sur les bibliothèques sont nombreux, tant ces lieux se prêtent aisément à des images spectaculaires et inspirantes. Tel n’est pas l’ambition de cet ouvrage, qui prend un parti résolument différent. Sans nier la puissance évocatrice des bâtiments construits hier comme d’aujourd’hui, il s’attache plutôt à présenter un ensemble de bibliothèques remarquables, insérées dans leur environnement, leur territoire, leur communauté et leurs réseaux, et jouissant d’une visibilité, d’une reconnaissance, d’une influence et d’un rayonnement particulièrement importants, qui vont souvent bien au-delà des écrins qui les abritent. A travers une quarantaine de monographies originales, agrémentées de photos souvent inédites, ce livre invite à un cheminement libre à travers la sélection opérée, organisée par continent. Tous les types de bibliothèques du monde y sont représentées, publiques, universitaires, nationales, spécialisées, y compris de prestigieuses bibliothèques de statut privé. Certaines sont de créations plutôt récentes, d’autres sont pluriséculaires voire millénaires. Mais toutes participent à l’histoire des bibliothèques, voire à l’Histoire tout court.",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111588v1"
+      },
+      {
+        "hal_id": "3110637",
+        "citation": "Julien Roche. Les nouveaux ‘campus d'excellence’ : Opération Campus, vers des Learning Centers à la française ?. Bisbrouck, Marie-Françoise. Bibliothèques d'aujourd'hui. A la conquête de nouveaux espaces, Editions du Cercle de la librairie, p. 72-75, 2010. &#x27E8;hal-03110637&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2010",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03110637v1"
+      },
+      {
+        "hal_id": "3111089",
+        "citation": "Julien Roche. Introduction à un monde de bibliothèques. Roche, Julien. Un monde de bibliothèques, Editions du Cercle de la librairie, p. 19-36, 2019. &#x27E8;hal-03111089&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2019",
+        "abstract": "Les beaux-livres sur les bibliothèques sont nombreux, tant ces lieux se prêtent aisément à des images spectaculaires et inspirantes. Tel n’est pas l’ambition de cet ouvrage, qui prend un parti résolument différent. Sans nier la puissance évocatrice des bâtiments construits hier comme d’aujourd’hui, il s’attache plutôt à présenter un ensemble de bibliothèques remarquables, insérées dans leur environnement, leur territoire, leur communauté et leurs réseaux, et jouissant d’une visibilité, d’une reconnaissance, d’une influence et d’un rayonnement particulièrement importants, qui vont souvent bien au-delà des écrins qui les abritent. A travers une quarantaine de monographies originales, agrémentées de photos souvent inédites, ce livre invite à un cheminement libre à travers la sélection opérée, organisée par continent. Tous les types de bibliothèques du monde y sont représentées, publiques, universitaires, nationales, spécialisées, y compris de prestigieuses bibliothèques de statut privé. Certaines sont de créations plutôt récentes, d’autres sont pluriséculaires voire millénaires. Mais toutes participent à l’histoire des bibliothèques, voire à l’Histoire tout court.",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111089v1"
+      },
+      {
+        "hal_id": "3111592",
+        "citation": "Julien Roche. Repenser la bibliothèque : vers la bibliothèque augmentée - Learning Centre. Société de la connaissance - l'humain au coeur des innovations, Région Nord-Pas-de-Calais, p. 26-31., 2014. &#x27E8;hal-03111592&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2014",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111592v1"
+      },
+      {
+        "hal_id": "3111286",
+        "citation": "Julien Roche. Le catharisme : les sources. Rapport introductif. Les cathares devant l'Histoire, mélanges offerts à Jean Duvernoy, L'hydre éditions, 2005. &#x27E8;hal-03111286&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2005",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.hist",
+        "url": "https://hal.univ-lille.fr/hal-03111286v1"
+      },
+      {
+        "hal_id": "3111467",
+        "citation": "Julien Roche. Le séminaire Leadership de Liber – 2011-2016. de Miribel, Marielle. Diriger une bibliothèque. Un nouveau leadership, Editions du Cercle de la librairie, p 385-387., 2019. &#x27E8;hal-03111467&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2019",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111467v1"
+      },
+      {
+        "hal_id": "3111326",
+        "citation": "Julien Roche. Former les leaders de demain en bibliothèques – l’expérience de LIBER. Documentation et Bibliotheques, 2017, Documentation et Bibliotheques, 63 (1), p. 13-20. &#x27E8;10.7202/1039068ar&#x27E9;. &#x27E8;hal-03111326&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2017",
+        "abstract": "La Ligue européenne des bibliothèques de recherche (LIBER) a progressivement développé, depuis 2011, un double programme académique et professionnel dédié au leadership, et ce, au bénéfice des cadres en responsabilité. Il s’agit d’aider les leaders en émergence et les directeurs confirmés à conforter leur positionnement comme acteurs incontournables du paysage scientifique, managérial et décisionnel de leur établissement. Le programme s’incarne dans deux actions : 1) un séminaire Leadership, entrepris dès 2011, pour les directeurs adjoints et les chefs de département, se démarquant des programmes nationaux par une forte composante managériale et la connaissance de soi ; 2) des Journées LIBER, organisées pour la première fois en 2015, pour les directeurs eux-mêmes, fortement centrées sur l’identification des grands enjeux stratégiques et l’interaction entre pairs., The Association of European Research Libraries (LIBER) has developed, since 2011, a two-tiered leadership programme for managers that is both academic and professional in nature. Its goal is to support new and established managers in consolidating their position as leaders in the scientific, managerial and decision-making processes in their respective organisations. A two-point strategy lies at the heart of this initiative : 1) a leadership seminar developed in 2011 for associate directors and department heads that places a strong emphasis on manage-ment and knowledge of oneself and ; 2) the LIBER Journées, begun in 2015 for the directors, highlighting the major strategic issues and the importance of interaction with peers.",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111326v1"
+      },
+      {
+        "hal_id": "3111617",
+        "citation": "Julien Roche. Proximité et centralité dans un réseau municipal : l’exemple de la bibliothèque de Saint-Etienne. Bulletin des Bibliothèques de France, 2004, Bulletin des bibliothèques de France, p. 74-81. &#x27E8;hal-03111617&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2004",
+        "abstract": "En 1993, la Bibliothèque municipale de Saint-Étienne est dotée d'une nouvelle centrale, construite sur le site de Tarentaize. Cette structure s'insère alors dans un réseau de bibliothèques de quartier déjà constitué. Le succès de la nouvelle centrale est rapide : les usagers y trouvent un plus grand nombre et une plus grande diversité de documents. Les prêts de la centrale augmentent de manière significative, compensant la diminution d'activité dans le reste du réseau mais contribuant à déséquilibrer ce dernier au profit de la tête de réseau. Tarentaize, dont les capacités d'accueil sont limitées, souffre aujourd'hui d'un engorgement structurel., In 1993, municipal library services in Saint-Étienne were equipped with a new central library built on the site of Tarentaize. This building was integrated into a network of existing local branch libraries. The new central library was an immediate success; readers found a much greater and varied choice of materials. Loans from the central library increased significantly, compensating for the decrease in use throughout the rest of the network but thereby creating an imbalance for the latter in favour of the centre. Tarentaize which has limited access is now suffering from an overcrowded infrastructure.",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111617v1"
+      },
+      {
+        "hal_id": "3820583",
+        "citation": "Julien Roche. Open Science (Dissemination). Digital Dictionary, 2022, p. 239-243. &#x27E8;hal-03820583&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2022",
+        "abstract": "Why and how can the research community open up Science., Pourquoi et comment ouvrir la Science.",
+        "keywords": "Open Access; Open Science; Accès Ouvert; Science Ouverte",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03820583v1"
+      },
+      {
+        "hal_id": "3111060",
+        "citation": "Julien Roche. Vers la bibliothèque augmentée : le learning center. Administration & éducation, 2013, Revue trimestrielle de l'association française des acteurs de l'éducation, 139. &#x27E8;hal-03111060&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2013",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111060v1"
+      },
+      {
+        "hal_id": "3111582",
+        "citation": "Julien Roche. La performance sociale des services d'information. I2D – Information, données & documents, 2016, I2D – Information, données & documents, p. 49-50. &#x27E8;hal-03111582&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2016",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111582v1"
+      },
+      {
+        "hal_id": "408730",
+        "citation": "Julien Roche. Conception de systemes robustes de faible puissance pour des applications smarts-cards. Micro et nanotechnologies/Microélectronique. Université de Provence - Aix-Marseille I, 2009. Français. &#x27E8;NNT : &#x27E9;. &#x27E8;tel-00408730&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2009",
+        "abstract": "Le besoin securitaire lie au developpement des cartes a puce intelligentes impose de fortes contraintes quant a la robustesse de fonctionnement de ces dispositifs afin de garantir des performances optimales dans un environnement sans cesse perturbe. Depuis Trois ans, des effets d'annonces, suivies de prudentes introductions commerciales, se sont multiplies pour promouvoir aupres des operateurs telecoms un nouveau concept de carte SIM : une carte, Mega, Very Large ou SuperSIM, offrant des capacites memoires etendues aptes a supporter de nouveaux services de gestion de contenus et, surtout, disposant d'un protocole de communication bien plus rapide que celui specifie par l'ISO7816-3 (9, 6kbits/s en standard). L'augmentation de ce taux de transfert est donc un enjeu important pour ce marche. Une des solutions envisagees serait d'utiliser la performance de la norme USB (Universal Serial Bus) qui est une interface rapide, bidirectionnelle, isochrone et de faible cout, dont les connections sont gerees dynamiquement. En depit de sa simplicite, cette solution a un cout. En effet, l'isochronisme n'est pas assure par le transfert d'une base de temps au travers de la connexion. Ainsi le lecteur et l'element connecte (host et device) doivent generer leurs propre reference. Cependant, celles-ci doivent avoir une precision compatible, aussi bien au niveau des taux de transfert que du nombre d'elements faisant partie de la chaine de communication. L'objectif de cette these est d'une part, la recherche de solutions innovantes et de faible cout permettant la recuperation d'horloge lors de la transmition de donnees entre la carte a puce et son lecteur en se servant du protocole USB, et d'autre part, de demontrer la faisabilite de la solution par l'implementation d'une structure robuste, a faible puissance, pour les applications Smart-Card., The need securitaire links to the developpement of cards has flea clever impose strong quant pressures has the robustness of functioning of these implements aﬁn to guarantee optimum performances in an environment continuously unsettle. For Three years, effects of announcements,",
+        "keywords": "Low power; Low consumption; PLL; USB; Clock recovery; NRZI; Frequency; Phase noise; CMOS; Integrated circuit; Chip card; Circuit intégré; Faible puissance; Faible consommation; Multiplicateur de fréquence; Récupération d'horloge; Carte à puce; Multiplicateur de fréquence; Bruit de phase; Fréquence",
+        "domain": "0.spi; 1.spi.nano",
+        "url": "https://theses.hal.science/tel-00408730v1"
+      },
+      {
+        "hal_id": "3661100",
+        "citation": "Julien Roche. L'hérésie à l'est du Carcassès dans la première moitié du XIIe siècle : Minervois, Narbonnais et Biterrois. Aspects religieux de l'histoire du Languedoc-Roussillon, Archives d'Agde, Jun 2004, Agde, France. &#x27E8;hal-03661100&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2004",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.hist",
+        "url": "https://hal.univ-lille.fr/hal-03661100v1"
+      },
+      {
+        "hal_id": "3618456",
+        "citation": "Julien Roche. Science ouverte (diffusion). Dictionnaire du numérique, 2022, p. 290-293. &#x27E8;hal-03618456&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2022",
+        "abstract": "Pourquoi et comment ouvrir la Science., Why and how can the research community open up Science.",
+        "keywords": "Open Science; Open Access; Science Ouverte; Accès Ouvert",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03618456v1"
+      },
+      {
+        "hal_id": "3111072",
+        "citation": "Julien Roche. Crédit auprès du Sceau. Dictionnaire encyclopédique du Livre - tome 1, 2002. &#x27E8;hal-03111072&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2002",
+        "abstract": "numéro identifiant de la référence commentée",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.hist",
+        "url": "https://hal.univ-lille.fr/hal-03111072v1"
+      },
+      {
+        "hal_id": "3111046",
+        "citation": "Julien Roche. Une Eglise cathare. L’évêché du Carcassès (Carcassonne, Béziers, Narbonne). 1167-début du XIVe siècle. L'hydre éditions, 558 p., 2005. &#x27E8;hal-03111046&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2005",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.hist",
+        "url": "https://hal.univ-lille.fr/hal-03111046v1"
+      },
+      {
+        "hal_id": "3111380",
+        "citation": "Julien Roche. Performance sociale et bibliothèques. Boukacem-Zeghmouri, Cherifa; Schopfel, Joachim. Vers la bibliothèque globale. L’agenda 21 dans les bibliothèques, Editions du Cercle de la librairie, p. 31-47, 2014. &#x27E8;hal-03111380&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2014",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111380v1"
+      },
+      {
+        "hal_id": "3111504",
+        "citation": "Julien Roche. Caunes-Minervois et l’hérésie cathare. Archéologie du Midi Médiéval, 2010, Archéologie du Midi Médiéval, p. 105-113. &#x27E8;10.3406/amime.2010.1959&#x27E9;. &#x27E8;hal-03111504&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2010",
+        "abstract": "Les registres d’Inquisition, principales sources disponibles pour la connaissance de l’hérésie dans le Midi de la France, sont particulièrement pauvres pour ce qui est du catharisme à Caunes-Minervois. Les seules mentions quelque peu circonstanciées concernent le dernier tiers du XIIIe siècle. D’autres sources permettent en fait de corriger cette fallacieuse impression. Les enquêtes royales concernant les faidiments en Languedoc et certains documents copiés dans le fonds Doat de la Bibliothèque Nationale de France livrent ainsi de précieux renseignements sur la place de l’hérésie à Caunes et dans sa région. Caunes a joué un rôle particulier dans la lutte contre l’hérésie : vers 1226, l’évêque cathare du Carcassés Pierre Isarn y est brûlé. Dix ans plus tard, l’inquisiteur Ferrier est installé à Caunes, sans doute à l’abbaye, lieu à partir duquel il diligente les enquêtes du tribunal à l’encontre des personnes suspectées d’hérésie. A la fin du siècle, l’hérésie à Caunes sera à nouveau mise en lumière à travers les liens supposés de l’abbé de Caunes Pierre de Pelages avec le catharisme., Inquisition registers which are the main available sources for the knowledge of heresy in the South of France are particularly poor concerning Catharism at Caunes-Minervois. The only somewhat detailed mentions concern the last thirdof the XIIIth century. Other sources allow to rectify this deceptive impression. The royal inquiries concerning faidiments in Languedoc and certain documents copied in the Doat collection of the National French Library give valuable information as to the place of heresy at Caunes and in its region. Caunes played a particular role in the fight against heresy. By 1226, the Cathar Bishop of Carcassés Pierre Isarn is burnt there. Ten years later, inquisitor Ferrier is installed at Caunes, in the abbey probably, a place from which he launches the inquiries of the court against people suspected of heresy. At the end of the century, the heresy at Caunes will again be brought to light through the supposed links of abbot Pierre de Pelages with Catharism.",
+        "keywords": "Inquisition; Abbey of Caunes; Pierre de Pelages; Caunes-Minervois; Ferrier; Pierre Isarn; Heresy; Catharism; Abbaye de Caunes; Pierre de Pelages; Caunes-Minervois; Ferrier; Pierre Isarn; Inquisition; Hérésie; Catharisme",
+        "domain": "0.shs; 1.shs.hist",
+        "url": "https://hal.univ-lille.fr/hal-03111504v1"
+      },
+      {
+        "hal_id": "3110608",
+        "citation": "Julien Roche. Le Learning Centre est-il soluble dans la bibliothèque ?. Cavalier, François; Poulain, Martine. Bibliothèques universitaires : nouveaux horizons, Editions du Cercle de la librairie, p. 115-125, 2015. &#x27E8;hal-03110608&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2015",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03110608v1"
+      },
+      {
+        "hal_id": "3111096",
+        "citation": "Julien Roche. L’université de Lille – sciences et technologies et sa bibliothèque : histoire et avenir. LILLIAD Learning center innovation, Archibooks, p. 14-31, 2017. &#x27E8;hal-03111096&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2017",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111096v1"
+      },
+      {
+        "hal_id": "3111358",
+        "citation": "Julien Roche. Essai de plume. Dictionnaire encyclopédique du Livre - tome 2, 2005. &#x27E8;hal-03111358&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2005",
+        "abstract": "numéro identifiant de la référence commentée",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.hist",
+        "url": "https://hal.univ-lille.fr/hal-03111358v1"
+      },
+      {
+        "hal_id": "3111586",
+        "citation": "Julien Roche. LILLIAD, Learning center innovation. Biblos, 2016, Biblos, 27-28, p. 161-166. &#x27E8;hal-03111586&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2016",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111586v1"
+      },
+      {
+        "hal_id": "3820608",
+        "citation": "Julien Roche. Open Science (Origins). Digital Dictionary, 2022, p. 243-246. &#x27E8;hal-03820608&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2022",
+        "abstract": "A brief summary of what Open Science is, from the origins till 2021., Une présentation succincte de la Science Ouverte, des origines à 2021.",
+        "keywords": "Open Access; Open Science; Accès Ouvert; Science Ouverte",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03820608v1"
+      },
+      {
+        "hal_id": "3634313",
+        "citation": "Julien Roche. Évolution et développement technologique des tests immunochromatographiques dans le domaine des dispositifs médicaux de diagnostic in vitro. Sciences pharmaceutiques. 2022. &#x27E8;dumas-03634313&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2022",
+        "abstract": "Les tests immunochromatographiques font partie des tests POC les plus utilisés pour le diagnostic rapide des maladies infectieuses. Ces tests sont utilisés depuis de très nombreuses années mais ils ont pris aujourd’hui une place importante dans le diagnostic et l’auto diagnostic à l’officine comme à l’hôpital. Leur place parmi les DMDIV et les nouvelles contraintes réglementaires liées à leur mise sur le marché fait partie des challenges à relever pour les années à venir. Les technologies innovantes ont permis aux tests immunochromatographiques de se développer à grande échelle et de plus en plus de laboratoires s’intéressent à ces tests afin d’obtenir de nouveaux marchés. Durant la pandémie de Covid-19, les tests immunochromatographiques ont été massivement utilisés sous différentes formes : antigéniques, sérologiques et autotests. Ces tests présentent de nombreux atouts mais aussi certains inconvénients notamment leur fiabilité. Ce travail a pour but d’exposer les différents aspects des tests immunochromatographiques et les perspectives de développement pour le futur.",
+        "keywords": "Test rapide de diagnostic; Revue technologique; LFA; Covid-19; Développement DM-DIV; Test immunochromatographique",
+        "domain": "0.sdv; 1.sdv.sp; 0.sdv",
+        "url": "https://dumas.ccsd.cnrs.fr/dumas-03634313v1"
+      },
+      {
+        "hal_id": "3111108",
+        "citation": "Julien Roche. LILLIAD Learning Center Innovation. Bulletin des Bibliothèques de France, 2015, Bulletin des bibliothèques de France, p. 96-108. &#x27E8;hal-03111108&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2015",
+        "abstract": "Par-delà le « simple » projet de rénover et d’étendre la bibliothèque universitaire centrale de Lille 1 Sciences et technologies, le projet LILLIAD s’articule autour de quatre piliers : créer un lieu emblématique à la lisibilité exemplaire et à la symbolique forte, mettre la sociabilité au cœur du nouvel équipement, développer une offre plus intégrée avec l’usager en son cœur, articuler plus étroitement les ressources aux pratiques pédagogiques innovantes. Dans ce projet, la valorisation de la recherche et de l’innovation est un objectif fondamental.",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111108v1"
+      },
+      {
+        "hal_id": "3110587",
+        "citation": "Julien Roche. Discours du témoin et de l’inquisiteur dans les dépositions d’Inquisition, l’exemple du Carcassès. Ecrire l’histoire d’une hérésie, May 2007, Mazamet, France. &#x27E8;hal-03110587&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2008",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.hist",
+        "url": "https://hal.univ-lille.fr/hal-03110587v1"
+      },
+      {
+        "hal_id": "3111368",
+        "citation": "Julien Roche. Horizon 2019 : bibliothèques en prospective. 2010, p. 87-88. &#x27E8;hal-03111368&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2010",
+        "abstract": "numéro identifiant de la référence commentée",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111368v1"
+      },
+      {
+        "hal_id": "4065398",
+        "citation": "Julien Roche. The LILLIAD Innovation Learning Centre. ABI Technik, 2017, ABI Technik, 37 (4), p. 242-248. &#x27E8;10.1515/abitech-2017-0055&#x27E9;. &#x27E8;hal-04065398&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2017",
+        "abstract": "LILLIAD Innovation Learning Centre is a new building, incorporating a refurbishment of the former Central Library of Lille University of Science and Technologies, France, and an extension. It has been a project developed over ten years and opened in September 2016. Three hubs have been created inside the new building : the library, the research showcase and the events facilities., LILLIAD Learning center innovation est né de la rénovation de l'ancienne bibliothèque centrale de l'Université de Lille - Science et Technologies, à laquelle a été ajoutée une extension. Projet mené sur 10 ans, le nouveau bâtiment a ouvert ses portes en septembre 2016. Trois espaces ont été créés à l'intérieur du nouveau bâtiment : une bibliothèque, une vitrine de la recherche menée au sein de l'université et enfin un complexe événementiel.",
+        "keywords": "Innovation; Learning centre; Library; Innovation; Learning centre; Bibliothèque",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-04065398v1"
+      },
+      {
+        "hal_id": "2136227",
+        "citation": "Julien Roche. Le tournant ontologique de la terminologie. Informatique et langage [cs.CL]. Université Grenoble Alpes, 2018. Français. &#x27E8;NNT : 2018GREAA026&#x27E9;. &#x27E8;tel-02136227&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2018",
+        "abstract": "L’opérationnalisation des terminologies à des fins de traitement de l’information requière une représentation computationnelle du système conceptuel. La théorie du concept sur laquelle se fonde la Terminologie ISO ne permet pas aujourd’hui une telle représentation informatique [Roche TKE 2012]. Même si les normes ISO sur la Terminologie n’ont pas pour objectif l’opérationnalisation de terminologies mais la communication entre humains, elles doivent pouvoir – elles le précisent – servir à la modélisation des informations et des données [ISO 704 :2009]. Les résultats de disciplines telles que l’ingénierie des connaissances ont permis de mettre en évidence la nécessité de disposer d’une théorie du concept qui puisse donner lieu à une représentation informatique. Dans ce cadre, les ontologies, issues de l’ingénierie des connaissances, constituent une des perspectives les plus intéressantes pour la modélisation du système conceptuel d’une terminologie [Roche 2015, Handbook of Terminology].Mots clés en français : Terminologie, ontologie, ingénierie des connaissances ISO-1087, ISO-704, ISO-860, The operationalization of terminologies for information processing purposes requires a computational representation of the conceptual system. The theory of concept of the theory currently defined in ISO Terminology does not allow a computer representation [Roche TKE 2012]. Although ISO standards on Terminology does not aim to operationalize terminologies but communication between humans and used to model information and data [ISO 704: 2009]. The results of disciplines such as engineering knowledge helped to highlight the need for a theory of concept that could lead to a computer representation. In this context, ontologies, from knowledge engineering, is one of the most interesting perspectives to model the conceptual system of Terminology [Roche, 2015, Handbook of Terminology]",
+        "keywords": "Iso-860; Iso-704; Iso-1087; Ontology; Knowledge engineering; Terminology; Iso-860; Iso-704; Iso-1087; Ontologie; Ingénierie des connaissances; Terminologie",
+        "domain": "0.info; 1.info.info-cl",
+        "url": "https://theses.hal.science/tel-02136227v1"
+      },
+      {
+        "hal_id": "3616171",
+        "citation": "Julien Roche. Science ouverte (origine). Dictionnaire du numérique, 2022, p. 287-290. &#x27E8;hal-03616171&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2022",
+        "abstract": "Une présentation succincte de la Science Ouverte, des origines à 2021., A brief summary of what Open Science is, from the origins till 2021.",
+        "keywords": "Open Science; Open Access; Science Ouverte; Accès Ouvert",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03616171v1"
+      },
+      {
+        "hal_id": "3111738",
+        "citation": "Julien Roche. La charte de Niquinta : un point sur la controverse. Slavica Occitania, 2003, Slavica Occitania, 16, p. 229-245. &#x27E8;hal-03111738&#x27E9;",
+        "authors": "Julien Roche",
+        "year": "2003",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.hist",
+        "url": "https://hal.univ-lille.fr/hal-03111738v1"
+      },
+      {
+        "hal_id": "1851368",
+        "citation": "Julien Roche, Zhenling Zhang. Neologism in Chinese: borrowing western terms using a clustering approach. Workshop TOth 2016, Neology in Terminology, Nov 2016, Paris, France. &#x27E8;hal-01851368&#x27E9;",
+        "authors": "Julien Roche; Zhenling Zhang",
+        "year": "2016",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai; 0.shs; 1.shs.langue",
+        "url": "https://hal.science/hal-01851368v1"
+      },
+      {
+        "hal_id": "4191124",
+        "citation": "Julien Roche, Véronique Heurtematte. Les bibliothèques universitaires doivent entrer en résonance avec les grands enjeux des universités. 2023. Bibliothèques, objets politiques, Bulletin des bibliothèques de France, p. 120-123, 2023, 978-2-492897-02-3. &#x27E8;hal-04191124&#x27E9;",
+        "authors": "Julien Roche; Véronique Heurtematte",
+        "year": "2023",
+        "abstract": "Non disponible",
+        "keywords": "Research libraries; LIBER; Bibliothèques de recherche; LIBER",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-04191124v1"
+      },
+      {
+        "hal_id": "3111599",
+        "citation": "Julien Roche, Philippe Père. LILLIAD, l'aventure d'un nom improbable. Accart, Jean-Philippe. Personnaliser la bibliothèque : construire une stratégie de marque et augmenter sa réputation, Presses de l'ENSSIB, p. 60-67, 2018. &#x27E8;hal-03111599&#x27E9;",
+        "authors": "Julien Roche; Philippe Père",
+        "year": "2018",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111599v1"
+      },
+      {
+        "hal_id": "3111461",
+        "citation": "Julien Roche, Laurent Matejko. LILLIAD, Learning center innovation. Soulas, Christine. (Ré)aménager une bibliothèque, Presses de l'ENSSIB, p. 134-148, 2017. &#x27E8;hal-03111461&#x27E9;",
+        "authors": "Julien Roche; Laurent Matejko",
+        "year": "2017",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03111461v1"
+      },
+      {
+        "hal_id": "3820618",
+        "citation": "Julien Roche, Laure Delrue Vandenbulcke. Library. Digital Dictionary, 2022, p. 206-210. &#x27E8;hal-03820618&#x27E9;",
+        "authors": "Julien Roche; Laure Delrue Vandenbulcke",
+        "year": "2022",
+        "abstract": "Libraries in the context of the Digital Revolution., Les bibliothèques dans le contexte de la révolution numérique.",
+        "keywords": "Digital Revolution; Libraries; Library; Révolution numérique; Bibliothèques; Bibliothèque",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03820618v1"
+      },
+      {
+        "hal_id": "4254933",
+        "citation": "Cécile Swiatek Cassafieres, Julien Roche. Quand les BU s'engagent pour demain. La collection numérique, 2023, 25, pp.46-47. &#x27E8;hal-04254933&#x27E9;",
+        "authors": "Cécile Swiatek Cassafieres; Julien Roche",
+        "year": "2023",
+        "abstract": "Non disponible",
+        "keywords": "Bibliothèques universitaires -- France",
+        "domain": "0.shs; 0.shs; 1.shs.info",
+        "url": "https://hal.parisnanterre.fr/hal-04254933v1"
+      },
+      {
+        "hal_id": "3633935",
+        "citation": "Julien Roche, Laure Delrue Vandenbulcke. Bibliothèque. Dictionnaire du numérique, 2022, p. 33-37. &#x27E8;hal-03633935&#x27E9;",
+        "authors": "Julien Roche; Laure Delrue Vandenbulcke",
+        "year": "2022",
+        "abstract": "Les bibliothèques dans le contexte de la révolution numérique., Libraries in the context of the Digital Revolution.",
+        "keywords": "Library; Libraries; Digital Revolution; Bibliothèque; Bibliothèques; Révolution numérique",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-03633935v1"
+      },
+      {
+        "hal_id": "2065278",
+        "citation": "Christophe Roche, Julien Roche, Françoise Deloule. Ontological Knowledge Representation. 6th Worshop on Knowledge Engineering Methods and Languages, Jan 1996, Paris, France. &#x27E8;hal-02065278&#x27E9;",
+        "authors": "Christophe Roche; Julien Roche; Françoise Deloule",
+        "year": "1996",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info",
+        "url": "https://hal.science/hal-02065278v1"
+      },
+      {
+        "hal_id": "4706710",
+        "citation": "Julien Roche, Catherine Royer, Christian Roumestand. Exploring Protein Conformational Landscapes Using High-Pressure NMR. Biological NMR Part A, 614, Elsevier, pp.293-320, 2019, Methods in Enzymology, &#x27E8;10.1016/bs.mie.2018.07.006&#x27E9;. &#x27E8;hal-04706710&#x27E9;",
+        "authors": "Julien Roche; Catherine Royer; Christian Roumestand",
+        "year": "2019",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv",
+        "url": "https://hal.science/hal-04706710v1"
+      },
+      {
+        "hal_id": "1397480",
+        "citation": "Joachim Schöpfel, Julien Roche, Gilles Hubert. Co-working and innovation: New concepts for academic libraries and learning centres. New Library World, 2015, 116, pp.67-78. &#x27E8;10.1108/NLW-06-2014-0072&#x27E9;. &#x27E8;hal-01290333&#x27E9;",
+        "authors": "Joachim Schöpfel; Julien Roche; Gilles Hubert",
+        "year": "2015",
+        "abstract": "Purpose: The purpose of this paper is to contribute to the debate on the development of academic libraries, by the introduction of the concepts of co-working and innovation to the learning centres. Design/methodology/approach: The paper builds on published case studies and French initiatives. Findings: The proposal of this paper is that the academic library can meet its social responsibility on the campus and in society by drawing on the model of the co-working spaces and communities, by the support of innovation and the transfer of knowledge to the world of work. Moreover, the proposal is to include these new functions into the concept of learning centre, i.e. to develop the work-related aspects of the learning centre. Research limitations/implications: Future research on academic libraries should focus on social responsibility and their contribution not only to students' academic success but also to students' employability and to the transfer of technology. Practical implications: The paper contributes to the development and marketing of new academic library services and to its strategic positioning on the campus. Originality/value: Co-working and innovation are relatively new but promising concepts for academic libraries. Except for some recent case studies, conceptual papers are still missing that combine empirical experience with a theoretical approach. © 2015, Emerald Group Publishing Limited.",
+        "keywords": "Academic library; Learning center; Innovation; Coworking",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-01290333v1"
+      },
+      {
+        "hal_id": "1272725",
+        "citation": "Christophe Roche, Luc Damas, Julien Roche. Multilingual Thesaurus: The Ontoterminology Approach. CIDOC 2014 - Access and Understanding – Networking in the Digital Era, CIDOC COMITÉ INTERNATIONAL POUR LA DOCUMENTATION, Sep 2014, Dresden,, Germany. &#x27E8;hal-01272725&#x27E9;",
+        "authors": "Christophe Roche; Luc Damas; Julien Roche",
+        "year": "2014",
+        "abstract": "Making collections accessible to users speaking different languages raises several issues among which the multilingualism problem. Finding equivalent terms as well as mapping thesauri require a common conceptualisation or at least \" compatible \" conceptualisations. In that context, ontology of the knowledge engineering, defined as a formal specification of a domain conceptualization, is one of the most promising perspectives for the concept system of thesaurus and terminology. By distinguishing the two conceptual and linguistic dimensions, such an approach enables a more comprehensive understanding of the domain, and a more precise description of collections in relation to the domain knowledge. It also enables to improve search functionalities by using both the linguistic relationships between terms and the logical properties of the relationships between concepts. At last, mapping thesauri can gain benefits from works on ontology alignment. The ontoterminology approach of thesaurus – an ontoterminology is a terminology whose conceptual system is a formal ontology – has been deployed in the framework of a first European project for multilingual document management system (ASTECH). It is now involved into different European projects dedicated to cultural heritage (Linked Heritage, AthenaPlus), to multilingual knowledge sharing (SIERA) and to multilingual terminology (University of Liaocheng). This approach is illustrated with OTe-for-Thesaurus, a thesaurus editor based on ontoterminology. In accordance with the ISO 25964-1 and 25964-2 Standards on Thesaurus, the OTe-for-Thesaurus provides functionalities for creation, editing, and mapping thesauri. Based on the SKOS interchange format, it also allows importing and exporting thesauri. The TMP2, stands for Thesaurus Management Platform version 2, is the version of OTe-for-Thesaurus developed for the AthenaPlus European project., Rendre accessibles des collections à des utilisateurs parlant d’autres langues soulève entre autres le problème de la prise en compte du multilinguisme. La recherche d’équivalents linguistiques tout comme la mise en relation de thésaurus supposent une conceptualisation du domaine commune ou du moins des conceptualisations \"compatibles\". Dans ce contexte, l’ontologie au sens de l’ingénierie des connaissances, définie comme une spécification formelle d’une conceptualisation, constitue une des voies les plus prometteuses pour la représentation du système conceptuel des thesaurus et des terminologies. En distinguant les dimensions conceptuelle et linguistique, elle permet une meilleure compréhension du domaine amenant à une description plus précise des contenus au regard des connaissances du domaine. Elle permet d’exploiter pour la recherche d’information aussi bien les relations linguistiques entre termes que les propriétés logiques des relations entre concepts. Enfin, elle fait bénéficier la mise en relation de thesaurus des résultats des travaux menés sur l’alignement d’ontologies. L’approche ontoterminologique des thesaurus (une ontoterminologie est une terminologie dont le système notionnel est une ontologie formelle) a été mise en oeuvre dans le cadre d’un 1er projet européen de gestion de contenus multilingues (ASTECH). Elle est aujourd’hui utilisée au sein de projets liés au secteur culturel (Linked Heritage, Athena Plus) et au partage de connaissances multilingues (SIERA, Université de Liaocheng). L’article est illustré avec l’environnement OTe-for-Thesaurus qui permet, sur la base du modèle ontoterminologique, l’import et l’export de thesaurus au format d’échange SKOS, la création, l’édition et l’alignement de thesaurus dans le respect des normes ISO 25964-1 et -2.",
+        "keywords": "Cultural heritage; Ontoterminology; Terminology; Ontology; Linked and open data; LOD; ISO; Ontoterminologie; Terminologie; Ontologie; Thésaurus; Héritage culturel; Données ouvertes",
+        "domain": "0.scco; 1.scco.ling; 0.info; 0.shs; 1.shs.info",
+        "url": "https://hal.science/hal-01272725v1"
+      },
+      {
+        "hal_id": "1356631",
+        "citation": "Christophe Roche, Luc Damas, Julien Roche. Multilingual Thesaurus: The Ontoterminology Approach. CIDOC 2014 (International Committee for Documentation) - Access and Understanding – Networking in the Digital Era, ICOM - International Council of Museums, Sep 2014, Dresden, Germany. &#x27E8;hal-01356631&#x27E9;",
+        "authors": "Christophe Roche; Luc Damas; Julien Roche",
+        "year": "2014",
+        "abstract": "Making collections accessible to users speaking different languages raises several issues among which the multilingualism problem. Finding equivalent terms as well as mapping thesauri require a common conceptualisation or at least “compatible” conceptualisations. In that context, ontology of the knowledge engineering, defined as a formal specification of a domain conceptualization, is one of the most promising perspectives for the concept system of thesaurus and terminology. By distinguishing the two conceptual and linguistic dimensions, such an approach enables a more comprehensive understanding of the domain, and a more precise description of collections in relation to the domain knowledge. It also enables to improve search functionalities by using both the linguistic relationships between terms and the logical properties of the relationships between concepts. At last, mapping thesauri can gain benefits from works on ontology alignment. The ontoterminology approach of thesaurus – an ontoterminology is a terminology whose conceptual system is a formal ontology – has been deployed in the framework of a first European project for multilingual document management system (ASTECH). It is now involved into different European projects dedicated to cultural heritage (Linked Heritage, AthenaPlus), to multilingual knowledge sharing (SIERA) and to multilingual terminology (University of Liaocheng). This approach is illustrated with OTe-for-Thesaurus, a thesaurus editor based on ontoterminology. In accordance with the ISO 25964-1 and 25964-2 Standards on Thesaurus, the OTe-for-Thesaurus provides functionalities for creation, editing, and mapping thesauri. Based on the SKOS interchange format, it also allows importing and exporting thesauri. The TMP2, stands for Thesaurus Management Platform version 2, is the version of OTe-for-Thesaurus developed for the AthenaPlus European project., Rendre accessibles des collections à des utilisateurs parlant d’autres langues soulève entre autres le problème de la prise en compte du multilinguisme. La recherche d’équivalents linguistiques tout comme la mise en relation de thésaurus supposent une conceptualisation du domaine commune ou du moins des conceptualisations \"compatibles\". Dans ce contexte, l’ontologie au sens de l’ingénierie des connaissances, définie comme une spécification formelle d’une conceptualisation, constitue une des voies les plus prometteuses pour la représentation du système conceptuel des thesaurus et des terminologies. En distinguant les dimensions conceptuelle et linguistique, elle permet une meilleure compréhension du domaine amenant à une description plus précise des contenus au regard des connaissances du domaine. Elle permet d’exploiter pour la recherche d’information aussi bien les relations linguistiques entre termes que les propriétés logiques des relations entre concepts. Enfin, elle fait bénéficier la mise en relation de thesaurus des résultats des travaux menés sur l’alignement d’ontologies. L’approche ontoterminologique des thesaurus (une ontoterminologie est une terminologie dont le système notionnel est une ontologie formelle) a été mise en œuvre dans le cadre d’un 1er projet européen de gestion de contenus multilingues (ASTECH). Elle est aujourd’hui utilisée au sein de projets liés au secteur culturel (Linked Heritage, Athena Plus) et au partage de connaissances multilingues (SIERA, Université de Liaocheng). L’article est illustré avec l’environnement OTe-for-Thesaurus qui permet, sur la base du modèle ontoterminologique, l’import et l’export de thesaurus au format d’échange SKOS, la création, l’édition et l’alignement de thesaurus dans le respect des normes ISO 25964-1 et -2.",
+        "keywords": "Multilingual thesaurus; Multilingual terminology; Ontoterminology; Ontology; Terminology; ISO 25964; Terminologie multilingue; Thésaurus multilingue; Ontoterminologie; Ontologie; Terminologie; Thésaurus",
+        "domain": "0.scco; 1.scco.ling; 0.info; 1.info.info-dl",
+        "url": "https://hal.science/hal-01356631v1"
+      },
+      {
+        "hal_id": "3472320",
+        "citation": "Virginie Ropars, Julien Roche, Philippe Barthe, Christian Roumestand. Analysis of the C12A-p8MTCP1 protein internal motions using fast spectral density mapping at multiple magnetic fields. Comptes Rendus. Chimie, 2008, 11 (4-5), pp.530-540. &#x27E8;10.1016/j.crci.2007.08.012&#x27E9;. &#x27E8;hal-03472320&#x27E9;",
+        "authors": "Virginie Ropars; Julien Roche; Philippe Barthe; Christian Roumestand",
+        "year": "2008",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv",
+        "url": "https://hal.umontpellier.fr/hal-03472320v1"
+      },
+      {
+        "hal_id": "1398067",
+        "citation": "Joachim Schöpfel, Michèle Battisti, Julien Roche, Isabelle Westeel. Le learning centre: Au service des entreprises. Documentaliste - Sciences de l'Information, 2015, 52 (2), pp.9-11. &#x27E8;hal-01290335&#x27E9;",
+        "authors": "Joachim Schöpfel; Michèle Battisti; Julien Roche; Isabelle Westeel",
+        "year": "2015",
+        "abstract": "Créé au service de ses étudiants, de ses enseignants et de ses chercheurs, le learning centre, ancré dans un écosystème, bien au-delà de la seule université, répond à des préoccupations sociales mais aussi économiques.",
+        "keywords": "Innovation; Bibliothèque universtaire; Learning centre",
+        "domain": "0.shs; 1.shs.info",
+        "url": "https://hal.univ-lille.fr/hal-01290335v1"
+      },
+      {
+        "hal_id": "4755026",
+        "citation": "Julien Roche, Pierre Patrice, Alexandre Desgranges, Pierrick Haffray, Florence Phocas. ACCOUNTING FOR A MIXTURE OF DIPLOID AND TRIPLOID FISH IN GENETIC EVALUATION. EAS 2024, Aug 2024, Copenhague, Denmark. &#x27E8;hal-04755026&#x27E9;",
+        "authors": "Julien Roche; Pierre Patrice; Alexandre Desgranges; Pierrick Haffray; Florence Phocas",
+        "year": "2024",
+        "abstract": "<div><p>Induced triploidy is used in various fish and shellfish species to sterilize and improve growth and/or flesh quality in commercial productions, as well as to limit the risk of genetic introgression of farmed genotypes into wild populations. In particular, rainbow trout production of large fillets is based on triploid fish in fresh water. Selective breeding programs on sib performances are exclusively performed on diploid information. Maximizing genetic gain requires the evaluation of breeding values of the diploid candidates based on triploid sibs' performances. In mixed-family designs, this implies genotyping triploids and recovering their pedigree. Until recently, no reliable and open source tools were available to do so. We thus developed methods and R packages for genotype calling (https://cran.rproject.org/web/packages/GenoTriplo/index.html) and parentage assignment of triploids (https://cran.r-project.org/web/packages/APIS/index.html) to properly answer these issues. The relationships between progeny and parents are affected by the triploid nature of offspring as triploid fish inherit two copies of DNA from the mother and one from the father. Therefore, the genetic evaluation gathering information from both diploids and triploids must also account for the various allelic dosages in the relationship matrix used to run a BLUP animal evaluation. This issue was solved in the current study in order to estimate genetic parameters.</p></div>",
+        "keywords": "",
+        "domain": "0.sdv",
+        "url": "https://hal.science/hal-04755026v1"
+      },
+      {
+        "hal_id": "1851315",
+        "citation": "Zhenling Zhang, Christophe Roche, Yangli Jia, Julien Roche, Tong Wei. Term formation method for Chinese neoterm based on concept model and Chinese attribute-head construction. TOTh 2018: Terminology & Ontology: Theories and applications, Jun 2018, Chambéry, France. &#x27E8;hal-01851315&#x27E9;",
+        "authors": "Zhenling Zhang; Christophe Roche; Yangli Jia; Julien Roche; Tong Wei",
+        "year": "2018",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://hal.science/hal-01851315v1"
+      },
+      {
+        "hal_id": "1851353",
+        "citation": "Julien Roche, Christophe Roche, Zhenling Zhang, Yangli Jia, Tong Wei. Proposition d'un modèle computationnel du concept pour la Terminologie. Conférence TOTh 2018, Terminology & Ontology: Theories and applications, Jun 2018, Chambéry, France. &#x27E8;hal-01851353&#x27E9;",
+        "authors": "Julien Roche; Christophe Roche; Zhenling Zhang; Yangli Jia; Tong Wei",
+        "year": "2018",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai; 0.shs; 1.shs.langue",
+        "url": "https://hal.science/hal-01851353v1"
+      },
+      {
+        "hal_id": "4755046",
+        "citation": "Julien Roche, Pierre Patrice, Alexandre Desgranges, Pierrick Haffray, Florence Phocas. Analyse génétique des performances de production et de résistance à l'hypoxie chez des truites arc-en-ciel diploïdes et triploïdes. Journées de la Recherche Filière Piscicole, ITAVI, Jul 2024, Rennes, France. &#x27E8;hal-04755046&#x27E9;",
+        "authors": "Julien Roche; Pierre Patrice; Alexandre Desgranges; Pierrick Haffray; Florence Phocas",
+        "year": "2024",
+        "abstract": "<div>Contexte<p>En France, la production de truite arc-en-ciel s'est essentiellement orientée vers des truites de grande taille, stériles et triploïdes (3N). Les deux-tiers de leur génome proviennent de la mère (2N) et un tiers du père (2N). Actuellement, la sélection des parents s'effectue sur les performances de collatéraux diploïdes. Pour améliorer génétiquement au mieux les performances des triploïdes, il faut 1) génotyper des individus triploïdes, 2) les assigner à leurs parents diploïdes et 3) inclure leurs performances et génomes dans l'évaluation génétique des reproducteurs diploïdes. Dans le cadre du projet FEAMP HypoTemp (P FEA470019FA1000016), nous avons développé méthodes et logiciels pour réaliser les deux premières étapes (packages R GenoTriplo et APIS).</p></div>",
+        "keywords": "",
+        "domain": "0.sdv",
+        "url": "https://hal.science/hal-04755046v1"
+      },
+      {
+        "hal_id": "5103165",
+        "citation": "Julien Roche, Pierre Patrice, Alexandre Desgranges, Pierrick Haffray, Florence Phocas. Analyse génétique des performances de production et de résistance à l'hypoxie chez des truites arc-en-ciel diploïdes et triploïdes. Journées de la Recherche Filière Piscicole, ITAVI, Jul 2024, Rennes, France. &#x27E8;hal-05103165&#x27E9;",
+        "authors": "Julien Roche; Pierre Patrice; Alexandre Desgranges; Pierrick Haffray; Florence Phocas",
+        "year": "2024",
+        "abstract": "<div>Contexte<p>En France, la production de truite arc-en-ciel s'est essentiellement orientée vers des truites de grande taille, stériles et triploïdes (3N). Les deux-tiers de leur génome proviennent de la mère (2N) et un tiers du père (2N). Actuellement, la sélection des parents s'effectue sur les performances de collatéraux diploïdes. Pour améliorer génétiquement au mieux les performances des triploïdes, il faut 1) génotyper des individus triploïdes, 2) les assigner à leurs parents diploïdes et 3) inclure leurs performances et génomes dans l'évaluation génétique des reproducteurs diploïdes. Dans le cadre du projet FEAMP HypoTemp (P FEA470019FA1000016), nous avons développé méthodes et logiciels pour réaliser les deux premières étapes (packages R GenoTriplo et APIS).</p></div>",
+        "keywords": "",
+        "domain": "0.sdv",
+        "url": "https://hal.science/hal-05103165v1"
+      },
+      {
+        "hal_id": "1851316",
+        "citation": "Zhenling Zhang, Christophe Roche, Yangli Jia, Xuecheng Zhang, Julien Roche, et al.. Transparency of Chinese Acupuncture and Moxibustion Terms: A Resource for Scientific Research and Collaboration. TOTh 2018: Terminology & Ontology: Theories and applications, Jun 2018, Chambéry, France. &#x27E8;hal-01851316&#x27E9;",
+        "authors": "Zhenling Zhang; Christophe Roche; Yangli Jia; Xuecheng Zhang; Julien Roche; Maria Papadopoulou",
+        "year": "2018",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://hal.science/hal-01851316v1"
+      },
+      {
+        "hal_id": "4251343",
+        "citation": "Julien Roche, Mathieu Besson, Pierre Patrice, Pierrick Haffray, François Allal, et al.. Génotypage de triploïdes à partir de puces à ADN et Assignation de parenté. Journées Techniques Interfilières SYSAAF, Oct 2023, Rennes, France. &#x27E8;hal-04251343&#x27E9;",
+        "authors": "Julien Roche; Mathieu Besson; Pierre Patrice; Pierrick Haffray; François Allal; Marc Vandeputte; Florence Phocas",
+        "year": "2023",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sde",
+        "url": "https://hal.inrae.fr/hal-04251343v1"
+      },
+      {
+        "hal_id": "4385840",
+        "citation": "Mathieu Besson, Julien Roche, Pierre Patrice, Pierrick Haffray, François Allal, et al.. AN R-BASED PIPELINE FOR GENOTYPE CALLING AND PARENTAGE ASSIGNMENT OF TRIPLOID OFFSPRING TO THEIR DIPLOID PARENTS. Aquaculture Europe 2023, Sep 2023, Vienne, Austria. &#x27E8;hal-04385840&#x27E9;",
+        "authors": "Mathieu Besson; Julien Roche; Pierre Patrice; Pierrick Haffray; François Allal; Marc Vandeputte; Florence Phocas",
+        "year": "2023",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv",
+        "url": "https://hal.inrae.fr/hal-04385840v1"
+      },
+      {
+        "hal_id": "4111934",
+        "citation": "Julien Roche, Manuel Plantegenest, Philippe Larroudé, Jean-Baptiste Thibord, Ronan Le Cointe, et al.. A decision support system based on Bayesian modelling for pest management: Application to wireworm risk assessment in maize fields. Smart Agricultural Technology, 2023, 4, pp.100162. &#x27E8;10.1016/j.atech.2022.100162&#x27E9;. &#x27E8;hal-04087700&#x27E9;",
+        "authors": "Julien Roche; Manuel Plantegenest; Philippe Larroudé; Jean-Baptiste Thibord; Ronan Le Cointe; Sylvain Poggi",
+        "year": "2023",
+        "abstract": "Protecting crops against pests is a major issue in the current agricultural production system. In particular, assessing the risk to crops can promote integrated pest management (IPM) strategies that encourage natural control mechanisms and advocate the use of pesticides as a last resort. In this study, we focused on wireworms, major soil-dwelling insect pests inflicting severe economic damage on various crops (including maize, potatoes and cereals) across Europe and North America. We have developed an original hierarchical Bayesian model that explicitly accounts for biological knowledge and uncertainty in field observations, rather than relying solely on statistical correlations, to predict the level of wireworm infestation. The model was calibrated and validated using a substantial dataset originating from an agro-environmental survey carried out over three consecutive years (2012–2014) in France, which provides the wireworm abundance in 419 maize fields, together with information on the landscape context, field history, weather conditions, soil characteristics and farming practices associated to each field. Model outcomes show good agreement with current knowledge from literature and field expertise in terms of the effects of variables on wireworm abundance, and provide fairly good predictive capacity. Subsequently, the model was encapsulated as a software (R shiny application) to predict the risk of wireworm infestation in any field of interest, and can be used by farmers or agricultural advisors as a decision support system for the implementation of IPM strategies. The conceptual framework that we implemented can be adapted to a wide range of similar situations involving other crops and pests.",
+        "keywords": "Wireworm control; Crop protection; Decision support system; Hierarchical Bayesian model; Integrated pest management IPM; Pest risk assessment",
+        "domain": "0.sdv; 0.stat",
+        "url": "https://hal.inrae.fr/hal-04087700v1"
+      },
+      {
+        "hal_id": "4754946",
+        "citation": "Julien Roche, Mathieu Besson, François Allal, Pierrick Haffray, Pierre Patrice, et al.. GenoTriplo: A SNP genotype calling method for triploids. PLoS Computational Biology, 2024, 20 (9), pp.e1012483. &#x27E8;10.1371/journal.pcbi.1012483&#x27E9;. &#x27E8;hal-04754946&#x27E9;",
+        "authors": "Julien Roche; Mathieu Besson; François Allal; Pierrick Haffray; Pierre Patrice; Marc Vandeputte; Florence Phocas",
+        "year": "2024",
+        "abstract": "Triploidy is very useful in both aquaculture and some cultivated plants as the induced sterility helps to enhance growth and product quality, as well as acting as a barrier against the contamination of wild populations by escapees. To use genetic information from triploids for academic or breeding purposes, an efficient and robust method to genotype triploids is needed. We developed such a method for genotype calling from SNP arrays, and we implemented it in the R package named GenoTriplo. Our method requires no prior information on cluster positions and remains unaffected by shifted luminescence signals. The method relies on starting the clustering algorithm with an initial higher number of groups than expected from the ploidy level of the samples, followed by merging groups that are too close to each other to be considered as distinct genotypes. Accurate classification of SNPs is achieved through multiple thresholds of quality controls. We compared the performance of GenoTriplo with that of fitPoly, the only published method for triploid SNP genotyping with a free software access. This was assessed by comparing the genotypes generated by both methods for a dataset of 1232 triploid rainbow trout genotyped for 38,033 SNPs. The two methods were consistent for 89% of the genotypes, but for 26% of the SNPs, they exhibited a discrepancy in the number of different genotypes identified. For these SNPs, GenoTriplo had >95% concordance with fitPoly when fitPoly genotyped better. On the contrary, when GenoTriplo genotyped better, fitPoly had less than 50% concordance with GenoTriplo. Gen-oTriplo was more robust with less genotyping errors. It is also efficient at identifying low-frequency genotypes in the sample set. Finally, we assessed parentage assignment based on GenoTriplo genotyping and observed significant differences in mismatch rates between the best and second-best couples, indicating high confidence in the results. GenoTriplo could also be used to genotype diploids as well as individuals with higher ploidy level by adjusting a few input parameters.",
+        "keywords": "Genotype; Aquaculture; Triploids",
+        "domain": "0.sdv",
+        "url": "https://hal.science/hal-04754946v1"
+      },
+      {
+        "hal_id": "4935318",
+        "citation": "Julien Roche, Manuel Plantegenest, Philippe Larroudé, Jean-Baptiste Thibord, Ronan Le Cointe, et al.. Un OAD pour prévoir l'abondance de taupins. Phytoma , 2023, 762, pp.45-50. &#x27E8;hal-04932458&#x27E9;",
+        "authors": "Julien Roche; Manuel Plantegenest; Philippe Larroudé; Jean-Baptiste Thibord; Ronan Le Cointe; Sylvain Poggi",
+        "year": "2023",
+        "abstract": "Les larves de tau­pins sont des ravageurs telluriques responsables d'importants dégâts aux conséquences économiques sur diverses cultures, notamment le maïs, les pommes de terre et les céréales. Afin d'identifier les facteurs susceptibles d'influencer l'abondance de taupins, lNRAE et Arvalis viennent d'établir un modèle original construit à partir de connaissances biologiques et écologiques. Les paramètres du modèle ont été définis à partir de nombreuses données issues d'enquêtes parcellaires.",
+        "keywords": "",
+        "domain": "0.stat; 1.stat.ap; 0.sdv; 1.sdv.ee",
+        "url": "https://hal.inrae.fr/hal-04932458v1"
+      },
+      {
+        "hal_id": "4649084",
+        "citation": "Julien Roche, Ronan Griot, François Allal, Mathieu Besson, Pierrick Haffray, et al.. APIS: an updated parentage assignment software managing triploids induced from diploid parents. G3, 2024, 14 (8), &#x27E8;10.1093/g3journal/jkae143&#x27E9;. &#x27E8;hal-04649084&#x27E9;",
+        "authors": "Julien Roche; Ronan Griot; François Allal; Mathieu Besson; Pierrick Haffray; Pierre Patrice; Florence Phocas; Marc Vandeputte",
+        "year": "2024",
+        "abstract": "In aquaculture, sterile triploids are commonly used for production as sterility gives them potential gains in growth, yields, and quality. However, they cannot be reproduced, and DNA parentage assignment to their diploid or tetraploid parents is required to estimate breeding values for triploid phenotypes. No publicly available software has the ability to assign triploids to their parents. Here, we updated the R package APIS to support triploids induced from diploid parents. First, we created new exclusion and likelihood tables that account for the double allelic contribution of the dam and the recombination that can occur during female meiosis. As the effective recombination rate of each marker with the centromere is usually unknown, we set it at 0.5 and found that this value maximizes the assignment rate even for markers with high or low recombination rates. The number of markers needed for a high true assignment rate did not strongly depend on the proportion of missing parental genotypes. The assignment power was however affected by the quality of the markers (minor allele frequency, call rate). Altogether, 96–192 SNPs were required to have a high parentage assignment rate in a real rainbow trout dataset of 1,232 triploid progenies from 288 parents. The likelihood approach was more efficient than exclusion when the power of the marker set was limiting. When more markers were used, exclusion was more advantageous, with sensitivity reaching unity, very low false discovery rate (<0.01), and excellent specificity (0.96–0.99). Thus, APIS provides an efficient solution to assign triploids to their diploid parents.",
+        "keywords": "Parentage assignment; Triploids; SNP; R software; Shiny interface",
+        "domain": "0.sdv; 1.sdv.gen; 2.sdv.gen.ga; 0.sdv; 1.sdv.bibs; 0.sdv; 1.sdv.sa; 2.sdv.sa.zoo",
+        "url": "https://hal.science/hal-04649084v1"
+      },
+      {
+        "hal_id": "1276620",
+        "citation": "Mariano Dellarole, Jose A. Caro, Julien Roche, Martin Fossat, Philippe Barthe, et al.. Evolutionarily Conserved Pattern of Interactions in a Protein Revealed by Local Thermal Expansion Properties. Journal of the American Chemical Society, 2015, 137 (29), pp.9354-9362. &#x27E8;10.1021/jacs.5b04320&#x27E9;. &#x27E8;hal-01276620&#x27E9;",
+        "authors": "Mariano Dellarole; Jose A. Caro; Julien Roche; Martin Fossat; Philippe Barthe; Bertrand García-Moreno; Catherine A. Royer; Christian Roumestand",
+        "year": "2015",
+        "abstract": "The way in which the network of intramolecular interactions determines the cooperative folding and conformational dynamics of a protein remains poorly understood. High-pressure NMR spectroscopy is uniquely suited to examine this problem because it combines the site-specific resolution of the NMR experiments with the local character of pressure perturbations. Here we report on the temperature dependence of the site-specific volumetric properties of various forms of staphylococcal nuclease (SNase), including three variants with engineered internal cavities, as measured with high-pressure NMR spectroscopy. The strong temperature dependence of pressure-induced unfolding arises from poorly understood differences in thermal expansion between the folded and unfolded states. A significant inverse correlation was observed between the global thermal expansion of the folded proteins and the number of strong intramolecular hydrogen bonds, as determined by the temperature coefficient of the backbone amide chemical shifts. Comparison of the identity of these strong H-bonds with the co-evolution of pairs of residues in the SNase protein family suggests that the architecture of the interactions detected in the NMR experiments could be linked to a functional aspect of the protein. Moreover, the temperature dependence of the residue-specific volume changes of unfolding yielded residue-specific differences in expansivity and revealed how mutations impact intramolecular interaction patterns. These results show that intramolecular interactions in the folded states of proteins impose constraints against thermal expansion and that, hence, knowledge of site-specific thermal expansivity offers insight into the patterns of strong intramolecular interactions and other local determinants of protein stability, cooperativity, and potentially also of function.",
+        "keywords": "",
+        "domain": "0.phys; 1.phys.phys; 2.phys.phys.phys-bio-ph",
+        "url": "https://hal.science/hal-01276620v1"
+      },
+      {
+        "hal_id": "3984056",
+        "citation": "Noémie Gil, Baptiste Caron, Didier Siri, Julien Roche, Slim Hadiouch, et al.. Degradable Polystyrene via the Cleavable Comonomer Approach. Macromolecules, 2022, 55 (15), pp.6680-6694. &#x27E8;10.1021/acs.macromol.2c00651&#x27E9;. &#x27E8;hal-03953604&#x27E9;",
+        "authors": "Noémie Gil; Baptiste Caron; Didier Siri; Julien Roche; Slim Hadiouch; Douriya Khedaioui; Stéphane Ranque; Carole Cassagne; Damien Montarnal; Didier Gigmes; Catherine Lefay; Yohann Guillaneuf",
+        "year": "2022",
+        "abstract": "Polystyrene (PS) is a major commodity polymer widely used in various applications ranging from packaging to insulation thanks to its low cost, high stiffness, and transparency as well as its relatively high softening temperature. Similarly to all polymers prepared by radical polymerization, PS is constituted of a C–C backbone and thus is not degradable. To confer degradability to such materials, the copolymerization of vinyl monomers with a cyclic monomer that could undergo radical ring-opening is an efficient method to introduce purposely cleavable bonds into the polymer backbone. Dibenzo[c,e]-oxepane-5-thione (DOT) is a cyclic thionolactone monomer known for its efficient copolymerization with acrylate derivatives but so far could not be incorporated into PS backbones. From a theoretical study combining density functional theory (DFT) and kinetic models using the PREDICI software, we showed that the modification of experimental conditions could overcome these limitations and that high molar mass degradable polystyrene (Mw close to 150 000 g·mol–1) could be prepared via statistical insertion of thioester groups into the polymer backbone. This copolymerization process is compatible with conventional free radical polymerization and reversible deactivation radical polymerization (RDRP) techniques such as nitroxide mediated polymerization (NMP). Thanks to favorable reactivity ratios allowing only a few mol % of thioester units to be randomly incorporated, there was no major modification of the thermal and mechanical properties of the PS. The degradation of such PS could be performed in tetrahydrofuran (THF) at room temperature (RT) in 1 h using 1,5,7-triazabicyclo[4.4.0]dec-5-ene (TBD) as a base, leading to oligomers with Mn close to 2000 g·mol–1. We successfully demonstrate further applicability of these copolymerization systems for the phototriggered decomposition of PS in solution as well as the synthesis of cross-linked PS networks degradable into soluble side products.",
+        "keywords": "",
+        "domain": "0.chim",
+        "url": "https://amu.hal.science/hal-03953604v1"
+      }
+    ],
+    "publication_count": 62,
+    "all_authors": [
+      "Joachim Schöpfel; Julien Roche; Gilles Hubert",
+      "Mariano Dellarole; Jose A. Caro; Julien Roche; Martin Fossat; Philippe Barthe; Bertrand García-Moreno; Catherine A. Royer; Christian Roumestand",
+      "Julien Roche; Catherine Royer; Christian Roumestand",
+      "Julien Roche; Mathieu Besson; Pierre Patrice; Pierrick Haffray; François Allal; Marc Vandeputte; Florence Phocas",
+      "Virginie Ropars; Julien Roche; Philippe Barthe; Christian Roumestand",
+      "Julien Roche; Laure Delrue Vandenbulcke",
+      "Zhenling Zhang; Christophe Roche; Yangli Jia; Xuecheng Zhang; Julien Roche; Maria Papadopoulou",
+      "Julien Roche; Pierre Patrice; Alexandre Desgranges; Pierrick Haffray; Florence Phocas",
+      "Noémie Gil; Baptiste Caron; Didier Siri; Julien Roche; Slim Hadiouch; Douriya Khedaioui; Stéphane Ranque; Carole Cassagne; Damien Montarnal; Didier Gigmes; Catherine Lefay; Yohann Guillaneuf",
+      "Julien Roche; Manuel Plantegenest; Philippe Larroudé; Jean-Baptiste Thibord; Ronan Le Cointe; Sylvain Poggi",
+      "Julien Roche; Véronique Heurtematte",
+      "Julien Roche; Zhenling Zhang",
+      "Cécile Swiatek Cassafieres; Julien Roche",
+      "Christophe Roche; Luc Damas; Julien Roche",
+      "Julien Roche; Mathieu Besson; François Allal; Pierrick Haffray; Pierre Patrice; Marc Vandeputte; Florence Phocas",
+      "Julien Roche; Philippe Père",
+      "Zhenling Zhang; Christophe Roche; Yangli Jia; Julien Roche; Tong Wei",
+      "Julien Roche; Laurent Matejko",
+      "Joachim Schöpfel; Michèle Battisti; Julien Roche; Isabelle Westeel",
+      "Christophe Roche; Julien Roche; Françoise Deloule",
+      "Julien Roche; Christophe Roche; Zhenling Zhang; Yangli Jia; Tong Wei",
+      "Mathieu Besson; Julien Roche; Pierre Patrice; Pierrick Haffray; François Allal; Marc Vandeputte; Florence Phocas",
+      "Julien Roche",
+      "Julien Roche; Ronan Griot; François Allal; Mathieu Besson; Pierrick Haffray; Pierre Patrice; Florence Phocas; Marc Vandeputte"
+    ],
+    "years": [
+      "1996",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2008",
+      "2009",
+      "2010",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "keywords": [
+      "",
+      "Données ouvertes",
+      "Test rapide de diagnostic",
+      "Heresy",
+      "Open Access",
+      "Ontologie",
+      "LFA",
+      "Inquisition",
+      "Ontology",
+      "Hierarchical Bayesian model",
+      "Héritage culturel",
+      "Faible puissance",
+      "ISO 25964",
+      "Clock recovery",
+      "Triploids",
+      "Covid-19",
+      "Multiplicateur de fréquence",
+      "Accès Ouvert",
+      "Ontoterminology",
+      "Développement DM-DIV",
+      "Pierre Isarn",
+      "Aquaculture",
+      "Science Ouverte",
+      "Circuit intégré",
+      "Bibliothèques de recherche",
+      "Bibliothèque universtaire",
+      "NRZI",
+      "LIBER",
+      "Phase noise",
+      "Iso-704",
+      "Coworking",
+      "Ingénierie des connaissances",
+      "Learning center",
+      "Bibliothèques",
+      "LOD",
+      "Chip card",
+      "Abbaye de Caunes",
+      "Iso-860",
+      "R software",
+      "CMOS",
+      "Linked and open data",
+      "Multilingual thesaurus",
+      "Library",
+      "Revue technologique",
+      "Bibliothèque",
+      "Bruit de phase",
+      "Digital Revolution",
+      "Ferrier",
+      "Wireworm control",
+      "Pest risk assessment",
+      "Pierre de Pelages",
+      "USB",
+      "Cultural heritage",
+      "Decision support system",
+      "Integrated pest management IPM",
+      "Abbey of Caunes",
+      "Crop protection",
+      "Frequency",
+      "Terminologie multilingue",
+      "Caunes-Minervois",
+      "Iso-1087",
+      "Low consumption",
+      "Research libraries",
+      "Terminologie",
+      "Hérésie",
+      "Innovation",
+      "Learning centre",
+      "Thésaurus",
+      "Bibliothèques universitaires -- France",
+      "Shiny interface",
+      "Low power",
+      "Multilingual terminology",
+      "Catharism",
+      "Integrated circuit",
+      "Thésaurus multilingue",
+      "Knowledge engineering",
+      "Fréquence",
+      "Open Science",
+      "Ontoterminologie",
+      "PLL",
+      "Catharisme",
+      "Academic library",
+      "Faible consommation",
+      "Révolution numérique",
+      "Parentage assignment",
+      "Carte à puce",
+      "SNP",
+      "Test immunochromatographique",
+      "ISO",
+      "Libraries",
+      "Terminology",
+      "Récupération d'horloge",
+      "Genotype"
+    ],
+    "domains": [
+      "1.sdv.sp",
+      "1.sdv.sa",
+      "0.shs",
+      "1.info.info-ai",
+      "0.chim",
+      "2.sdv.gen.ga",
+      "1.info.info-cl",
+      "0.spi",
+      "1.shs.hist",
+      "0.scco",
+      "1.stat.ap",
+      "0.stat",
+      "1.shs.info",
+      "0.sde",
+      "1.sdv.gen",
+      "1.scco.ling",
+      "1.sdv.ee",
+      "2.phys.phys.phys-bio-ph",
+      "0.phys",
+      "1.sdv.bibs",
+      "0.info",
+      "0.sdv",
+      "1.shs.langue",
+      "1.info.info-dl",
+      "1.phys.phys",
+      "2.sdv.sa.zoo",
+      "1.spi.nano"
+    ],
+    "last_updated": "2025-11-07T10:39:08.249922"
+  },
+  "last_hal_update": "2025-11-07T10:39:08.250295",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/137/5524.html?q=Julien+Roche",
+    "publications": [
+      {
+        "title": "GenoTriplo: A SNP genotype calling method for triploids.",
+        "coauthors": []
+      },
+      {
+        "title": "Le tournant ontologique de la terminologie. (The ontological turn in terminology).",
+        "coauthors": []
+      },
+      {
+        "title": "Improved hybrid semantic similarity algorithm for terminology application.",
+        "coauthors": []
+      },
+      {
+        "title": "A PLL with loop bandwidth enhancement for low-noise and fast-settling clock recovery.",
+        "coauthors": []
+      },
+      {
+        "title": "Low-Gain-Wide-Range 2.4-GHz Phase Locked Loop.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:19.463383",
+    "publication_count": 5
+  },
+  "last_dblp_update": "2025-11-07T10:42:19.501859"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8b2"
+  },
+  "name": "Jean-Jacques VINUREL",
+  "_unique_id": "2a3508f43859d4c08f7bfc988b3a0f16",
+  "category": "collaborateurs_benevoles",
+  "last_updated": "2025-11-07T09:22:10.403932"
+}]

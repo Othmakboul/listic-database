@@ -1,0 +1,231 @@
+[{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9c9"
+  },
+  "NOM": "ETHICS40",
+  "MOTS CLÉS": "Management des risques éthiques dans l’Industrie du Futur",
+  "PARTENAIRES": "LAMIH, CERAG, NTN",
+  "FINANCEURS": "ANR",
+  "PÉRIODE": "2024-2027",
+  "_unique_id": "163aa3a4af0ecd32027046dc3f6345b5"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9cb"
+  },
+  "NOM": "C2R-IA",
+  "MOTS CLÉS": "Chutes de blocs, risque rocheux, gestion opérationnelle du risque par IA",
+  "PARTENAIRES": "BRGM, Géolithe, Cerema, LIRIS",
+  "FINANCEURS": "ANR",
+  "PÉRIODE": "2023-2027",
+  "_unique_id": "b5aa3bb64de3af48eff261f9db6defb3"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9cd"
+  },
+  "NOM": "AIACOPAHV",
+  "MOTS CLÉS": "Compréhension et prédiction de l’activité humaine et volcanique",
+  "PARTENAIRES": "",
+  "FINANCEURS": "ANR",
+  "PÉRIODE": "2023-2027",
+  "_unique_id": "0377420cac7d9fe2a5e270c0bbc1bebf"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9cf"
+  },
+  "NOM": "Lab Capital Humain",
+  "MOTS CLÉS": "",
+  "PARTENAIRES": "PRISMO, CERAG",
+  "FINANCEURS": "Pôle Emploi",
+  "PÉRIODE": "2023-2027",
+  "_unique_id": "0382f5301008a406f3ca17b100979262"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9d1"
+  },
+  "NOM": "REPED-SARIX",
+  "MOTS CLÉS": "Surveillance de la déformation de la terre, prévision des risques naturels, séries temporelles d’images SAR",
+  "PARTENAIRES": "ISTerre, IRD, CNAP, IGE, LEME",
+  "FINANCEURS": "ANR",
+  "PÉRIODE": "2022-2026",
+  "_unique_id": "4fe0c0c09e35f33d1fefa7b0ea090bff"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9d3"
+  },
+  "NOM": "PARFAIT",
+  "MOTS CLÉS": "Planification et apprentissage pour AI-Edge Computing",
+  "PARTENAIRES": "Avignon Université, INRIA, CNAM, Université Savoie Mont Blanc",
+  "FINANCEURS": "ANR",
+  "PÉRIODE": "2022-2025",
+  "_unique_id": "80de292ec2975500b4724f6e66dd50da"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9d5"
+  },
+  "NOM": "MOPGA Postdoc",
+  "MOTS CLÉS": "statistiques robustes, géométrie de l’information, performances théoriques, applications radar",
+  "PARTENAIRES": "",
+  "FINANCEURS": "Campus France MOPGA Post-doc",
+  "PÉRIODE": "2021-2022",
+  "_unique_id": "1f337531935f9d0d4a3ce4ab9349186a"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9d7"
+  },
+  "NOM": "RainbowFS",
+  "MOTS CLÉS": "Cohérence modulaire et conception conjointe d’un système de fichiers\nmassif",
+  "PARTENAIRES": "LIP6, LIG, Telecom SudParis, Scality",
+  "FINANCEURS": "ANR",
+  "PÉRIODE": "2017-2022",
+  "_unique_id": "e2c60612b6cd816c7d36fedb6c77e52f"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9d9"
+  },
+  "NOM": "MARGARITA",
+  "MOTS CLÉS": "statistiques robustes, géométrie de l’information, performances théoriques, applications radar",
+  "PARTENAIRES": "IMS, LEME, LSS, ONERA, SONDRA",
+  "FINANCEURS": "DGA",
+  "PÉRIODE": "2017-2022",
+  "_unique_id": "6ab855240fd3aef1ffac0b99c8d3de55"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9db"
+  },
+  "NOM": "PHOENIX",
+  "MOTS CLÉS": "Parcimonie, observations non-stationnaires de grandes dimensions, modélisation des séries chronologiques d’images et télédétection",
+  "PARTENAIRES": "Télécom Paris-Tech, Télécom Brest, Université de Marne-la-Vallée, Université de Campinas",
+  "FINANCEURS": "ANR (Blanc)",
+  "PÉRIODE": "2015-2019",
+  "_unique_id": "8e4f04b8ce45134e9cd8ac33d1f2240d"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9dd"
+  },
+  "NOM": "ReVeRies",
+  "MOTS CLÉS": "Reconnaissance de végétaux récréative, interactive et éducative sur smartphone",
+  "PARTENAIRES": "LIUM (porteur), LIRIS, EVS, IRHS",
+  "FINANCEURS": "ANR",
+  "PÉRIODE": "2015-2019",
+  "_unique_id": "7ef40408fd2c568ebf7ee926ec7665b1"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9df"
+  },
+  "NOM": "VIP-Mont-Blanc",
+  "MOTS CLÉS": "Comprendre et prévoir les évolutions de l’environnement : Un projet de recherche sur l’évolution morphologique du massif du Mont Blanc",
+  "PARTENAIRES": "ISTerre (porteur), EDYTEM, CEREGE, LGGE, BIOGEOSCIENCES",
+  "FINANCEURS": "ANR",
+  "PÉRIODE": "2014-2018",
+  "_unique_id": "98ab45767d5a8d489ec844ec25300ae9"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9e1"
+  },
+  "NOM": "G4M",
+  "MOTS CLÉS": "Géodétection Multi-Métiers et Multi-Matériaux",
+  "PARTENAIRES": "ENGIE (porteur), Télécom Paris Tech",
+  "FINANCEURS": "FUI (15)",
+  "PÉRIODE": "2014-2017",
+  "_unique_id": "1ee7a923093d3360c301230fc4d1fd9f"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9e3"
+  },
+  "NOM": "FOSTER",
+  "MOTS CLÉS": "data mining, images satelite, séries temporelles",
+  "PARTENAIRES": "LIRIS, LSIIT, PPME",
+  "FINANCEURS": "ANR conception et simulation",
+  "PÉRIODE": "2011-2013",
+  "_unique_id": "fe6a3de061af3aaaec9cab839d07d2de"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9e5"
+  },
+  "NOM": "REVES",
+  "MOTS CLÉS": "reconnaissance de végétaux, images, fusion d’informations hétérogènes, smartphone",
+  "PARTENAIRES": "LIRIS (porteur), EVS",
+  "FINANCEURS": "ANR contenus et interactions",
+  "PÉRIODE": "2010-2013",
+  "_unique_id": "d4d883f791db497a370ed514ac3b79cb"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9e7"
+  },
+  "NOM": "BATIMETRE",
+  "MOTS CLÉS": "performance énergétique, bâtiments à basse consommation",
+  "PARTENAIRES": "INES, LIST, LOCIE",
+  "FINANCEURS": "ANR habitat intelligent et solaire",
+  "PÉRIODE": "2010-2012",
+  "_unique_id": "b5f36c6e85703be2561a44393e1b73b9"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9e9"
+  },
+  "NOM": "EFIDIR",
+  "MOTS CLÉS": "Mesure de déplacement, Imagerie radar",
+  "PARTENAIRES": "IETR, GIPSA-Lab, LTCI, ISTerre, Lab. Géologie de l’ENS",
+  "FINANCEURS": "ANR Masse de données et connaissance",
+  "PÉRIODE": "2008-2012",
+  "_unique_id": "2efc25dc80f3a2ad2256bf3a92ad3590"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9eb"
+  },
+  "NOM": "MES-Mestria",
+  "MOTS CLÉS": "SOA, aide à la décision, processus métiers, orchestration de services, QoS, modèles de préférences, cartographie de services, MES, services Web, BPMN, architecture logicielle, ISA-95",
+  "PARTENAIRES": "Alpha 3i, Carl software, Cincom, Courbon, Jam, M1i, Quasar solutions,DISP,Thésame",
+  "FINANCEURS": "Région Rhône-Alpes",
+  "PÉRIODE": "2008-2011",
+  "_unique_id": "4242428a000132c35697835f5cba530a"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9ed"
+  },
+  "NOM": "EVALFILMS",
+  "MOTS CLÉS": "système coopératif, fusion d’information, sélection de film d’animation",
+  "PARTENAIRES": "CITIA",
+  "FINANCEURS": "Région Rhône-Alpes",
+  "PÉRIODE": "2005-2008",
+  "_unique_id": "5a2c0da4ae71271694e502e78e97b135"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9ef"
+  },
+  "NOM": "MEGATOR",
+  "MOTS CLÉS": "glaciers, télédétection, données optiques et radar, méthodologie de traitement",
+  "PARTENAIRES": "GIPSA-Lab, LTCI,MAP-PAGE",
+  "FINANCEURS": "ACI->ANR Masse de données",
+  "PÉRIODE": "2004-2007",
+  "_unique_id": "34b02ed06b8f17ab4f4cf29eb4be727e"
+},
+{
+  "_id": {
+    "$oid": "690dbb545407ffa83058e9f1"
+  },
+  "NOM": "PETRA",
+  "MOTS CLÉS": "guide méthodologique, réorganisation industrielle",
+  "PARTENAIRES": "LGIPM",
+  "FINANCEURS": "Université de Lorraine, Université Savoie Mont Blanc",
+  "PÉRIODE": "1999-2001",
+  "_unique_id": "f0d461c94312a084ab3638e0c5977cc2"
+}]

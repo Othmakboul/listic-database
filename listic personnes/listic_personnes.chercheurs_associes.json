@@ -1,0 +1,926 @@
+[{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8b4"
+  },
+  "name": "Pascal AYGALINC",
+  "_unique_id": "d2f789fa83d159d89e9b2527ff4a831f",
+  "category": "chercheurs_associes",
+  "last_updated": "2025-11-07T09:22:10.404638",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "1874912",
+        "citation": "Pascal Aygalinc, S. Calvez. Introduction des systèmes Soc en DUT GEII. 2017, &#x27E8;10.1051/j3ea/20171007&#x27E9;. &#x27E8;hal-01874912&#x27E9;",
+        "authors": "Pascal Aygalinc; S. Calvez",
+        "year": "2017",
+        "abstract": "Découvrir les systèmes embarqués basés sur des architectures Soc (System On chip) intégrant un système d'exploitation de type Linux est possible au niveau DUT GEII si l'on en restreint le champ des thèmes abordés. L'expérience menée ici sous la forme d'un projet réalisé au semestre 4 de cette formation s'intéresse uniquement à la conception de composants custom mappés en mémoire et au développement de pilotes de type caractère autorisant leur utilisation. L'objectif est de réaliser avec un système Soc la commande hybride d'un train miniature. Cet article traite des prérequis nécessaires ainsi que les moyens indispensables à mettre en oeuvre par l'enseignant pour faciliter le prototypage rapide aussi bien au niveau matériel que logiciel.",
+        "keywords": "",
+        "domain": "0.info; 0.info; 1.info.info-es; 0.info; 1.info.info-ar; 0.info; 1.info.info-au; 0.info; 1.info.info-sy",
+        "url": "https://hal.science/hal-01874912v1"
+      }
+    ],
+    "publication_count": 1,
+    "all_authors": [
+      "Pascal Aygalinc; S. Calvez"
+    ],
+    "years": [
+      "2017"
+    ],
+    "keywords": [
+      ""
+    ],
+    "domains": [
+      "0.info",
+      "1.info.info-es",
+      "1.info.info-sy",
+      "1.info.info-au",
+      "1.info.info-ar"
+    ],
+    "last_updated": "2025-11-07T10:39:10.689137"
+  },
+  "last_hal_update": "2025-11-07T10:39:10.689535",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/01/6268.html?q=Pascal+Aygalinc",
+    "publications": [
+      {
+        "title": "Proactive/reactive approach for maintenance tasks in time critical systems.",
+        "coauthors": []
+      },
+      {
+        "title": "Verification technique for time Petri nets.",
+        "coauthors": []
+      },
+      {
+        "title": "Using firing instants approach and partial order to control time critical systems.",
+        "coauthors": []
+      },
+      {
+        "title": "A control model for multi-products processing.",
+        "coauthors": []
+      },
+      {
+        "title": "Robust control for time-critical systems.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:20.977439",
+    "publication_count": 5
+  },
+  "last_dblp_update": "2025-11-07T10:42:21.019895"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8b6"
+  },
+  "name": "Soizick CALVEZ",
+  "_unique_id": "042dc1f04af1f379060caf3d232a0a6e",
+  "category": "chercheurs_associes",
+  "last_updated": "2025-11-07T09:22:10.437799",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/64/6325.html?q=Soizick+Calvez",
+    "publications": [
+      {
+        "title": "Proactive/reactive approach for maintenance tasks in time critical systems.",
+        "coauthors": []
+      },
+      {
+        "title": "Verification technique for time Petri nets.",
+        "coauthors": []
+      },
+      {
+        "title": "Using firing instants approach and partial order to control time critical systems.",
+        "coauthors": []
+      },
+      {
+        "title": "A control model for multi-products processing.",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:21.488716",
+    "publication_count": 4
+  },
+  "last_dblp_update": "2025-11-07T10:42:21.520918"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8b8"
+  },
+  "name": "Éric CHOTIN",
+  "_unique_id": "856eb48a2d27935030fbd8fc5521079f",
+  "category": "chercheurs_associes",
+  "last_updated": "2025-11-07T09:22:10.438757",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "341773",
+        "citation": "Eric Chotin. Placement automatique de circuits intégrés. Modélisation et simulation. Institut National Polytechnique de Grenoble - INPG, 1992. Français. &#x27E8;NNT : &#x27E9;. &#x27E8;tel-00341773&#x27E9;",
+        "authors": "Eric Chotin",
+        "year": "1992",
+        "abstract": "Cette thèse présente l'étude et l'implantation de deux méthodes pour le placement automatique de circuits intégrés. Un circuit intégré peut être considéré comme un ensemble de blocs et une liste d'interconnexions entre ces blocs. Le probleme du placement consiste a disposer les blocs sur la surface hôte en respectant diverses contraintes et en optimisant des critères comme la surface occupée et la longueur totale de connexions. Les méthodes présentées ici sont toutes les deux guidées par l'optimisation de la connectique. La première fait appel a une technique d'analyse de données, l'analyse d'un tableau de proximités. Dans un premier temps, des proximités sont definies entre les blocs de façon a refléter un agencement ideal en fonction de la connectique. L'utilisation de l'atp permet alors d'obtenir une disposition planaire des blocs respectant au mieux les proximités qui ont été définies. L'analyse effectuée fait le point sur les diverses façons de définir les proximités entre les blocs, ainsi que sur les traitements ultérieurs destines a l'obtention d'un placement réalisable. Les qualités et les limitations de cette approche sont ensuite discutées. La seconde methode est connue sous le nom de placement par bipartitionnements successifs. L'ensemble des blocs du circuit et la surface hôte sont ainsi bipartitionnes récursivement jusqu'à ce que l'emplacement de chaque bloc soit déterminé. A partir des algorithmes existants, des heuristiques ont été mises au point afin de permettre la prise en compte de contraintes supplémentaires comme le traitement des plots d'entrées-sorties ou des blocs pré-fixes. L'expérimentation a permis de valider ces heuristiques et de comparer les résultats du placement a ceux fournis par la première methode",
+        "keywords": "Placement de circuit; Analyse de données; Bipartitionnement de graphe",
+        "domain": "0.info; 1.info.info-mo",
+        "url": "https://theses.hal.science/tel-00341773v1"
+      },
+      {
+        "hal_id": "722033",
+        "citation": "Eric Benoit, Eric Chotin, Gilles Mauris. A dedicated language for distributed intelligence based fuzzy sensors. IEEE instrumentation & Measurement Technology Conference, May 1998, St Paul, United States. pp.843-847. &#x27E8;hal-00722033&#x27E9;",
+        "authors": "Eric Benoit; Eric Chotin; Gilles Mauris",
+        "year": "1998",
+        "abstract": "This paper presents a concept of distribution of the computational activity over a networked set of fuzzy sensors. This concept is based on the separation of the concept of intelligence and the computational capability. The PLICAS language specially created to apply this concept and its fuzzy processing capabilities are presented. This concept is applied to the fuzzy description of comfort measurement from temperature and humidity measurements.",
+        "keywords": "Fuzzy processing; Distributed computing",
+        "domain": "0.phys; 1.phys.phys; 2.phys.phys.phys-ins-det",
+        "url": "https://hal.science/hal-00722033v1"
+      },
+      {
+        "hal_id": "2069754",
+        "citation": "Eric Chotin, Eric Benoit, Laurent Foulloy. An Approach for Cooperation in Distributed Architectures. 9th IFAC Symposium on Information Control in Manufacturing (INCOM '98), Jun 1998, Nancy, France. pp.577-582, &#x27E8;10.1016/S1474-6670(17)40613-6&#x27E9;. &#x27E8;hal-02069754&#x27E9;",
+        "authors": "Eric Chotin; Eric Benoit; Laurent Foulloy",
+        "year": "1998",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.spi; 1.spi.auto",
+        "url": "https://hal.science/hal-02069754v1"
+      }
+    ],
+    "publication_count": 3,
+    "all_authors": [
+      "Eric Benoit; Eric Chotin; Gilles Mauris",
+      "Eric Chotin",
+      "Eric Chotin; Eric Benoit; Laurent Foulloy"
+    ],
+    "years": [
+      "1992",
+      "1998"
+    ],
+    "keywords": [
+      "",
+      "Placement de circuit",
+      "Distributed computing",
+      "Bipartitionnement de graphe",
+      "Analyse de données",
+      "Fuzzy processing"
+    ],
+    "domains": [
+      "0.info",
+      "0.phys",
+      "0.spi",
+      "2.phys.phys.phys-ins-det",
+      "1.phys.phys",
+      "1.spi.auto",
+      "1.info.info-mo"
+    ],
+    "last_updated": "2025-11-07T10:39:12.993428"
+  },
+  "last_hal_update": "2025-11-07T10:39:12.994070",
+  "dblp_data": {
+    "dblp_url": "https://dblp.org/pid/182/9404.html?q=%C3%89ric+Chotin",
+    "publications": [
+      {
+        "title": "Placement automatique de circuits intégrés. (Automated placement of integrated circuits).",
+        "coauthors": []
+      }
+    ],
+    "coauthors": [],
+    "venues": [],
+    "years": [],
+    "last_updated": "2025-11-07T10:42:22.073318",
+    "publication_count": 1
+  },
+  "last_dblp_update": "2025-11-07T10:42:22.082483"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8ba"
+  },
+  "name": "Jean-Jacques CURTELIN",
+  "_unique_id": "f34735a98c6bcd2e2f9e3ee49a50d20c",
+  "category": "chercheurs_associes",
+  "last_updated": "2025-11-07T09:22:10.439416",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "1936336",
+        "citation": "Aurélie Feron, Stéphane Guillet, Jean-Jacques Curtelin. Accompagner des équipes pédagogiques pour mettre en œuvre l'évaluation des compétences à l'aide d'un outil e-portfolio. Colloque international : Apprendre, Transmettre, Innover à et par l'Université Saison_2, Groupe de recherche interdisciplinaire IDEFI-UM3D, Jun 2018, Montpellier, France. &#x27E8;hal-01936336&#x27E9;",
+        "authors": "Aurélie Feron; Stéphane Guillet; Jean-Jacques Curtelin",
+        "year": "2018",
+        "abstract": "Sur le site de la Communauté des universités et établissements de Grenoble Alpes (ComUE UGA), quatre institutions d’enseignement supérieur ont choisi de mettre en place l’évaluation des compétences à l’aide d’un outil e-portfolio, dans diverses formations. Dans chacune des formations, un groupe de travail a été constitué pour mettre en place l’évaluation des compétences. Ces groupes de travail sont accompagnés par une conseillère pédagogique ㅡdans le cadre d’un projet IDEFI Numérique (ReFlexPro) soutenu par l’Agence Nationale de la Recherche et porté par la ComUE UGAㅡ et dans certains cas par la cellule d’appui pédagogique de l’institution. Dès la conception, les échanges au sein des groupes de travail ont soulevé de nombreuses questions. Leurs premiers travaux ont porté sur les préalables nécessaires à la démarche portfolio, et ce de leur propre initiative. Ils ont défini les attendus en fin de formation ㅡpour celles qui ne disposaient pas de référentielㅡ ou ont opéré des modifications sur l’existant. Ils ont également tous élaboré des grilles critériées. Les premières expérimentations et retours des usagers (étudiants et enseignants) sont en cours. Ce travail préalable de fond ㅡimprévu lors de la planification du projetㅡ a sans doute pu trouver place par notre volonté d’accompagner les équipes selon les principes d’implication distanciée (Germain-Thiant, 2001) et ceux issus des méthodes Agile (Cunningham et al., 2001). Les groupes sont accompagnés dans une perspective individuelle de développement professionnel (Frenay, Jorro et Poumay, 2011), et dans une perspective collective de partage en communauté de pratique (Cox, 2005). Il s’agit, d’une part, d’accompagner chaque groupe de travail à la mise en oeuvre de son projet, en s’assurant de l’implication régulière de l’ensemble de l’équipe pédagogique, et ce afin d’assurer l’adhésion de tous les acteurs (Autissier et Moutot, 2015). Il s’agit, d’autre part, de créer des synergies entre les groupes de travail pour que chacun puisse bénéficier des retours d’expériences des autres et échanger ensemble sur des questionnements communs. Depuis le début du projet en mai 2016 : - chaque groupe de travail se réunit selon ses besoins, un groupe de travail pour la mise en oeuvre de l’outil e-portfolio se réunit régulièrement (déjà 14 réunions entre fin mars et septembre 2017), - une visite de chantier a eu lieu et une autre est programmée pour le semestre prochain afin de partager sur le fonctionnement et les productions des groupes de G-INP, - des rencontres trimestrielles entre les responsables des groupes permettent de faire le point et de partager. La décentration nécessaire à la co-construction d’un outil e-portfolio commun à l’ensemble des groupes de travail a permis d’inciter une prise de recul sur ses propres pratiques. L’adaptation permanente de l’accompagnement aux besoins, contextes et questionnements des équipes s’est montrée tout à fait adéquate pour encourager les équipes à être autonomes dans leurs réflexions et leur pratique. Les synergies créées entre les groupes de travail se montrent particulièrement fructueuses pour mettre en oeuvre des projets d’une telle envergure.",
+        "keywords": "E-portfolio; Évaluation des compétences; Accompagnement d’équipe",
+        "domain": "0.shs; 1.shs.edu",
+        "url": "https://hal.science/hal-01936336v1"
+      },
+      {
+        "hal_id": "1871556",
+        "citation": "Aurélie Feron, Stéphane Guillet, Jean-Jacques Curtelin. Quel outil e-portfolio pour quel(s) usage(s) pédagogique(s)?. Questions de Pédagogies dans l'Enseignement Supérieur, Jun 2017, Grenoble, France. &#x27E8;hal-01871556&#x27E9;",
+        "authors": "Aurélie Feron; Stéphane Guillet; Jean-Jacques Curtelin",
+        "year": "2017",
+        "abstract": "L'objectif de cette communication est d'effectuer un retour d'expérience sur un processus d'analyse d'outils e-portfolio, dans le contexte du projet IDEFI-N ReFlexPro. Ce projet s'effectue sur un site universitaire regroupant des équipes pédagogiques ayant des besoins et usages spécifiques dans des contextes universitaires pluriels. Le processus d'analyse-basé sur une forte communication avec les différents acteurs-est expliqué. Un document de synthèse permet de présenter quelques outils e-portfolio analysés selon les usages souhaités par les acteurs du terrain, et de faciliter la prise de décision. Les difficultés rencontrées ainsi que les leviers utilisés pour mener à bien ce travail sont également détaillés dans cette communication., This communication aims to give feedback on an analysis process of e-portfolio tools, within the framework of ReFlexPro, an IDEFI-N project. The project takes place in an academic community with different teaching teams, with specific needs and uses, in plural academic contexts. The analysis process, based on a strong communication with the professionals in the field, is explained. A synthesis of the analyzed tools presents the results regarding the functions desired by the teaching teams. This document should facilitate decision making. The difficulties met on the project and the incentives used to succeed are also discussed in this communication.",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.edu",
+        "url": "https://hal.science/hal-01871556v1"
+      },
+      {
+        "hal_id": "1871547",
+        "citation": "Aurélie Feron, Stéphane Guillet, Jean-Jacques Curtelin. Accompagner des équipes pédagogiques pour mettre en oeuvre l'évaluation des compétences à l'aide d'un outil e-portfolio. Apprendre, Transmettre, Innover à et par l'Université - saison 2, Jun 2018, Montpellier, France. &#x27E8;hal-01871547&#x27E9;",
+        "authors": "Aurélie Feron; Stéphane Guillet; Jean-Jacques Curtelin",
+        "year": "2018",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.edu",
+        "url": "https://hal.science/hal-01871547v1"
+      }
+    ],
+    "publication_count": 3,
+    "all_authors": [
+      "Aurélie Feron; Stéphane Guillet; Jean-Jacques Curtelin"
+    ],
+    "years": [
+      "2017",
+      "2018"
+    ],
+    "keywords": [
+      "",
+      "Évaluation des compétences",
+      "E-portfolio",
+      "Accompagnement d’équipe"
+    ],
+    "domains": [
+      "0.shs",
+      "1.shs.edu"
+    ],
+    "last_updated": "2025-11-07T10:39:14.553002"
+  },
+  "last_hal_update": "2025-11-07T10:39:14.553330"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8bc"
+  },
+  "name": "Pascal MOUILLE",
+  "_unique_id": "3da3196151da86f11310335a6a85e73f",
+  "category": "chercheurs_associes",
+  "last_updated": "2025-11-07T09:22:10.439929",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "428603",
+        "citation": "Olivier Pages, Bernard Caron, Pascal Mouille, Raul Ordonez. Control System Design by Using a Multi-Controller Approach With a Real-Time Experimentation for a Robot Wrist. International Journal of Control, 2002, 75 (16/17), pp.1321-1334. &#x27E8;10.1080/0020717021000023753&#x27E9;. &#x27E8;hal-00428603&#x27E9;",
+        "authors": "Olivier Pages; Bernard Caron; Pascal Mouille; Raul Ordonez",
+        "year": "2002",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.spi; 1.spi.auto",
+        "url": "https://hal.science/hal-00428603v1"
+      }
+    ],
+    "publication_count": 1,
+    "all_authors": [
+      "Olivier Pages; Bernard Caron; Pascal Mouille; Raul Ordonez"
+    ],
+    "years": [
+      "2002"
+    ],
+    "keywords": [
+      ""
+    ],
+    "domains": [
+      "1.spi.auto",
+      "0.spi"
+    ],
+    "last_updated": "2025-11-07T10:39:15.280751"
+  },
+  "last_hal_update": "2025-11-07T10:39:15.281554"
+},
+{
+  "_id": {
+    "$oid": "690dac325407ffa83058e8be"
+  },
+  "name": "Maria PAPADOPOULOU",
+  "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/chercheurs-associes/maria-papadopoulou/",
+  "email": "maria.papadopoulou@univ-savoie.fr",
+  "phone": "+33 (0) 479 758 779",
+  "adresse": "Bâtiment Polytech, Campus Scientifique, Université Savoie Mont-Blanc, 73 376 Le Bourget du Lac cedex, France",
+  "website": "http://o4dh.com/maria-papadopoulou",
+  "Theme": "Classics, Linguistics, Digital Humanities, Semantic Web, Ontology, Terminology",
+  "_unique_id": "c33dfc2b9e80b74fd97dff3cee9d691e",
+  "category": "chercheurs_associes",
+  "last_updated": "2025-11-07T09:22:10.440426",
+  "hal_data": {
+    "hal_publications": [
+      {
+        "hal_id": "1871112",
+        "citation": "Maria Papadopoulou, Christophe Roche. Structuring Humanities’ Data through Formal Domain Ontologies. EADH 2018: \"Data in Digital Humanities\", Dec 2018, Galway, Ireland. &#x27E8;hal-01871112&#x27E9;",
+        "authors": "Maria Papadopoulou; Christophe Roche",
+        "year": "2018",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.shs; 1.shs.museo; 0.info; 1.info.info-ai; 0.shs; 1.shs.archeo; 0.info; 1.info.info-wb; 0.scco; 1.scco.ling; 0.info; 1.info.info-dl",
+        "url": "https://hal.science/hal-01871112v1"
+      },
+      {
+        "hal_id": "2933273",
+        "citation": "Christophe Roche, Maria Papadopoulou. Revue Ouverte d’Intelligence Artificielle. Revue Ouverte d'Intelligence Artificielle, 2020, Revue Ouverture d'Intelligence Artificielle, 1 (1), pp.43-70. &#x27E8;hal-02933273&#x27E9;",
+        "authors": "Christophe Roche; Maria Papadopoulou",
+        "year": "2020",
+        "abstract": "La classification des objets, le choix des termes et leur définition au regard des connaissances du domaine, sont des préoccupations constantes en Humanités Numériques (HN). Dans ce cadre, et dans le contexte du partage et de l’interopérabilité des données sur le Web, les ontologies au sens de l’Ingénierie des Connaissances (IC )constituent une des avancées les plus intéressantes. Mais les principes sous-jacents à la conceptualisation d’un domaine tels que l’entendent l’IC et les HN ne sont pas nécessairement les mêmes. À cela s’ajoute un problème de Terminologie en tant que discipline souvent sous-estimée aussi bien par les uns que par les autres. Cet article s’intéresse àla façon de procéder des experts dans leur “définition des choses” et dans la manière de les nommer. Cela nous a conduits à définir une méthode outillée de construction de terminologies dont le système conceptuel est une ontologie formelle, dans le respect des normes ISO et des standards du W3C. Cette méthode est illustrée à l’aide du premier dictionnaire ontoterminologique des vêtements de la Grèce antique., Classifying objects and choosing the right terms and definitions for them, all the while taking domain knowledge into account, are constant concerns in Digital Humanities (DH). In this regard, as well as in that of data interoperability and sharing on the Web, ontologies, in the sense of Knowledge Engineering (KE), constitute one of the most interesting developments. When conceptualizing a domain, the underlying principles in AI do not necessarily dovetail with those in DH. Adding to that, Terminology, as a discipline, has not really received due attention by AI and DH specialists as yet. This article is interested in the way experts work towards coming up with “definitions of things” and with naming things. The result of this reflection is a tool-assisted method for building terminologies whose conceptual system is a formal ontology, compliant with the ISO and W3C standards. The approach is illustrated by means of presenting the first ontoterminology dictionary of garments of ancient Greece., La clasificación de los objetos, la elección de los términos y su definición con respecto al conocimiento del ámbito son preocupaciones constantes en las Humanidades Digitales (HD). En este marco, y en el contexto del intercambio y la interoperabilidad de datos en la Web, las ontologías en el sentido de la Ingeniería del Conocimiento (IC) constituyen uno de los avances más interesantes. Pero los principios que subyacen la conceptualización de un dominio tal como lo entienden la IC y las HD no son necesariamente los mismos. A esto se agrega un problema de Terminología como disciplina que a menudo es subestimada por ambos dominios. Este artículo se interesa a la manera de proceder de los expertos en su “definición de las cosas” y cómo las nombran. Esto nos ha llevado a definir un método basado en herramientas para la construcción de terminologías cuyo sistema conceptual es una ontología formal, en conformidad con las normas de la ISO y los estándares del W3C. Este método está ilustrado gracias al primer diccionario ontoterminológico de la vestimenta de la antigua Grecia.",
+        "keywords": "Terminology; Ontoterminology; Historical lexicography; Digital humanities; Ontology; Ontology building; Ontología; Terminología; Construcción de ontología; Humanidades digitales; Lexicografía histórica; Ontoterminologia; Représentation des connaissances; Ontologie; Terminologie; Ontoterminologie; Méthodologie; Humanités numériques; Lexicographie historique; Ontologie des vêtements de la Grèce antique; Dictionnaires électroniques; Normes ISO; Standards W3C; Éditeur d’ontologies et de terminologies; TEDI",
+        "domain": "0.info; 1.info.info-ai; 0.shs; 1.shs.museo; 0.scco; 1.scco.ling; 0.info; 1.info.info-cl; 0.info; 1.info.info-dl; 0.shs; 1.shs.class",
+        "url": "https://hal.science/hal-02933273v1"
+      },
+      {
+        "hal_id": "1851026",
+        "citation": "Maria Papadopoulou, Christophe Roche. Ontologization of Terminology. A worked example from the domain of ancient Greek dress. AIDAinformazioni: Rivista di Scienze dell'informazione, 2018, 1-2, pp.89-107. &#x27E8;hal-01851026&#x27E9;",
+        "authors": "Maria Papadopoulou; Christophe Roche",
+        "year": "2018",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.scco; 1.scco.ling; 0.info; 1.info.info-ai; 0.info; 1.info.info-cl; 0.info; 1.info.info-dl; 0.info; 1.info.info-gl",
+        "url": "https://hal.science/hal-01851026v1"
+      },
+      {
+        "hal_id": "1850942",
+        "citation": "Maria Papadopoulou, Christophe Roche. Ontoterminology of Ancient Greek Garments. Terminology & Ontology: Theories and applications, Equipe Condillac - Laboratoire Listic - Université Savoie Mont-Blanc, Jun 2017, Chambéry, France. &#x27E8;hal-01850942&#x27E9;",
+        "authors": "Maria Papadopoulou; Christophe Roche",
+        "year": "2018",
+        "abstract": "Our central research question is how to exploit textual, visual and material sources to broaden and deepen our understanding of the domain of ancient Greek dress. In answering this we used a highly interdisciplinary approach that brings together ontology engineering and linguistics and applies them to classics, dress history, material culture and cultural heritage studies. In this paper we describe the building of the first multilingual ontoterminology of the domain of ancient Greek garments, i.e. a terminology whose conceptual model is a formal ontology. For the modelling of the domain knowledge of ancient Greek dress we used Tedi (ontoTerminology editor), a new software environment , compliant with semantic web standards, specifically catering to the needs of terminologists and cultural heritage specialists researching and/or making use of terminologies of their respective fields. In what follows we present the basic steps towards the definition of the concepts of the domain in a formal language (i.e. not in natural language) by means of specific axes of analysis. We aim for very finely structured knowledge which can eventually support two types of queries: by means of words, but also by means of ideas (concepts). The outcome is a multilingual set of consistently 1 defined terms of the domain of ancient Greek dress. Our approach evidences the conceptual richness and complexity of this domain, while demonstrating the importance of having at the expert's disposal specialized software for the representation of complex domain knowledge and terminology. 1 i.e. in accordance with domain knowledge., Cet article décrit la construction de la première ontoterminologie multilingue du domaine des vêtements de la Grèce antique, c’est-à-dire une terminologie dont le modèle conceptuel est une ontologie formelle. Notre recherche a pour objectif l’exploitation de sources textuelles, visuelles et matérielles afin de dé-finir une ontoterminologie qui élargira et approfondira notre compréhension tant conceptuelle que terminologique du domaine des vêtements. Pour y ré-pondre, nous avons suivi une démarche interdisciplinaire associant l’ingénierie ontologique à la linguistique pour les appliquer aux Classiques, à l’histoire de l'habillement, à l’histoire sociale et culturelle et aux études du patrimoine cultu-rel. La modélisation des connaissances du domaine s’est faite à l’aide de l’environnement Tedi (onTerminology editor), un nouvel environnement logi-ciel répondant spécifiquement aux besoins des terminologues et des spécialistes du patrimoine culturel. Cet article présente les étapes suivies pour la construc-tion de l’ontologie du domaine et la définition des termes sur la base de caracté-ristiques essentielles structurées en axes d’analyse et posées comme extralin-guistiques : la définition des termes en langue naturelle s’appuie sur la défini-tion formelle des concepts qui en constitue également la justification. Le résul-tat est un ensemble multilingue de termes du domaine des vêtements de la Grèce antique définis de manière “cohérente” au sens où leur définition repose sur les propriétés de l’ontologie formelle. Associées à des connaissances fine-ment structurées, cette démarche autorise deux types de requêtes, non seule-ment au moyen de mots, mais aussi au moyen d’idées (concepts). Ce travail met en évidence la richesse conceptuelle et la complexité de ce domaine, tout en démontrant l’importance d'avoir à la disposition de l’expert des environne-ments spécifiques pour la représentation de connaissances complexes et pour la définition de termes.",
+        "keywords": "Ontology; Tedi ontoTerminology editor software; Ancient Greek dress; ISO Standards on Termi-nology; Knowledge rep-resentation and modelling; Linked cultural heritage; Ontoterminology; Semantic web; Terminology",
+        "domain": "0.shs; 1.shs.museo; 0.info; 1.info.info-ai; 0.info; 1.info.info-cl",
+        "url": "https://hal.science/hal-01850942v1"
+      },
+      {
+        "hal_id": "1851109",
+        "citation": "Christophe Roche, Maria Papadopoulou. Tedi: a platform for ontologisation of multilingual terminologies for the Semantic Web. 2018. &#x27E8;hal-01851109&#x27E9;",
+        "authors": "Christophe Roche; Maria Papadopoulou",
+        "year": "2018",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai; 0.info; 1.info.info-gl; 0.info; 1.info.info-dl",
+        "url": "https://hal.science/hal-01851109v1"
+      },
+      {
+        "hal_id": "2910062",
+        "citation": "Christophe Roche, Maria Papadopoulou. Terminology and Ontology for Digital Humanities: The Case of Ancient Greek Dress. Humanités numériques, 2020, 2. &#x27E8;hal-02910062&#x27E9;",
+        "authors": "Christophe Roche; Maria Papadopoulou",
+        "year": "2020",
+        "abstract": "Cet article présente les résultats d’une collaboration entre une philologue et un terminologue initiée lors d’un projet européen portant sur les vêtements de la Grèce antique (Marie Skłodowska Curie Actions Project Chlamys. The Cultural Biography of a Garment in Hellenistic Egypt, grant 657898). Le flou terminologique qui règne autour des études consacrées aux vêtements de cette époque, dont les sources sont souvent lacunaires (Delaporte 1981, 7), entrave fortement la communication et le partage de connaissances entre experts. Identifier clairement ce que désignent les termes dans ce qu’ils ont de précis, mais aussi de vague, et également bien nommer les choses ont été au cœur de notre projet, qui a nécessité une représentation explicite des connaissances définissant les différents types de vêtements. À cette préoccupation d’ordre terminologique s’est ajouté le besoin de pouvoir identifier un vêtement donné en fonction de ses caractéristiques, c’est-à-dire de pouvoir identifier (classifier) le ou les types de vêtements auxquels il appartient. Il convient de noter qu’aujourd’hui il n’existe pas de système de classification (semi-)automatisé des vêtements en tant qu’artéfacts culturels des cultures passées qui soit unanimement reconnu. C’est la raison pour laquelle nous nous sommes intéressés à la notion d’ontologie issue de l’ingénierie des connaissances et du Web sémantique, et par conséquent à celle d’ontoterminologie, terminologie dont le système conceptuel est une ontologie formelle. Il a fallu alors définir une méthodologie de construction de l’ontoterminologie, faisant intervenir successivement les dimensions linguistique et conceptuelle. Celle-ci repose sur un ensemble de caractéristiques essentielles, connaissances « primitives » partagées par les experts, à partir desquelles se construit l’ontologie du domaine. Le résultat est une terminologie multilingue (anglais, français, grec) dont la signification des termes repose sur une ontologie du domaine des vêtements de la Grèce antique, posée ici comme partagée et consensuelle, et qui peut donner lieu à de nombreuses applications informatiques : dictionnaires terminologiques multilingues, moteurs de recherche sémantiques multilingues, classification automatique, gestion documentaire, gestion des connaissances, etc. Ce projet a mis en évidence l’importance, voire la nécessité, de disposer d’une méthode outillée reposant sur une approche pluridisciplinaire, conciliant les démarches « émique » et « étique », et puisant à la linguistique, la terminologie et la modélisation des connaissances issue de l’intelligence artificielle ; une méthode qui permet la collaboration des différents intervenants et dont les résultats peuvent être partagés grâce à l’utilisation de formats d’échange respectant les standards en vigueur, dont ceux de l’ISO et du W3C. Cet article s’attachera plus particulièrement à présenter la méthode et l’outil employés dans le cadre de ce projet en ce qu’ils ont de généralisable pour des projets similaires relevant des humanités numériques, ainsi que certains des résultats obtenus., This article presents the results of a collaboration between a classical philologist and a terminologist initiated during an EU-funded research project on ancient Greek clothing (Marie Skłodowska Curie Actions Project Chlamys. The Cultural Biography of a Garment in Hellenistic Egypt, grant 657898). The terminological ambiguity prevailing in the studies on garments of this period, whose sources are often incomplete (Delaporte 1981, 7), severely hinders the communication and knowledge sharing among experts. Clearly identifying what the terms designate, in what is specific, but also vague, as well as the naming of garments was at the heart of our research, which demanded the explicit representation of the knowledge that defines the different types of clothing. Added to this terminological concern is the need to enable the identification of a given garment according to its characteristics, i.e. to be able to identify (classify) the type or types of clothing to which it belongs. It should be noted that today there is no universally recognised (semi-)automated classification of garments as cultural artefacts of past cultures. This is why we are interested in the notion of ontology resulting from knowledge engineering and the semantic Web, and consequently in ontoterminology, a terminology whose conceptual system is a formal ontology. It was then necessary to define a methodology for the construction of such an ontoterminology, alternating the linguistic and conceptual dimensions. Ontoterminology defines concepts based on a set of essential characteristics, “knowledge primitives” shared by the experts, from which the ontology of the domain is built. The result is a multilingual terminology whose meaning is based on an ontology of the clothing domain of ancient Greece, which is seen here as shared and consensual, and which can give rise to many computer applications: multilingual terminology dictionaries, multilingual semantic search engines, automatic classification, document management, knowledge management, etc. This project highlighted the importance, even the necessity, of having a tool-assisted method based on a multidisciplinary approach, reconciling “emic” and “etic” approaches, and drawing on linguistics, terminology and knowledge modelling, a field of artificial intelligence. It also highlighted the importance of adopting a method that allows the collaboration of distributed end users, and whose results can be shared through the use of exchange formats complying with the standards in force, including those of the ISO and of the W3C. This article will focus on presenting the method and tool used in this project as they have generalisable features for similar projects in digital humanities, as well as some of the results obtained.",
+        "keywords": "Thesaurus; Ancient studies and classical studies; Terminology; Ontoterminology; Ancient Greece; Clothing; Ontology; Études anciennes et études classiques; Terminologie; Thésaurus; Ontologie; Vêtement; Grèce antique; Ontoterminologie",
+        "domain": "0.scco; 1.scco.ling; 0.info; 1.info.info-ai; 0.info; 1.info.info-cl; 0.info; 1.info.info-dl; 0.info; 1.info.info-gl; 0.shs; 1.shs.class",
+        "url": "https://hal.science/hal-02910062v1"
+      },
+      {
+        "hal_id": "1851020",
+        "citation": "Christophe Roche, Maria Papadopoulou. Définition ontologique du terme. Le cas des vêtements de la Grèce antique. Lexicologie Terminologie Traduction, Sep 2018, Grenoble, France. &#x27E8;hal-01851020&#x27E9;",
+        "authors": "Christophe Roche; Maria Papadopoulou",
+        "year": "2018",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.scco; 1.scco.ling; 0.shs; 1.shs.museo; 0.info; 1.info.info-ai; 0.info; 1.info.info-cl; 0.info; 1.info.info-dl; 0.info; 1.info.info-gl; 0.shs",
+        "url": "https://hal.science/hal-01851020v1"
+      },
+      {
+        "hal_id": "1937005",
+        "citation": "Maria Papadopoulou, Christophe Roche. Ontoterminology of Ancient Greek Garments. TOTh 2017. Terminology & Ontology: Theories and applications, Christophe Roche - Equipe Condillac - Laboraoire Listic - Université Savoie Mont-Blanc, Jun 2017, Chambéry, France. &#x27E8;hal-01937005&#x27E9;",
+        "authors": "Maria Papadopoulou; Christophe Roche",
+        "year": "2018",
+        "abstract": "Our central research question is how to exploit textual, visual and material sources to broaden and deepen our understanding of the domain of ancient Greek dress. In answering this we used a highly interdisciplinary approach that brings together ontology engineering and linguistics and applies them to clas-sics, dress history, material culture and cultural heritage studies. In this paper we describe the building of the first multilingual ontoterminology of the do-main of ancient Greek garments, i.e. a terminology whose conceptual model is a formal ontology. For the modelling of the domain knowledge of ancient Greek dress we used Tedi (ontoTerminology editor), a new software environ-ment, compliant with semantic web standards, specifically catering to the needs of terminologists and cultural heritage specialists researching and/or making use of terminologies of their respective fields. In what follows we pre-sent the basic steps towards the definition of the concepts of the domain in a formal language (i.e. not in natural language) by means of specific axes of analysis. We aim for very finely structured knowledge which can eventually support two types of queries: by means of words, but also by means of ideas (concepts). The outcome is a multilingual set of consistently defined terms of the domain of ancient Greek dress. Our approach evidences the conceptual richness and complexity of this domain, while demonstrating the importance of having at the expert’s disposal specialized software for the representation of complex domain knowledge and terminology.",
+        "keywords": "Semantic web; Tedi ontoTerminology editor software; ISO Standards on Termi-nology; Linked cultural heritage; Knowledge rep-resentation and modelling; Ontoterminology; Terminology; Ontology; Ancient Greek dress",
+        "domain": "0.scco; 1.scco.ling; 0.info; 1.info.info-ai; 0.info; 1.info.info-cl; 0.info; 1.info.info-dl; 0.info; 1.info.info-gl",
+        "url": "https://hal.science/hal-01937005v1"
+      },
+      {
+        "hal_id": "1871046",
+        "citation": "Maria Papadopoulou, Christophe Roche. Tedi: a platform for ontologisation of multilingual terminologies for the Semantic Web. The Twelfth International Conference on Advances in Semantic Processing SEMAPRO 2018, Nov 2018, Athens, Greece. &#x27E8;hal-01871046&#x27E9;",
+        "authors": "Maria Papadopoulou; Christophe Roche",
+        "year": "2018",
+        "abstract": "The vision of the Semantic Web is machine understandability for all data currently stored in web-based resources. Human and machine readable terminological resources, which follow the ISO standards on terminology in defining concepts as unique combinations of essential characteristics [ISO 1087-1], need to become computable and Semantic Web compliant. This paper, first, describes the theoretical approach and the tool-assisted method which underlies the turning of these terminologies into Semantic web compliant ontologies. Next, this paper presents Tedi (ontoTerminology editor), the platform developed for building multilingual terminologies which share the same formal domain ontology. Tedi allows to export these terminologies into OWL/RDF ontologies, JSON, and in a number of other formats, including multilingual electronic dictionaries of terms in the form of static and dynamic html. Tedi is based on a theory of concept dedicated to Terminology, the discipline which defines semantics as the relation between terms (natural language units with meaning specialized to a domain of knowledge) and concepts (units of thought whose meaning is formally expressed as a set of essential characteristics). Tedi stores the linguistic and the conceptual dimensions in two distinct, yet related systems. This formal theory which supplies the semantic onto-terminological layer needed for deeper data interpretability by machines is less contrived and far more intuitive to use. It empowers domain experts to build their own semantic multilingual terminological dictionaries without having to be aware of logical formalisms like description logics. Semantic content management systems are direly needed in the domain of ancient cultural heritage. The remainder of the paper will illustrate this particular point with a use case from the domain of ancient Greek dress terminology presented from the point of view of the user (domain expert).",
+        "keywords": "Cultural heritage; Digitla humanities; Ancient Greek cultural heritage; Ontology editor; Tedi; Ontoterminology; Terminology; Ontology",
+        "domain": "0.info; 1.info.info-ai; 0.info; 1.info.info-wb; 0.scco; 1.scco.ling; 0.info; 1.info.info-dl",
+        "url": "https://hal.science/hal-01871046v1"
+      },
+      {
+        "hal_id": "2904475",
+        "citation": "Sylvie Despres, Christophe Roche, Maria Papadopoulou. Étude comparative de deux méthodes outillées pour la construction de terminologies et d’ontologies. Terminology & Ontology: Theories and applications, Christophe Roche, Jun 2020, Le Bourget du Lac, France. &#x27E8;hal-02904475&#x27E9;",
+        "authors": "Sylvie Despres; Christophe Roche; Maria Papadopoulou",
+        "year": "2020",
+        "abstract": "Cet article propose de comparer deux approches outillées pour la construction de terminologies dont le système conceptuel est une ontologie formelle. Le premier, Protégé, est le logiciel le plus utilisé pour la construction et la maintenance d’ontologies. Logiciel libre, il est supporté par une très large communauté d’utilisateurs. Sa théorie du concept (classe) repose sur la logique des descriptions. Le second, Tedi, est une méthode outillée de construction d’ontoterminologies qui se veut en accord avec la façon de penser des experts. Il repose sur une théorie du concept compatible avec les normes ISO en Terminologie. Le domaine d’application choisi relève des Humanités Numériques. Notre exemple se limite à la définition de quelques termes désignant différents types de vases de la Grèce antique. Les critères de comparaison pris en compte portent sur le logiciel lui-même (architecture, disponibilité, ergonomie, interopérabilité, documentation), sur la dimension conceptuelle (théorie du concept), la dimension linguistique (théorie du terme), la méthodologie (construction de la terminologie et de l’ontologie) et enfin le point de vue de l’expert (prise en main, autonomie, réponses à ses besoins).",
+        "keywords": "Cultural Heritage; Ancient Greek Vases; Ontoterminology; Ontology; Digital Humanities; Terminology; Cultural Heritage; Ontologie; Ontoterminologie; Humanités Numériques; Héritage Culturel; Vase de la Grèce antique; Ontologie",
+        "domain": "0.scco; 1.scco.ling; 0.info; 1.info.info-ai; 0.info; 1.info.info-cl",
+        "url": "https://hal.science/hal-02904475v1"
+      },
+      {
+        "hal_id": "3134730",
+        "citation": "Tong Wei, Christophe Roche, Maria Papadopoulou, Yangli Jia. An Ontology of Chinese Ceramic Vases. 12th International Conference on Knowledge Engineering and Ontology Development, Nov 2020, Budapest, France. pp.53-63, &#x27E8;10.5220/0010110600530063&#x27E9;. &#x27E8;hal-03134730&#x27E9;",
+        "authors": "Tong Wei; Christophe Roche; Maria Papadopoulou; Yangli Jia",
+        "year": "2020",
+        "abstract": "Extensive collections of Chinese ceramic vases are housed in museums throughout China. They could serve as rich sources of data for historical research. Although some data sources have been digitized, the vision of heritage institutions is not only to display objects and simple descriptions (drawn from metadata) but also to allow for understanding relationships between objects (created by semantically interrelated metadata). The key to achieving this goal is to utilize the technologies of the Semantic Web, whose core is Ontology. The focus of this paper is to describe the construction of the TAO CI (\"ceramics\" in Chinese) ontology of the domain of ceramic vases of the Ming (1368-1644) and Qing (1644-1911) dynasties. The theoretical and methodological approach adopted to construct the TAO CI ontology is term-and-characteristic guided, i.e., it relies on a morphological analysis of the Chinese terms used in the domain, and respects the ISO principles on Terminology (ISO 1087 and 704), according to which concepts are defined by means of essential characteristics. The research presented in this article aims to publish the resulting structured data on the Semantic Web for the use of anybody interested, including museums hosting collections of these vessels, and to enrich existing methodologies on domain ontology building. To our knowledge, there are no comprehensive ontologies for Chinese ceramic vases. TAO CI ontology remedies this gap and provides a reference for ontology building in other domains of Chinese cultural heritage.",
+        "keywords": "Cultural Heritage; Cultural Heritage; Ontology; Ontology Building; Semantic Web; Chinese Ceramic Vases; Cultural Heritage",
+        "domain": "0.info; 1.info.info-ai; 0.scco; 1.scco.ling; 0.info; 1.info.info-cl; 0.info; 1.info.info-dl; 0.shs; 1.shs.art; 0.shs; 1.shs.museo",
+        "url": "https://hal.science/hal-03134730v1"
+      },
+      {
+        "hal_id": "3169535",
+        "citation": "Tong Wei, Christophe Roche, Maria Papadopoulou, Yangli Jia. Terminologie et Ontologie pour l’Héritage Culturel : Le projet TAO CI. 2020 TOTh-Terminology & Ontology : Theories and applications, Nov 2020, Chambéry, France. &#x27E8;hal-03169535&#x27E9;",
+        "authors": "Tong Wei; Christophe Roche; Maria Papadopoulou; Yangli Jia",
+        "year": "2020",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai; 0.info; 0.shs",
+        "url": "https://hal.science/hal-03169535v1"
+      },
+      {
+        "hal_id": "4980669",
+        "citation": "Maria Papadopoulou, Despoina Tramma, Konstantinos Thomaidis, Kyriaki Papadopoulou-Legbelou. Tachycardia induced cardiomyopathy in an infant with atrial flutter: A challenging but reversible cause of heart failure. Pediatrics & Neonatology, 2019, 60 (4), pp.477-478. &#x27E8;10.1016/j.pedneo.2019.04.002&#x27E9;. &#x27E8;hal-04980669&#x27E9;",
+        "authors": "Maria Papadopoulou; Despoina Tramma; Konstantinos Thomaidis; Kyriaki Papadopoulou-Legbelou",
+        "year": "2019",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980669v1"
+      },
+      {
+        "hal_id": "4980534",
+        "citation": "Eleni Panagiotakaki, Maria Papadopoulou, Gaetan Lesca, Alexis Arzimanoglou, Mohamad Mikati. De novo mutations in CLDN5 : alternating hemiplegia of childhood or not?. Brain - A Journal of Neurology , 2023, 146 (8), pp.e57-e58. &#x27E8;10.1093/brain/awad053&#x27E9;. &#x27E8;hal-04980534&#x27E9;",
+        "authors": "Eleni Panagiotakaki; Maria Papadopoulou; Gaetan Lesca; Alexis Arzimanoglou; Mohamad Mikati",
+        "year": "2023",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980534v1"
+      },
+      {
+        "hal_id": "4980543",
+        "citation": "Quentin Welniarz, Domitille Gras, Agathe Roubertie, Maria Papadopoulou, Eleni Panagiotakaki, et al.. Oxygen Therapy: An Acute Treatment for Paroxysmal Dystonia in Alternating Hemiplegia of Childhood?. Movement Disorders, 2023, 38 (5), pp.906-907. &#x27E8;10.1002/mds.29357&#x27E9;. &#x27E8;hal-04980543&#x27E9;",
+        "authors": "Quentin Welniarz; Domitille Gras; Agathe Roubertie; Maria Papadopoulou; Eleni Panagiotakaki; Emmanuel Roze",
+        "year": "2023",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980543v1"
+      },
+      {
+        "hal_id": "4957282",
+        "citation": "Quentin Welniarz, Domitille Gras, Agathe Roubertie, Maria Papadopoulou, Eleni Panagiotakaki, et al.. Oxygen Therapy: An Acute Treatment for Paroxysmal Dystonia in Alternating Hemiplegia of Childhood?. Movement Disorders, 2023, 38 (5), pp.906-907. &#x27E8;10.1002/mds.29357&#x27E9;. &#x27E8;inserm-04957282&#x27E9;",
+        "authors": "Quentin Welniarz; Domitille Gras; Agathe Roubertie; Maria Papadopoulou; Eleni Panagiotakaki; Emmanuel Roze",
+        "year": "2023",
+        "abstract": "No abstract available",
+        "keywords": "",
+        "domain": "0.sdv",
+        "url": "https://inserm.hal.science/inserm-04957282v1"
+      },
+      {
+        "hal_id": "1851316",
+        "citation": "Zhenling Zhang, Christophe Roche, Yangli Jia, Xuecheng Zhang, Julien Roche, et al.. Transparency of Chinese Acupuncture and Moxibustion Terms: A Resource for Scientific Research and Collaboration. TOTh 2018: Terminology & Ontology: Theories and applications, Jun 2018, Chambéry, France. &#x27E8;hal-01851316&#x27E9;",
+        "authors": "Zhenling Zhang; Christophe Roche; Yangli Jia; Xuecheng Zhang; Julien Roche; Maria Papadopoulou",
+        "year": "2018",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.info; 1.info.info-ai",
+        "url": "https://hal.science/hal-01851316v1"
+      },
+      {
+        "hal_id": "4980645",
+        "citation": "Vasiliki Holeva, Vasiliki-Aliki Nikopoulou, Maria Papadopoulou, Eleni Vrochidou, George Papakostas, et al.. Toward Robot-Assisted Psychosocial Intervention for Children with Autism Spectrum Disorder (ASD). Springer International Publishing, 11876, pp.484-493, 2019, Lecture Notes in Computer Science, &#x27E8;10.1007/978-3-030-35888-4_45&#x27E9;. &#x27E8;hal-04980645&#x27E9;",
+        "authors": "Vasiliki Holeva; Vasiliki-Aliki Nikopoulou; Maria Papadopoulou; Eleni Vrochidou; George Papakostas; Vassilis Kaburlasos",
+        "year": "2019",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980645v1"
+      },
+      {
+        "hal_id": "4957269",
+        "citation": "Maria Papadopoulou, Quentin Welniarz, Agathe Roubertie, Domitille Gras, Mathieu Milh, et al.. Effect of Oxygen Administration on Paroxysmal Motor Events in Alternating Hemiplegia of Childhood. Movement Disorders, 2023, 38 (9), pp.1759-1761. &#x27E8;10.1002/mds.29561&#x27E9;. &#x27E8;inserm-04957269&#x27E9;",
+        "authors": "Maria Papadopoulou; Quentin Welniarz; Agathe Roubertie; Domitille Gras; Mathieu Milh; Eleni Panagiotakaki; Emmanuel Roze",
+        "year": "2023",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv",
+        "url": "https://inserm.hal.science/inserm-04957269v1"
+      },
+      {
+        "hal_id": "4980654",
+        "citation": "Stella Bouziana, Konstantinos Tziomalos, Antonis Goulas, Timoleon-Achilleas Vyzantiadis, Maria Papadopoulou, et al.. Effects of major adipokines and the −420 C &gt; G resistin gene polymorphism on the long-term outcome of patients with acute ischemic stroke. International Journal of Neuroscience, 2019, 129 (10), pp.978-985. &#x27E8;10.1080/00207454.2019.1596906&#x27E9;. &#x27E8;hal-04980654&#x27E9;",
+        "authors": "Stella Bouziana; Konstantinos Tziomalos; Antonis Goulas; Timoleon-Achilleas Vyzantiadis; Maria Papadopoulou; Athanasia Panderi; Apostolos Ι. Ηatzitolios",
+        "year": "2019",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980654v1"
+      },
+      {
+        "hal_id": "4980438",
+        "citation": "Ann Mertens, Maria Papadopoulou, Matthildi Athina Papathanasiou Terzi, Gaëtan Lesca, Mateusz Biela, et al.. Epilepsy with eyelid myoclonia in a patient with ATP1A3 ‐related neurologic disorder. Epileptic Disorders, 2024, 26 (6), pp.847-852. &#x27E8;10.1002/epd2.20272&#x27E9;. &#x27E8;hal-04980438&#x27E9;",
+        "authors": "Ann Mertens; Maria Papadopoulou; Matthildi Athina Papathanasiou Terzi; Gaëtan Lesca; Mateusz Biela; Robert Smigiel; Eleni Panagiotakaki",
+        "year": "2024",
+        "abstract": "Abstract We report on an 11 year old Polish girl who experienced paroxysmal episodes with decreased consciousness, (hemi)plegia, movement disorders, slurred speech, dysphagia, and abnormal eye movements. An extensive etiological work‐up (brain MRI, EEG, EMG, NCS, toxic, metabolic, infectious, and auto‐immune screening) was not conclusive. A genetic analysis with whole‐exome sequencing demonstrated a de novo heterozygous mutation in the ATP1A3 gene (c.2232C>G, p.Asn744Lys). A 48 h video‐EEG monitoring that was conducted in our unit later confirmed the absence of ictal discharge during an episode of hemidystonia, demonstrating its non‐epileptic etiology. However, several discharges of generalized spike waves, which were facilitated by intermittent photic stimulation and eyelid closure were recorded, of which a few were associated with eyelid myoclonia. Taken together, these findings are characteristic of epilepsy with eyelid myoclonia. The clinical picture of this patient partially fulfills the diagnostic criteria of relapsing encephalopathy with cerebellar ataxia as well as alternating hemiplegia of childhood. It is increasingly recognized that the distinct syndromes described with ATP1A3 mutations are overlapping and could be identified in the same patients. Certain variations in ATP1A3 have been linked to an increased risk of developing generalized epilepsy syndromes. We hereby present the second case in the literature of a patient with epilepsy with eyelid myoclonia with an ATP1A3‐ related neurological disorder.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980438v1"
+      },
+      {
+        "hal_id": "4980667",
+        "citation": "Athanasios Evangeliou, Efterpi Dalpa, Maria Papadopoulou, Astrinia Skarpalezou, Irene Katsanika, et al.. Low Glycemic Index Diet for Epilepsy. A liberalized Ketogenic Diet or A Different Nutritional Therapeutical Process? Facts and Hypothesis. Biomedical Journal of Scientific & Technical Research, 2019, 20 (2), &#x27E8;10.26717/bjstr.2019.20.003438&#x27E9;. &#x27E8;hal-04980667&#x27E9;",
+        "authors": "Athanasios Evangeliou; Efterpi Dalpa; Maria Papadopoulou; Astrinia Skarpalezou; Irene Katsanika; Olga Grafakou; Dimitrios Tsiptsios; Martha Spilioti",
+        "year": "2019",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980667v1"
+      },
+      {
+        "hal_id": "4980625",
+        "citation": "George Papakostas, George Sidiropoulos, Chris Lytridis, Christos Bazinas, Vassilis Kaburlasos, et al.. Estimating Children Engagement Interacting with Robots in Special Education Using Machine Learning. Mathematical Problems in Engineering, 2021, 2021, pp.1-10. &#x27E8;10.1155/2021/9955212&#x27E9;. &#x27E8;hal-04980625&#x27E9;",
+        "authors": "George Papakostas; George Sidiropoulos; Chris Lytridis; Christos Bazinas; Vassilis Kaburlasos; Efi Kourampa; Elpida Karageorgiou; Petros Kechayas; Maria Papadopoulou",
+        "year": "2021",
+        "abstract": "The task of child engagement estimation when interacting with a social robot during a special educational procedure is studied. A multimodal machine learning-based methodology for estimating the engagement of the children with learning difficulties, participating in appropriate designed educational scenarios, is proposed. For this purpose, visual and audio data are gathered during the child-robot interaction and processed towards deciding an engaged state of the child or not. Six single and three ensemble machine learning models are examined for their accuracy in providing confident decisions on in-house developed data. The conducted experiments revealed that, using multimodal data and the AdaBoost Decision Tree ensemble model, the children’s engagement can be estimated with 93.33% accuracy. Moreover, an important outcome of this study is the need for explicitly defining the different engagement meanings for each scenario. The results are very promising and put ahead of the research for closed-loop human centric special education activities using social robots.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980625v1"
+      },
+      {
+        "hal_id": "4980568",
+        "citation": "Maria Papadopoulou, Efterpi Dalpa, Michalis Portokalas, Irene Katsanika, Katerina Tirothoulaki, et al.. Cerebral folate deficiency in two siblings caused by biallelic variants including a novel mutation of FOLR1 gene: Intrafamilial heterogeneity following early treatment and the role of ketogenic diet. JIMD reports, 2021, 60 (1), pp.3-9. &#x27E8;10.1002/jmd2.12206&#x27E9;. &#x27E8;hal-04980568&#x27E9;",
+        "authors": "Maria Papadopoulou; Efterpi Dalpa; Michalis Portokalas; Irene Katsanika; Katerina Tirothoulaki; Martha Spilioti; Spyros Gerou; Barbara Plecko; Athanasios Evangeliou",
+        "year": "2021",
+        "abstract": "Abstract Mutations in the FOLR1 gene, encoding for the folate alpha receptor (FRa), represent a rare recessive genetic cause of cerebral folate deficiency (CFD), a potentially reversible neurometabolic condition. Patients typically present with developmental delay, seizures, abnormal movements, and delayed myelination. We hereby expand the phenotypic and genotypic spectrum of the disease with the report of the first two Greek siblings that were found compound heterozygous for one known FOLR1 gene mutation (p.Cys65Trp) and a mutation (p.Trp143Arg) that has not yet been reported in the literature (class 3 variant according to ASHG classification). A distinguishing feature of the older sibling is the manifestation of drug‐resistant epileptic spasms beyond infancy. These had a relatively good response to a ketogenic diet, as an additional treatment to topiramate and valproate. A further clinical improvement was observed when folinic acid was combined with the above treatment. While a response to folinic acid is well established in the disorder, the efficacy of its combination with the ketogenic diet needs further evaluation, but we suggest considering it early in the course of drug resistant epilepsy in the setting of CFD. The younger sibling was diagnosed and treated with folinic acid at an early‐symptomatic stage. Both patients had moderately low age‐related CSF 5‐methyltetrahydrofolate levels at diagnosis with the older sibling (that was already treated at base line collection) averaging 19 nmol/L (normal range: 44‐122 nmol/L) and the younger one 49 nmol/L (normal range 63‐122 nmol/L). These levels were restored to normal limits after folinic supplementation.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980568v1"
+      },
+      {
+        "hal_id": "4980632",
+        "citation": "Vasiliki Aliki Nikopoulou, Vasiliki Holeva, Maria Dialechti Kerasidou, Petros Kechayas, Maria Papadopoulou, et al.. Identifying Linguistic Cues; Towards Developing Robots With Empathy in Autism Interventions. Journal of Clinical Medicine of Kazakhstan, 2020, 2 (56), pp.27-33. &#x27E8;10.23950/1812-2892-jcmk-00753&#x27E9;. &#x27E8;hal-04980632&#x27E9;",
+        "authors": "Vasiliki Aliki Nikopoulou; Vasiliki Holeva; Maria Dialechti Kerasidou; Petros Kechayas; Maria Papadopoulou; Eleni Vrochidou; George Papakostas; Vassilis Kaburlasos",
+        "year": "2020",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980632v1"
+      },
+      {
+        "hal_id": "4980687",
+        "citation": "Maria Papadopoulou, E. Panagiotakaki, C. Rivier, J. de Bellescize, E. Dindault, et al.. Epilepsy in Inv Dup (15) Syndrome: Clnical and Electrophysiological Features in a Case Series of Four Patients. Neuropediatrics, 2019, &#x27E8;10.1055/s-0039-1685437&#x27E9;. &#x27E8;hal-04980687&#x27E9;",
+        "authors": "Maria Papadopoulou; E. Panagiotakaki; C. Rivier; J. de Bellescize; E. Dindault; L. Pons; G. Lesca; M. Till; A. Arzimanoglou",
+        "year": "2019",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980687v1"
+      },
+      {
+        "hal_id": "4980553",
+        "citation": "Maria Papadopoulou, Elpida Karageorgiou, Petros Kechayas, Nikoleta Geronikola, Chris Lytridis, et al.. Efficacy of a Robot-Assisted Intervention in Improving Learning Performance of Elementary School Children with Specific Learning Disorders. Children, 2022, 9 (8), pp.1155. &#x27E8;10.3390/children9081155&#x27E9;. &#x27E8;hal-04980553&#x27E9;",
+        "authors": "Maria Papadopoulou; Elpida Karageorgiou; Petros Kechayas; Nikoleta Geronikola; Chris Lytridis; Christos Bazinas; Efi Kourampa; Eleftheria Avramidou; Vassilis Kaburlasos; Athanasios Evangeliou",
+        "year": "2022",
+        "abstract": "(1) Background: There has been significant recent interest in the potential role of social robots (SRs) in special education. Specific Learning Disorders (SpLDs) have a high prevalence in the student population, and early intervention with personalized special educational programs is crucial for optimal academic achievement. (2) Methods: We designed an intense special education intervention for children in the third and fourth years of elementary school with a diagnosis of a SpLD. Following confirmation of eligibility and informed consent, the participants were prospectively and randomly allocated to two groups: (a) the SR group, for which the intervention was delivered by the humanoid robot NAO with the assistance of a special education teacher and (b) the control group, for which the intervention was delivered by the special educator. All participants underwent pre- and post-intervention evaluation for outcome measures. (3) Results: 40 children (NAO = 19, control = 21, similar baseline characteristics) were included. Pre- and post-intervention evaluation showed comparable improvements in both groups in cognition skills (decoding, phonological awareness and reading comprehension), while between-group changes favored the NAO group only for some phonological awareness exercises. In total, no significant changes were found in any of the groups regarding the emotional/behavioral secondary outcomes. (4) Conclusion: NAO was efficient as a tutor for a human-supported intervention when compared to the gold-standard intervention for elementary school students with SpLDs.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980553v1"
+      },
+      {
+        "hal_id": "4980610",
+        "citation": "Chris Lytridis, Vassilis Kaburlasos, Christos Bazinas, George Papakostas, George Sidiropoulos, et al.. Behavioral Data Analysis of Robot-Assisted Autism Spectrum Disorder (ASD) Interventions Based on Lattice Computing Techniques. Sensors, 2022, 22 (2), pp.621. &#x27E8;10.3390/s22020621&#x27E9;. &#x27E8;hal-04980610&#x27E9;",
+        "authors": "Chris Lytridis; Vassilis Kaburlasos; Christos Bazinas; George Papakostas; George Sidiropoulos; Vasiliki-Aliki Nikopoulou; Vasiliki Holeva; Maria Papadopoulou; Athanasios Evangeliou",
+        "year": "2022",
+        "abstract": "Recent years have witnessed the proliferation of social robots in various domains including special education. However, specialized tools to assess their effect on human behavior, as well as to holistically design social robot applications, are often missing. In response, this work presents novel tools for analysis of human behavior data regarding robot-assisted special education. The objectives include, first, an understanding of human behavior in response to an array of robot actions and, second, an improved intervention design based on suitable mathematical instruments. To achieve these objectives, Lattice Computing (LC) models in conjunction with machine learning techniques have been employed to construct a representation of a child’s behavioral state. Using data collected during real-world robot-assisted interventions with children diagnosed with Autism Spectrum Disorder (ASD) and the aforementioned behavioral state representation, time series of behavioral states were constructed. The paper then investigates the causal relationship between specific robot actions and the observed child behavioral states in order to determine how the different interaction modalities of the social robot affected the child’s behavior.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980610v1"
+      },
+      {
+        "hal_id": "4980614",
+        "citation": "George Papakostas, George Sidiropoulos, Cristina Papadopoulou, Eleni Vrochidou, Vassilis Kaburlasos, et al.. Social Robots in Special Education: A Systematic Review. Electronics, 2021, 10 (12), pp.1398. &#x27E8;10.3390/electronics10121398&#x27E9;. &#x27E8;hal-04980614&#x27E9;",
+        "authors": "George Papakostas; George Sidiropoulos; Cristina Papadopoulou; Eleni Vrochidou; Vassilis Kaburlasos; Maria Papadopoulou; Vasiliki Holeva; Vasiliki-Aliki Nikopoulou; Nikolaos Dalivigkas",
+        "year": "2021",
+        "abstract": "In recent years, social robots have become part of a variety of human activities, especially in applications involving children, e.g., entertainment, education, companionship. The interest of this work lies in the interaction of social robots with children in the field of special education. This paper seeks to present a systematic review of the use of robots in special education, with the ultimate goal of highlighting the degree of integration of robots in this field worldwide. This work aims to explore the technologies of robots that are applied according to the impairment type of children. The study showed a large number of attempts to apply social robots to the special education of children with various impairments, especially in recent years, as well as a wide variety of social robots from the market involved in such activities. The main conclusion of this work is the finding that the specific field of application of social robots is at the first development step; however, it is expected to be of great concern to the research community in the coming years.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980614v1"
+      },
+      {
+        "hal_id": "4934439",
+        "citation": "Jack Longman, Daniel Veres, Vasile Ersek, Călin Gabriel Tămaş, Aritina Haliuc, et al.. Central-Eastern Europe as a centre of Middle Ages extractive metallurgy. Journal of Archaeological Science, 2024, 172, pp.106093. &#x27E8;10.1016/j.jas.2024.106093&#x27E9;. &#x27E8;hal-04934439&#x27E9;",
+        "authors": "Jack Longman; Daniel Veres; Vasile Ersek; Călin Gabriel Tămaş; Aritina Haliuc; Eniko Magyari; Florin Gogaltan; Sampson Panajiotidis; Maria Papadopoulou",
+        "year": "2024",
+        "abstract": "Bohemia to Greece is home to some of the richest ore deposits on earth, with archaeological evidence suggesting a long history of metal use. However, the exact timing and extent of past metal processing activities remains unclear. The Middle Ages and Early Modern period (c. 500-1800 common era (CE)) in Europe, saw the expansion of metal use at an unprecedented scale, continent-wide. Here we analysed rates of past atmospheric lead (Pb) deposition in six peat bogs from Romania, Serbia and Greece. We show that after 1000 CE, the redevelopment of central European mining industry was synchronous with Pb pollution in southeastern Europe, with the onset of metal pollution occurring in the area prior to central Europe. Therefore, southeastern Europe may have led regional mining developments, with technological advances rapidly shifting from east to west through the Middle Ages. This indicates how southeastern Europe should be included in future discussions of Middle Age metallurgy not simply as a contributor, but at times as a leader in metal production.",
+        "keywords": "",
+        "domain": "0.shs",
+        "url": "https://hal.science/hal-04934439v1"
+      },
+      {
+        "hal_id": "4980421",
+        "citation": "Coral Stredny, Claude Steriade, Maria Papadopoulou, Suresh Pujar, Marios Kaliakatsos, et al.. Current practices in the diagnosis and treatment of Rasmussen syndrome: Results of an international survey. Seizure - European Journal of Epilepsy, 2024, 122, pp.153-164. &#x27E8;10.1016/j.seizure.2024.09.001&#x27E9;. &#x27E8;hal-04980421&#x27E9;",
+        "authors": "Coral Stredny; Claude Steriade; Maria Papadopoulou; Suresh Pujar; Marios Kaliakatsos; Stuart Tomko; Ronny Wickström; Christopher Cortina; Bo Zhang; Christian Bien",
+        "year": "2024",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980421v1"
+      },
+      {
+        "hal_id": "3103746",
+        "citation": "Patricia Franco, Benjamin Putois, Aurore Guyon, Aude Raoux, Maria Papadopoulou, et al.. Sleep during development: Sex and gender differences. Sleep Medicine Reviews, 2020, 51, pp.101276. &#x27E8;10.1016/j.smrv.2020.101276&#x27E9;. &#x27E8;inserm-03103746&#x27E9;",
+        "authors": "Patricia Franco; Benjamin Putois; Aurore Guyon; Aude Raoux; Maria Papadopoulou; Anne Guignard-Perret; Flora Bat-Pitault; Sarah Hartley; Sabine Plancoulaine",
+        "year": "2020",
+        "abstract": "Sleep occupies a substantial proportion of life. Sleep modifications parallel brain development during childhood. Sex and gender differences have been reported in brain development and many clinical and psychosocial conditions. This narrative review provides insight into the differences between girls and boys in terms of brain maturation and plasticity related to sleep and sleep characteristics (physiology, sleep duration) during development.",
+        "keywords": "Adolescents; Children; Gender; Infant; Maturation; Sex-specific; Sleep; Adolescents",
+        "domain": "0.scco; 1.scco.neur; 0.sdv; 1.sdv.mhep; 2.sdv.mhep.ped; 0.sdv; 1.sdv.mhep; 2.sdv.mhep.phy",
+        "url": "https://inserm.hal.science/inserm-03103746v1"
+      },
+      {
+        "hal_id": "4980532",
+        "citation": "Despoina Aspragkathou, Martha Spilioti, Anastasia Gkampeta, Efterpi Dalpa, Vasiliki Holeva, et al.. Branched-chain amino acids as adjunctive-alternative treatment in patients with autism: a pilot study. British Journal of Nutrition, 2023, 131 (1), pp.73-81. &#x27E8;10.1017/S0007114523001496&#x27E9;. &#x27E8;hal-04980532&#x27E9;",
+        "authors": "Despoina Aspragkathou; Martha Spilioti; Anastasia Gkampeta; Efterpi Dalpa; Vasiliki Holeva; Maria Papadopoulou; Aspasia Serdari; Vaios Dafoulis; Dimitrios Zafeiriou; Athanasios Evangeliou",
+        "year": "2023",
+        "abstract": "Abstract The branched-chain amino acid (BCAA) is a group of essential amino acids that are involved in maintaining the energy balance of a human being as well as the homoeostasis of GABAergic, glutamatergic, serotonergic and dopaminergic systems. Disruption of these systems has been associated with the pathophysiology of autism while low levels of these amino acids have been discovered in patients with autism. A pilot open-label, prospective, follow-up study of the use of BCAA in children with autistic behaviour was carried out. Fifty-five children between the ages of 6 and 18 participated in the study from May 2015 to May 2018. We used a carbohydrate-free BCAA-powdered mixture containing 45·5 g of leucine, 30 g of isoleucine and 24·5 g of valine in a daily dose of 0·4 g/kg of body weight which was administered every morning. Following the initiation of BCAA administration, children were submitted to a monthly psychological examination. Beyond the 4-week mark, BCAA were given to thirty-two people (58·18 %). Six of them (10·9 %) discontinued after 4–10 weeks owing to lack of improvement. The remaining twenty-six children (47·27 %) who took BCAA for longer than 10 weeks displayed improved social behaviour and interactions, as well as improvements in their speech, cooperation, stereotypy and, principally, their hyperactivity. There were no adverse reactions reported during the course of the treatment. Although these data are preliminary, there is some evidence that BCAA could be used as adjunctive treatment to conventional therapeutic methods for the management of autism.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980532v1"
+      },
+      {
+        "hal_id": "4980463",
+        "citation": "Maria Papadopoulou, Lorenzo Muccioli, Francesca Bisulli, Kerstin Alexandra Klotz, Carmen Fons, et al.. Accessibility, availability and common practices regarding genetic testing for epilepsy across Europe: A survey of the European Reference Network EpiCARE. Epilepsia Open, 2024, 9 (3), pp.996-1006. &#x27E8;10.1002/epi4.12930&#x27E9;. &#x27E8;hal-04980463&#x27E9;",
+        "authors": "Maria Papadopoulou; Lorenzo Muccioli; Francesca Bisulli; Kerstin Alexandra Klotz; Carmen Fons; Marina Trivisano; Teia Kabulashvili; Nicola Specchio; Gaetan Lesca; Alexis Arzimanoglou",
+        "year": "2024",
+        "abstract": "Abstract Objective The increasingly rapid pace of advancement in genetic testing may lead to inequalities in technical and human resources with a negative impact on optimal epilepsy clinical practice. In this view, the European Reference Network (ERN) for Rare and Complex Epilepsies EpiCARE conducted a survey addressing several aspects of accessibility, availability, costs, and standard practices on genetic testing across ERN EpiCARE centers. Methods An online Google form was sent to 70 representatives of ERN EpiCARE centers. Descriptive statistics and qualitative analysis were used for data presentation. Results We received 45 responses (1/center) representing 23 European countries with a better representation of Western Europe. Forty‐five percent of the centers did not have access to all available types of genetic testing, mainly reflecting the limited availability of whole‐genome sequencing (WGS). Thirty‐five percent of centers report cost coverage only for some of the available tests, while costs per test varied significantly (interquartile range IQR ranging from 150 to 1173 euros per test across centers). Urgent genetic testing is available in 71.7% of countries (time‐to‐urgent result: 2 day to 2 months). The average time‐to‐result of specific tests in case of non‐urgent prescription has a significant variance across centers, with the biggest range observed for whole‐exome sequencing (6–128 weeks, IQR: 27 weeks). The percentage of agreement among the experts regarding the choice of genetic test at first intention in specific clinical situations was in all cases less than 50 percent (34.9% to 47% according to the proposed scenarios). Significance Costs, time to deliver the results to the clinician, and type of first‐line genetic testing vary widely across Europe, even in countries where ERN EpiCARE centers are present. Increased availability of genetic tests and guidance for optimal test choices in epilepsy remains essential to avoid diagnostic delays and excess health costs. Plain Language Summary The survey of the ERN EpiCARE highlights disparities in genetic testing for epilepsy across 45 ERN EpiCARE centers in 23 European countries. The findings reveal variable access to certain genetic tests, with lowest access to WGS. Costs and time‐to‐results vary widely. Urgent genetic testing is available in 71.7% of countries. Agreement among experts on first‐line genetic tests for specific patient scenarios is below 50%. The study emphasizes the need for improved test availability and guidance to avoid diagnostic delays and unnecessary costs. EpiCARE has the mission to contribute in homogenizing best practices across Europe.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980463v1"
+      },
+      {
+        "hal_id": "4980470",
+        "citation": "Shital Patel, Kayli Maney, Lauren Morris, Maria Papadopoulou, Lyndsey Prange, et al.. Real life retrospective study of cannabidiol therapy in alternating hemiplegia of childhood. European Journal of Paediatric Neurology, 2024, 49, pp.55-59. &#x27E8;10.1016/j.ejpn.2024.02.004&#x27E9;. &#x27E8;hal-04980470&#x27E9;",
+        "authors": "Shital Patel; Kayli Maney; Lauren Morris; Maria Papadopoulou; Lyndsey Prange; April Boggs; Arsen Hunanyan; Andrey Megvinov; Rosaria Vavassori; Eleni Panagiotakaki; Mohamad Mikati",
+        "year": "2024",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980470v1"
+      },
+      {
+        "hal_id": "4980493",
+        "citation": "Shital Patel, Eleni Panagiotakaki, Maria Papadopoulou, Carmen Fons, Elisa de Grandis, et al.. Methodology of a Natural History Study of a Rare Neurodevelopmental Disorder: Alternating Hemiplegia of Childhood as a Prototype Disease. Journal of Child Neurology, 2023, 38 (10-12), pp.597-610. &#x27E8;10.1177/08830738231197861&#x27E9;. &#x27E8;hal-04980493&#x27E9;",
+        "authors": "Shital Patel; Eleni Panagiotakaki; Maria Papadopoulou; Carmen Fons; Elisa de Grandis; Aikaterini Vezyroglou; Simona Balestrini; Hwanhee Hong; Beiyu Liu; Lyndsey Prange; Alexis Arzimanoglou; Rosaria Vavassori; Mohamad Mikati",
+        "year": "2023",
+        "abstract": "Here, we describe the process of development of the methodology for an international multicenter natural history study of alternating hemiplegia of childhood as a prototype disease for rare neurodevelopmental disorders. We describe a systematic multistep approach in which we first identified the relevant questions about alternating hemiplegia of childhood natural history and expected challenges. Then, based on our experience with alternating hemiplegia of childhood and on pragmatic literature searches, we identified solutions to determine appropriate methods to address these questions. Specifically, these solutions included development and standardization of alternating hemiplegia of childhood–specific spell video-library, spell calendars, adoption of tailored methodologies for prospective measurement of nonparoxysmal and paroxysmal manifestations, unified data collection protocols, centralized data platform, adoption of specialized analysis methods including, among others, Cohen kappa, interclass correlation coefficient, linear mixed effects models, principal component, propensity score, and ambidirectional analyses. Similar approaches can, potentially, benefit in the study of other rare pediatric neurodevelopmental disorders.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980493v1"
+      },
+      {
+        "hal_id": "4980477",
+        "citation": "Michelangelo Mancuso, Piervito Lopriore, Costanza Lamperti, Thomas Klopstock, Shamima Rahman, et al.. Current management of primary mitochondrial disorders in EU countries: the European Reference Networks survey. Journal of Neurology, 2023, 271 (2), pp.835-840. &#x27E8;10.1007/s00415-023-12017-1&#x27E9;. &#x27E8;hal-04980477&#x27E9;",
+        "authors": "Michelangelo Mancuso; Piervito Lopriore; Costanza Lamperti; Thomas Klopstock; Shamima Rahman; Laura Licchetta; Cornelia Kornblum; Saskia Wortmann; Hélène Dollfus; Maria Papadopoulou; Alexis Arzimanoglou; Maurizio Scarpa; Holm Graessner; Teresinha Evangelista",
+        "year": "2023",
+        "abstract": "Abstract Background and purpose Primary mitochondrial diseases (PMDs) are rare diseases for which diagnosis is challenging, and management and training programs are not well defined in Europe. To capture and assess care needs, five different European Reference Networks have conducted an exploratory survey. Methods The survey covering multiple topics relating to PMDs was sent to all ERNs healthcare providers (HCPs) in Europe. Results We have collected answers from 220 members based in 24/27 European member states and seven non-European member states. Even though most of the responders are aware of neurogenetic diseases, difficulties arise in the ability to deliver comprehensive genetic testing. While single gene analysis is widely available in Europe, whole exome and genome sequencing are not easily accessible, with considerable variation between countries and average waiting time for results frequently above 6 months. Only 12.7% of responders were happy with the ICD-10 codes for classifying patients with PMDs discharged from the hospital, and more than 70% of them consider that PMDs deserve specific ICD codes to improve clinical management, including tailored healthcare, and for reimbursement reasons. Finally, 90% of responders declared that there is a need for further education and training in these diseases. Conclusions This survey provides information on the current difficulties in the care of PMDs in Europe. We believe that the results of this survey are important to help rare disease stakeholders in European countries identify key care and research priorities.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980477v1"
+      },
+      {
+        "hal_id": "4980444",
+        "citation": "Maria Papadopoulou, Paraskevi Panagopoulou, Efstathia Paramera, Alexandros Pechlivanis, Christina Virgiliou, et al.. Metabolic Fingerprint in Childhood Acute Lymphoblastic Leukemia. Diagnostics, 2024, 14 (7), pp.682. &#x27E8;10.3390/diagnostics14070682&#x27E9;. &#x27E8;hal-04980444&#x27E9;",
+        "authors": "Maria Papadopoulou; Paraskevi Panagopoulou; Efstathia Paramera; Alexandros Pechlivanis; Christina Virgiliou; Eugenia Papakonstantinou; Maria Palabougiouki; Maria Ioannidou; Eleni Vasileiou; Athanasios Tragiannidis; Evangelos Papakonstantinou; Georgios Theodoridis; Emmanuel Hatzipantelis; Athanasios Evangeliou",
+        "year": "2024",
+        "abstract": "Introduction: Acute lymphoblastic leukemia (ALL) is the most prevalent childhood malignancy. Despite high cure rates, several questions remain regarding predisposition, response to treatment, and prognosis of the disease. The role of intermediary metabolism in the individualized mechanistic pathways of the disease is unclear. We have hypothesized that children with any (sub)type of ALL have a distinct metabolomic fingerprint at diagnosis when compared: (i) to a control group; (ii) to children with a different (sub)type of ALL; (iii) to the end of the induction treatment. Materials and Methods: In this prospective case–control study (NCT03035344), plasma and urinary metabolites were analyzed in 34 children with ALL before the beginning (D0) and at the end of the induction treatment (D33). Their metabolic fingerprint was defined by targeted analysis of 106 metabolites and compared to that of an equal number of matched controls. Multivariate and univariate statistical analyses were performed using SIMCAP and scripts under the R programming language. Results: Metabolomic analysis showed distinct changes in patients with ALL compared to controls on both D0 and D33. The metabolomic fingerprint within the patient group differed significantly between common B-ALL and pre-B ALL and between D0 and D33, reflecting the effect of treatment. We have further identified the major components of this metabolic dysregulation, indicating shifts in fatty acid synthesis, transfer and oxidation, in amino acid and glycerophospholipid metabolism, and in the glutaminolysis/TCA cycle. Conclusions: The disease type and time point-specific metabolic alterations observed in pediatric ALL are of particular interest as they may offer potential for the discovery of new prognostic biomarkers and therapeutic targets.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980444v1"
+      },
+      {
+        "hal_id": "4980501",
+        "citation": "Maria Sentmanat, Maria Papadopoulou, Lyndsey Prange, Carmen Fons, Elisa de Grandis, et al.. Development and testing of methods to record and follow up spells in patients with alternating hemiplegia of childhood. European Journal of Paediatric Neurology, 2023, 46, pp.98-107. &#x27E8;10.1016/j.ejpn.2023.07.005&#x27E9;. &#x27E8;hal-04980501&#x27E9;",
+        "authors": "Maria Sentmanat; Maria Papadopoulou; Lyndsey Prange; Carmen Fons; Elisa de Grandis; Aikaterini Vezyroglou; April Boggs; Samantha Su; Marion Comajuan; Jeffrey Wuchich; Sigurður Jóhannesson; Jennifer Anticona Huaynate; Michela Stagnaro; Andrey Megvinov; Shital Patel; Alexis Arzimanoglou; Rosaria Vavassori; Eleni Panagiotakaki; Mohamad Mikati",
+        "year": "2023",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980501v1"
+      },
+      {
+        "hal_id": "4747940",
+        "citation": "Nathalie Yared, Maria Papadopoulou, Pierre Barennes, Hang-Phuong Pham, Valentin Quiniou, et al.. Long-lived central memory γδ T cells confer protection against murine cytomegalovirus reinfection. PLoS Pathogens, 2024, 20 (7), pp.e1010785. &#x27E8;10.1371/journal.ppat.1010785&#x27E9;. &#x27E8;hal-04668745&#x27E9;",
+        "authors": "Nathalie Yared; Maria Papadopoulou; Pierre Barennes; Hang-Phuong Pham; Valentin Quiniou; Sonia Netzer; Hannah Kaminski; Laure Burguet; Amandine Demeste; Pacôme Colas; Lea Mora-Charrot; Benoit Rousseau; Julien Izotte; Atika Zouine; Xavier Gauthereau; David Vermijlen; Julie Déchanet-Merville; Myriam Capone",
+        "year": "2024",
+        "abstract": "The involvement of γδ TCR-bearing lymphocytes in immunological memory has gained increasing interest due to their functional duality between adaptive and innate immunity. γδ T effector memory (TEM) and central memory (TCM) subsets have been identified, but their respective roles in memory responses are poorly understood. In the present study, we used subsequent mouse cytomegalovirus (MCMV) infections of αβ T cell deficient mice in order to analyze the memory potential of γδ T cells. As for CMV-specific αβ T cells, MCMV induced the accumulation of cytolytic, KLRG1+CX3CR1+ γδ TEM that principally localized in infected organ vasculature. Typifying T cell memory, γδ T cell expansion in organs and blood was higher after secondary viral challenge than after primary infection. Viral control upon MCMV reinfection was prevented when masking γδ T-cell receptor, and was associated with a preferential amplification of private and unfocused TCR δ chain repertoire composed of a combination of clonotypes expanded post-primary infection and, more unexpectedly, of novel expanded clonotypes. Finally, long-term-primed γδ TCM cells, but not γδ TEM cells, protected T cell-deficient hosts against MCMV-induced death upon adoptive transfer, probably through their ability to survive and to generate TEM in the recipient host. This better survival potential of TCM cells was confirmed by a detailed scRNASeq analysis of the two γδ T cell memory subsets which also revealed their similarity to classically adaptive αβ CD8 T cells. Overall, our study uncovered memory properties of long-lived TCM γδ T cells that confer protection in a chronic infection, highlighting the interest of this T cell subset in vaccination approaches.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.imm",
+        "url": "https://hal.science/hal-04668745v1"
+      },
+      {
+        "hal_id": "4980562",
+        "citation": "Julie Uchitel, Keri Wallace, Linh Tran, Tavis Abrahamsen, Arsen Hunanyan, et al.. Alternating hemiplegia of childhood: evolution over time and mouse model corroboration. Brain Communications, 2021, 3 (3), &#x27E8;10.1093/braincomms/fcab128&#x27E9;. &#x27E8;hal-04980562&#x27E9;",
+        "authors": "Julie Uchitel; Keri Wallace; Linh Tran; Tavis Abrahamsen; Arsen Hunanyan; Lyndsey Prange; Joan Jasien; Laura Caligiuri; Milton Pratt; Blaire Rikard; Carmen Fons; Elisa de Grandis; Aikaterini Vezyroglou; Erin Heinzen; David Goldstein; Rosaria Vavassori; Maria Papadopoulou; Isabella Cocco; Rebecca Moré; Alexis Arzimanoglou; Eleni Panagiotakaki; Mohamad Mikati",
+        "year": "2021",
+        "abstract": "Abstract Alternating hemiplegia of childhood is a rare neurodevelopmental disorder caused by ATP1A3 mutations. Some evidence for disease progression exists, but there are few systematic analyses. Here, we evaluate alternating hemiplegia of childhood progression in humans and in the D801N knock-in alternating hemiplegia of childhood mouse, Mashlool, model. This study performed an ambidirectional (prospective and retrospective data) analysis of an alternating hemiplegia of childhood patient cohort (n = 42, age 10.24 ± 1.48 years) seen at one US centre. To investigate potential disease progression, we used linear mixed effects models incorporating early and subsequent visits, and Wilcoxon Signed Rank test comparing first and last visits. Potential early-life clinical predictors were determined via multivariable regression. We also compared EEG background at first encounter and at last follow-up. We then performed a retrospective confirmation study on a multicentre cohort of alternating hemiplegia of childhood patients from France (n = 52). To investigate disease progression in the Mashlool mouse, we performed behavioural testing on a cohort of Mashlool- mice at prepubescent and adult ages (n = 11). Results: US patients, over time, demonstrated mild worsening of non-paroxysmal disability index scores, but not of paroxysmal disability index scores. Increasing age was a predictor of worse scores: P < 0.0001 for the non-paroxysmal disability index, intellectual disability scale and gross motor scores. Earliest non-paroxysmal disability index score was a predictor of last visit non-paroxysmal disability index score (P = 0.022), and earliest intellectual disability score was a predictor of last intellectual disability score (P = 0.035). More patients with EEG background slowing were noted at last follow-up as compared to initial (P = 0.015). Similar worsening of disease with age was also noted in the French cohort: age was a significant predictor of non-paroxysmal disability index score (P = 0.001) and first and last non-paroxysmal disability index score scores significantly differed (P = 0.002). In animal studies, adult Mashlool mice had, as compared to younger Mashlool mice, (i) worse balance beam performance; (ii) wider base of support; (iii) higher severity of seizures and resultant mortality; and (iv) no increased predisposition to hemiplegic or dystonic spells. In conclusion, (i) non-paroxysmal alternating hemiplegia of childhood manifestations show, on average over time, progression associated with severity of early-life non-paroxysmal disability and age. (ii) Progression also occurs in Mashlool mice, confirming that ATP1A3 disease can lead to age-related worsening. (iii) Clinical findings provide a basis for counselling patients and for designing therapeutic trials. Animal findings confirm a mouse model for investigation of underlying mechanisms of disease progression, and are also consistent with known mechanisms of ATP1A3-related neurodegeneration.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980562v1"
+      },
+      {
+        "hal_id": "4980355",
+        "citation": "Michelangelo Mancuso, Maria Papadopoulou, Yi Shiau Ng, Anna Ardissone, Marcello Bellusci, et al.. Management of seizures in patients with primary mitochondrial diseases: consensus statement from the InterERNs Mitochondrial Working Group. European Journal of Neurology, 2024, 31 (7), &#x27E8;10.1111/ene.16275&#x27E9;. &#x27E8;hal-04980355&#x27E9;",
+        "authors": "Michelangelo Mancuso; Maria Papadopoulou; Yi Shiau Ng; Anna Ardissone; Marcello Bellusci; Enrico Bertini; Lidia Di Vito; Teresinha Evangelista; Carmen Fons; Omar Hikmat; Rita Horvath; Thomas Klopstock; Cornelia Kornblum; Costanza Lamperti; Laura Licchetta; Maria Judit Molnar; Kristin Varhaug; Mar O'Callaghan; Ronit Pressler; Manuel Schiff; Serenella Servidei; Nora Szabo; Gráinne Gorman; J Helen Cross; Shamima Rahman",
+        "year": "2024",
+        "abstract": "Abstract Background and purpose Primary mitochondrial diseases (PMDs) are common inborn errors of energy metabolism, with an estimated prevalence of one in 4300. These disorders typically affect tissues with high energy requirements, including heart, muscle and brain. Epilepsy may be the presenting feature of PMD, can be difficult to treat and often represents a poor prognostic feature. The aim of this study was to develop guidelines and consensus recommendations on safe medication use and seizure management in mitochondrial epilepsy. Methods A panel of 24 experts in mitochondrial medicine, pharmacology and epilepsy management of adults and/or children and two patient representatives from seven countries was established. Experts were members of five different European Reference Networks, known as the Mito InterERN Working Group. A Delphi technique was used to allow the panellists to consider draft recommendations on safe medication use and seizure management in mitochondrial epilepsy, using two rounds with predetermined levels of agreement. Results A high level of consensus was reached regarding the safety of 14 out of all 25 drugs reviewed, resulting in endorsement of National Institute for Health and Care Excellence guidelines for seizure management, with some modifications. Exceptions including valproic acid in POLG disease, vigabatrin in patients with γ‐aminobutyric acid transaminase deficiency and topiramate in patients at risk for renal tubular acidosis were highlighted. Conclusions These consensus recommendations describe our intent to improve seizure control and reduce the risk of drug‐related adverse events in individuals living with PMD‐related epilepsy.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980355v1"
+      },
+      {
+        "hal_id": "4980410",
+        "citation": "Mohammad‐reza Ghasemi, Sahand Tehrani Fateh, Afif Ben-Mahmoud, Vijay Gupta, Lara Stühn, et al.. Novel Digital Anomalies, Hippocampal Atrophy, and Mutations Expand the Genotypic and Phenotypic Spectra of CNKSR2 in the Houge Type of X‐Linked Syndromic Intellectual Development Disorder ( MRXSHG ). American Journal of Medical Genetics Part A, 2024, &#x27E8;10.1002/ajmg.a.63963&#x27E9;. &#x27E8;hal-04980410&#x27E9;",
+        "authors": "Mohammad‐reza Ghasemi; Sahand Tehrani Fateh; Afif Ben-Mahmoud; Vijay Gupta; Lara Stühn; Gaetan Lesca; Nicolas Chatron; Konrad Platzer; Patrick Edery; Hossein Sadeghi; Bertrand Isidor; Benjamin Cogné; Heidi Schulz; Ilona Krauspe-Stübecke; Radhakrishnan Periyasamy; Sheela Nampoothiri; Reza Mirfakhraie; Sahar Alijanpour; Steffen Syrbe; Ulrich Pfeifer; Stephanie Spranger; Kathrin Grundmann-Hauser; Tobias Haack; Maria Papadopoulou; Tayrine da Silva Gonçalves; Eleni Panagiotakaki; Alexis Arzimanoglou; Seyed Hassan Tonekaboni; Massimiliano Rossi; G. Christoph Korenke; Yves Lacassie; Mi‐hyeon Jang; Lawrence Layman; Mohammad Miryounesi; Hyung‐goo Kim",
+        "year": "2024",
+        "abstract": "ABSTRACT The Houge type of X‐linked syndromic intellectual developmental disorder (MRXSHG) encompasses a spectrum of neurodevelopmental disorders characterized by intellectual disability (ID), language/speech delay, attention issues, and epilepsy. These conditions arise from hemizygous or heterozygous deletions, along with point mutations, affecting CNKSR2 , a gene located at Xp22.12. CNKSR2, also known as CNK2 or MAGUIN, functions as a synaptic scaffolding molecule within the neuronal postsynaptic density (PSD) of the central nervous system. It acts as a link connecting postsynaptic structural proteins, such as PSD95 and S‐SCAM, by employing multiple functional domains crucial for synaptic signaling and protein–protein interactions. Predominantly expressed in dendrites, CNKSR2 is vital for dendritic spine morphogenesis in hippocampal neurons. Its loss‐of‐function variants result in reduced PSD size and impaired hippocampal development, affecting processes including neuronal proliferation, migration, and synaptogenesis. We present 15 patients including three from the MENA (Middle East and North Africa), a region with no documented mutations in CNKSR2 . Each individual displays unique clinical presentations that encompass developmental delay, ID, language/speech delay, epilepsy, and autism. Genetic analyses revealed 14 distinct variants in CNKSR2 , comprising five nonsense, three frameshift, two splice, and four missense variants, of which 13 are novel. The ACMG guidelines unanimously interpreted these 14 variants in 15 individuals as pathogenic, highlighting the detrimental impact of these CNKSR2 genetic alterations and confirming the molecular diagnosis of MRXSHG. Importantly, variants Ser767Phe and Ala827Pro may lead to proteasomal degradation or reduced PSD size, contributing to the neurodevelopmental phenotype. Furthermore, these two amino acids, along with another two affected by four missense variants, exhibit complete conservation in nine vertebrate species, illuminating their crucial role in the gene's functionality. Our study revealed unique new digital and brain phenotype, including pointed fingertips (fetal pads of fingertips), syndactyly, tapering fingers, and hippocampal atrophy. These novel clinical features in MRXSHG, combined with 13 novel variants, expand the phenotypic and genotypic spectra of MRXSHG associated with CNKSR2 mutations.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980410v1"
+      },
+      {
+        "hal_id": "4980572",
+        "citation": "Curtis Coughlin, Laura Tseng, Jose Abdenur, Catherine Ashmore, François Boemer, et al.. Consensus guidelines for the diagnosis and management of pyridoxine‐dependent epilepsy due to α‐aminoadipic semialdehyde dehydrogenase deficiency. Journal of Inherited Metabolic Disease, 2020, 44 (1), pp.178-192. &#x27E8;10.1002/jimd.12332&#x27E9;. &#x27E8;hal-04980572&#x27E9;",
+        "authors": "Curtis Coughlin; Laura Tseng; Jose Abdenur; Catherine Ashmore; François Boemer; Levinus Bok; Monica Boyer; Daniela Buhas; Peter Clayton; Anibh Das; Hanka Dekker; Athanasios Evangeliou; François Feillet; Emma Footitt; Sidney Gospe; Hans Hartmann; Majdi Kara; Erle Kristensen; Joy Lee; Rina Lilje; Nicola Longo; Roelineke Lunsing; Philippa Mills; Maria Papadopoulou; Phillip Pearl; Flavia Piazzon; Barbara Plecko; Arushi Saini; Saikat Santra; Damayanti Sjarif; Sylvia Stockler-Ipsiroglu; Pasquale Striano; Johan L.K. van Hove; Nanda Verhoeven-Duif; Frits Wijburg; Sameer Zuberi; Clara D.M. van Karnebeek",
+        "year": "2020",
+        "abstract": "Abstract Pyridoxine‐dependent epilepsy (PDE‐ALDH7A1) is an autosomal recessive condition due to a deficiency of α‐aminoadipic semialdehyde dehydrogenase, which is a key enzyme in lysine oxidation. PDE‐ALDH7A1 is a developmental and epileptic encephalopathy that was historically and empirically treated with pharmacologic doses of pyridoxine. Despite adequate seizure control, most patients with PDE‐ALDH7A1 were reported to have developmental delay and intellectual disability. To improve outcome, a lysine‐restricted diet and competitive inhibition of lysine transport through the use of pharmacologic doses of arginine have been recommended as an adjunct therapy. These lysine‐reduction therapies have resulted in improved biochemical parameters and cognitive development in many but not all patients. The goal of these consensus guidelines is to re‐evaluate and update the two previously published recommendations for diagnosis, treatment, and follow‐up of patients with PDE‐ALDH7A1. Members of the International PDE Consortium initiated evidence and consensus‐based process to review previous recommendations, new research findings, and relevant clinical aspects of PDE‐ALDH7A1. The guideline development group included pediatric neurologists, biochemical geneticists, clinical geneticists, laboratory scientists, and metabolic dieticians representing 29 institutions from 16 countries. Consensus guidelines for the diagnosis and management of patients with PDE‐ALDH7A1 are provided.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980572v1"
+      },
+      {
+        "hal_id": "4980062",
+        "citation": "Mary Moya-Mendez, Minu-Tshyeto Bidzimou, Padmapriya Muralidharan, Zhushan Zhang, Jordan Ezekian, et al.. ATP1A3 Variants, Variably Penetrant Short QT Intervals, and Lethal Ventricular Arrhythmias. Medicine Archives of Pediatrics & Adolescent - JAMA Pediatrics , 2025, &#x27E8;10.1001/jamapediatrics.2024.6832&#x27E9;. &#x27E8;hal-04980062&#x27E9;",
+        "authors": "Mary Moya-Mendez; Minu-Tshyeto Bidzimou; Padmapriya Muralidharan; Zhushan Zhang; Jordan Ezekian; Robin Perelli; Lauren Parker; Lyndsey Prange; April Boggs; Jeffrey Kim; Taylor Howard; Tarah Word; Xander Wehrens; Gabriela Reyes Valenzuela; Roberto Caraballo; Giacomo Garone; Federico Vigevano; Sarah Weckhuysen; Charissa Millevert; Monica Troncoso; Mario Matamala; Simona Balestrini; Sanjay Sisodiya; Josephine Poole; Claudio Zucca; Eleni Panagiotakaki; Maria Papadopoulou; Sébile Tchaicha; Marta Zawadzka; Maria Mazurkiewicz-Bełdzińska; Carmen Fons; Jennifer Anticona; Elisa de Grandis; Ramona Cordani; Livia Pisciotta; Sergiu Groppa; Sandra Paryjas; Francesca Ragona; Elena Mangia; Tiziana Granata; Andrey Megvinov; Mirjana Pavlicek; Kevin Ess; Christine Simmons; Alfred George; Rosaria Vavassori; Mohamad Mikati; Andrew Landstrom",
+        "year": "2025",
+        "abstract": "Importance Alternating hemiplegia of childhood (AHC) is a disorder that can result from pathogenic variants in ATP1A3 -encoded sodium-potassium adenosine triphosphatase alpha 3 (ATP1A3). While AHC is primarily a neurologic disease, some individuals experience sudden unexplained death (SUD) potentially associated with cardiac arrhythmias. Objective To determine the impact of ATP1A3 variants on cardiac electrophysiology and whether lethal ventricular arrhythmias are associated with SUD in patients with AHC. Design, Setting, and Participants In this international, multicenter case-control study from 12 centers across 10 countries, patients with AHC were grouped by ATP1A3 variant status (positive vs negative) and into subgroups with the most common AHC variants (D801N, E815K, G947R, and other). A healthy control cohort was established for comparison. Blinded, manual measurements of QT intervals and corrected QT interval (QTc) were performed independently by 2 pediatric cardiac electrophysiologists. Induced pluripotent stem cell cardiomyocytes were derived from patients with AHC who were positive for the D801N variant of ATP1A3 (iPSC-CM D801N cells). Data analysis was performed from April to June 2022. Exposure Presence of ATP1A3 variant. Main Outcomes and Measures The primary outcome was QTc. Outcomes, including survival, were abstracted and variants were mapped on cryogenic electron microscopy structure maps. iPSC-CM D801N cells were used to validate ventricular repolarization and arrhythmic susceptibility in vitro. Results Among the 222 individuals included (148 with AHC and 74 control), the mean (SD) age at diagnostic electrocardiography was 11.0 (9.4) years and 119 (54%) were female. The cohort with AHC consisted of 148 largely unrelated probands (mean [SD] age at diagnostic electrocardiography, 11.5 [10.5] years). Of these, 123 individuals were ATP1A3 genotype positive, including 35 (28%) with the D801N variant, 21 (17%) with the E815K variant, 8 (7%) with the G947R variant, and 8 (7%) with a loss-of-function variant. Probands with the D801N variant had shorter mean (SD) QTcs (381.8 [36.6] milliseconds; 24 [69%] with QTc &lt;370 milliseconds) compared with those who had the E815K variant (393.6 [43.1] milliseconds; P = .001; 4 [19%] with QTC &lt;370 milliseconds), the G947R variant (388.4 [26.5] milliseconds; P = .02; 1 [13%] with QTc &lt;370 milliseconds), a loss-of-function variant (403.0 [33.5] milliseconds; P &lt; .001; 1 [13%] with QTc &lt;370 milliseconds), all other variants (387.8 [37.1] milliseconds; P &lt; .001; 44 [86%] with QTc &lt;370 milliseconds), and healthy controls (415.4 [21.0] milliseconds; P &lt; .001; 0 with QTc &lt;370 milliseconds). Three D801N-positive individuals had a major cardiac event, compared with 0 major cardiac events in all other individuals ( P = .02). The D801N variant and 4 rare variants (D805N, P323S, S772R, and C333F) found in individuals with the shortest QTcs localized to the potassium-binding domain of ATP1A3. IPSC-CM D801N lines demonstrated shortened action potential duration, higher mean diastolic potential, and delayed afterdepolarizations compared with controls. Conclusions and Relevance Nearly 70% of individuals with D801N variants of ATP1A3 had short QTcs (&lt;370 milliseconds), with an association between ventricular arrhythmias and cardiac arrest. This may underlie the SUD etiology in AHC.",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.ee; 2.sdv.ee.sant",
+        "url": "https://hal.science/hal-04980062v1"
+      },
+      {
+        "hal_id": "2860036",
+        "citation": "Basil A.S. Davis, Manuel Chevalier, Philipp Sommer, Vachel Carter, Walter Finsinger, et al.. The Eurasian Modern Pollen Database (EMPD), Version 2. Earth System Science Data, 2020, 12 (4), pp.2423-2445. &#x27E8;10.5194/essd-2020-14&#x27E9;. &#x27E8;hal-02489661&#x27E9;",
+        "authors": "Basil A.S. Davis; Manuel Chevalier; Philipp Sommer; Vachel Carter; Walter Finsinger; Achille Mauri; Leanne N Phelps; Marco Zanon; Roman Abegglen; Christine M Åkesson; Francisca Alba-Sánchez; R Scott Anderson; Tatiana G Antipina; Juliana R Atanassova; Ruth Beer; Nina Belyanina; Tatiana A Blyakharchuk; Olga Borisova; Elissaveta Bozilova; Galina Bukreeva; M Jane Bunting; Eleonora Clò; Danièle Colombaroli; Nathalie Combourieu-Nebout; Stéphanie Desprat; Federico Di Rita; Morteza Djamali; Kevin Edwards; Patricia L Fall; Angelica Feurdean; William Fletcher; Assunta Florenzano; Giulia Furlanetto; Emna Gaceur; Arsenii T Galimov; Mariusz Gałka; Iria García-Moreiras; Thomas Giesecke; Roxana Grindean; Maria Guido; Irina G Gvozdeva; Ulrike Herzschuh; Kari Hjelle; Sergey Ivanov; Susanne Jahns; Vlasta Jankovska; Gonzalo Jiménez-Moreno; Monika Karpińska-Kołaczek; Ikuko Kitaba; Piotr Kołaczek; Elena G Lapteva; Małgorzata Latałowa; Vincent Lebreton; Suzanne Leroy; Michelle Leydet; Darya A Lopatina; José Antonio López-Sáez; André F Lotter; Donatella Magri; Elena Marinova; Isabelle Matthias; Anastasia Mavridou; Anna Maria Mercuri; Jose Manuel Fernández; Yuri A Mikishin; Krystyna Milecka; Carlo Montanari; César Morales-Molino; Almut Mrotzek; Castor Muñoz Sobrino; Olga D Naidina; Takeshi Nakagawa; Anne Birgitte Nielsen; Elena y Novenko; Sampson Panajiotidis; Nata K Panova; Maria Papadopoulou; Heather S Pardoe; Anna Pędziszewska; Tatiana I Petrenko; María J Ramos-Román; Cesare Ravazzi; Manfred Rösch; Natalia Ryabogina; Silvia Sabariego Ruiz; J. Salonen; Tatyana Sapelko; James E Schofield; Heikki Seppä; Lyudmila Shumilovskikh; Normunds Stivrins; Philipp Stojakowits; Helena Svobodova Svitavska; Joanna Święta-Musznicka; Ioan Tantau; Willy Tinner; Kazimierz Tobolski; Spassimir Tonkov; Margarita Tsakiridou; Verushka Valsecchi; Oksana G Zanina; Marcelina Zimny",
+        "year": "2020",
+        "abstract": "Non disponible",
+        "keywords": "",
+        "domain": "0.sdv; 1.sdv.sa; 2.sdv.sa.sf; 0.sdv; 1.sdv.bv; 2.sdv.bv.bot; 0.sdv; 1.sdv.bibs; 0.sdu; 1.sdu.envi; 0.sde; 1.sde.mcg; 0.sde; 1.sde.es; 0.sde; 1.sde.be",
+        "url": "https://hal.science/hal-02489661v1"
+      }
+    ],
+    "publication_count": 46,
+    "all_authors": [
+      "Quentin Welniarz; Domitille Gras; Agathe Roubertie; Maria Papadopoulou; Eleni Panagiotakaki; Emmanuel Roze",
+      "Maria Papadopoulou; Despoina Tramma; Konstantinos Thomaidis; Kyriaki Papadopoulou-Legbelou",
+      "George Papakostas; George Sidiropoulos; Cristina Papadopoulou; Eleni Vrochidou; Vassilis Kaburlasos; Maria Papadopoulou; Vasiliki Holeva; Vasiliki-Aliki Nikopoulou; Nikolaos Dalivigkas",
+      "Curtis Coughlin; Laura Tseng; Jose Abdenur; Catherine Ashmore; François Boemer; Levinus Bok; Monica Boyer; Daniela Buhas; Peter Clayton; Anibh Das; Hanka Dekker; Athanasios Evangeliou; François Feillet; Emma Footitt; Sidney Gospe; Hans Hartmann; Majdi Kara; Erle Kristensen; Joy Lee; Rina Lilje; Nicola Longo; Roelineke Lunsing; Philippa Mills; Maria Papadopoulou; Phillip Pearl; Flavia Piazzon; Barbara Plecko; Arushi Saini; Saikat Santra; Damayanti Sjarif; Sylvia Stockler-Ipsiroglu; Pasquale Striano; Johan L.K. van Hove; Nanda Verhoeven-Duif; Frits Wijburg; Sameer Zuberi; Clara D.M. van Karnebeek",
+      "Athanasios Evangeliou; Efterpi Dalpa; Maria Papadopoulou; Astrinia Skarpalezou; Irene Katsanika; Olga Grafakou; Dimitrios Tsiptsios; Martha Spilioti",
+      "Despoina Aspragkathou; Martha Spilioti; Anastasia Gkampeta; Efterpi Dalpa; Vasiliki Holeva; Maria Papadopoulou; Aspasia Serdari; Vaios Dafoulis; Dimitrios Zafeiriou; Athanasios Evangeliou",
+      "Maria Sentmanat; Maria Papadopoulou; Lyndsey Prange; Carmen Fons; Elisa de Grandis; Aikaterini Vezyroglou; April Boggs; Samantha Su; Marion Comajuan; Jeffrey Wuchich; Sigurður Jóhannesson; Jennifer Anticona Huaynate; Michela Stagnaro; Andrey Megvinov; Shital Patel; Alexis Arzimanoglou; Rosaria Vavassori; Eleni Panagiotakaki; Mohamad Mikati",
+      "Maria Papadopoulou; Lorenzo Muccioli; Francesca Bisulli; Kerstin Alexandra Klotz; Carmen Fons; Marina Trivisano; Teia Kabulashvili; Nicola Specchio; Gaetan Lesca; Alexis Arzimanoglou",
+      "Patricia Franco; Benjamin Putois; Aurore Guyon; Aude Raoux; Maria Papadopoulou; Anne Guignard-Perret; Flora Bat-Pitault; Sarah Hartley; Sabine Plancoulaine",
+      "Basil A.S. Davis; Manuel Chevalier; Philipp Sommer; Vachel Carter; Walter Finsinger; Achille Mauri; Leanne N Phelps; Marco Zanon; Roman Abegglen; Christine M Åkesson; Francisca Alba-Sánchez; R Scott Anderson; Tatiana G Antipina; Juliana R Atanassova; Ruth Beer; Nina Belyanina; Tatiana A Blyakharchuk; Olga Borisova; Elissaveta Bozilova; Galina Bukreeva; M Jane Bunting; Eleonora Clò; Danièle Colombaroli; Nathalie Combourieu-Nebout; Stéphanie Desprat; Federico Di Rita; Morteza Djamali; Kevin Edwards; Patricia L Fall; Angelica Feurdean; William Fletcher; Assunta Florenzano; Giulia Furlanetto; Emna Gaceur; Arsenii T Galimov; Mariusz Gałka; Iria García-Moreiras; Thomas Giesecke; Roxana Grindean; Maria Guido; Irina G Gvozdeva; Ulrike Herzschuh; Kari Hjelle; Sergey Ivanov; Susanne Jahns; Vlasta Jankovska; Gonzalo Jiménez-Moreno; Monika Karpińska-Kołaczek; Ikuko Kitaba; Piotr Kołaczek; Elena G Lapteva; Małgorzata Latałowa; Vincent Lebreton; Suzanne Leroy; Michelle Leydet; Darya A Lopatina; José Antonio López-Sáez; André F Lotter; Donatella Magri; Elena Marinova; Isabelle Matthias; Anastasia Mavridou; Anna Maria Mercuri; Jose Manuel Fernández; Yuri A Mikishin; Krystyna Milecka; Carlo Montanari; César Morales-Molino; Almut Mrotzek; Castor Muñoz Sobrino; Olga D Naidina; Takeshi Nakagawa; Anne Birgitte Nielsen; Elena y Novenko; Sampson Panajiotidis; Nata K Panova; Maria Papadopoulou; Heather S Pardoe; Anna Pędziszewska; Tatiana I Petrenko; María J Ramos-Román; Cesare Ravazzi; Manfred Rösch; Natalia Ryabogina; Silvia Sabariego Ruiz; J. Salonen; Tatyana Sapelko; James E Schofield; Heikki Seppä; Lyudmila Shumilovskikh; Normunds Stivrins; Philipp Stojakowits; Helena Svobodova Svitavska; Joanna Święta-Musznicka; Ioan Tantau; Willy Tinner; Kazimierz Tobolski; Spassimir Tonkov; Margarita Tsakiridou; Verushka Valsecchi; Oksana G Zanina; Marcelina Zimny",
+      "Zhenling Zhang; Christophe Roche; Yangli Jia; Xuecheng Zhang; Julien Roche; Maria Papadopoulou",
+      "Nathalie Yared; Maria Papadopoulou; Pierre Barennes; Hang-Phuong Pham; Valentin Quiniou; Sonia Netzer; Hannah Kaminski; Laure Burguet; Amandine Demeste; Pacôme Colas; Lea Mora-Charrot; Benoit Rousseau; Julien Izotte; Atika Zouine; Xavier Gauthereau; David Vermijlen; Julie Déchanet-Merville; Myriam Capone",
+      "Shital Patel; Eleni Panagiotakaki; Maria Papadopoulou; Carmen Fons; Elisa de Grandis; Aikaterini Vezyroglou; Simona Balestrini; Hwanhee Hong; Beiyu Liu; Lyndsey Prange; Alexis Arzimanoglou; Rosaria Vavassori; Mohamad Mikati",
+      "Vasiliki Aliki Nikopoulou; Vasiliki Holeva; Maria Dialechti Kerasidou; Petros Kechayas; Maria Papadopoulou; Eleni Vrochidou; George Papakostas; Vassilis Kaburlasos",
+      "Coral Stredny; Claude Steriade; Maria Papadopoulou; Suresh Pujar; Marios Kaliakatsos; Stuart Tomko; Ronny Wickström; Christopher Cortina; Bo Zhang; Christian Bien",
+      "Maria Papadopoulou; Quentin Welniarz; Agathe Roubertie; Domitille Gras; Mathieu Milh; Eleni Panagiotakaki; Emmanuel Roze",
+      "Maria Papadopoulou; Paraskevi Panagopoulou; Efstathia Paramera; Alexandros Pechlivanis; Christina Virgiliou; Eugenia Papakonstantinou; Maria Palabougiouki; Maria Ioannidou; Eleni Vasileiou; Athanasios Tragiannidis; Evangelos Papakonstantinou; Georgios Theodoridis; Emmanuel Hatzipantelis; Athanasios Evangeliou",
+      "Michelangelo Mancuso; Maria Papadopoulou; Yi Shiau Ng; Anna Ardissone; Marcello Bellusci; Enrico Bertini; Lidia Di Vito; Teresinha Evangelista; Carmen Fons; Omar Hikmat; Rita Horvath; Thomas Klopstock; Cornelia Kornblum; Costanza Lamperti; Laura Licchetta; Maria Judit Molnar; Kristin Varhaug; Mar O'Callaghan; Ronit Pressler; Manuel Schiff; Serenella Servidei; Nora Szabo; Gráinne Gorman; J Helen Cross; Shamima Rahman",
+      "Christophe Roche; Maria Papadopoulou",
+      "Maria Papadopoulou; E. Panagiotakaki; C. Rivier; J. de Bellescize; E. Dindault; L. Pons; G. Lesca; M. Till; A. Arzimanoglou",
+      "Sylvie Despres; Christophe Roche; Maria Papadopoulou",
+      "Maria Papadopoulou; Christophe Roche",
+      "Mohammad‐reza Ghasemi; Sahand Tehrani Fateh; Afif Ben-Mahmoud; Vijay Gupta; Lara Stühn; Gaetan Lesca; Nicolas Chatron; Konrad Platzer; Patrick Edery; Hossein Sadeghi; Bertrand Isidor; Benjamin Cogné; Heidi Schulz; Ilona Krauspe-Stübecke; Radhakrishnan Periyasamy; Sheela Nampoothiri; Reza Mirfakhraie; Sahar Alijanpour; Steffen Syrbe; Ulrich Pfeifer; Stephanie Spranger; Kathrin Grundmann-Hauser; Tobias Haack; Maria Papadopoulou; Tayrine da Silva Gonçalves; Eleni Panagiotakaki; Alexis Arzimanoglou; Seyed Hassan Tonekaboni; Massimiliano Rossi; G. Christoph Korenke; Yves Lacassie; Mi‐hyeon Jang; Lawrence Layman; Mohammad Miryounesi; Hyung‐goo Kim",
+      "Stella Bouziana; Konstantinos Tziomalos; Antonis Goulas; Timoleon-Achilleas Vyzantiadis; Maria Papadopoulou; Athanasia Panderi; Apostolos Ι. Ηatzitolios",
+      "Ann Mertens; Maria Papadopoulou; Matthildi Athina Papathanasiou Terzi; Gaëtan Lesca; Mateusz Biela; Robert Smigiel; Eleni Panagiotakaki",
+      "Chris Lytridis; Vassilis Kaburlasos; Christos Bazinas; George Papakostas; George Sidiropoulos; Vasiliki-Aliki Nikopoulou; Vasiliki Holeva; Maria Papadopoulou; Athanasios Evangeliou",
+      "Vasiliki Holeva; Vasiliki-Aliki Nikopoulou; Maria Papadopoulou; Eleni Vrochidou; George Papakostas; Vassilis Kaburlasos",
+      "Jack Longman; Daniel Veres; Vasile Ersek; Călin Gabriel Tămaş; Aritina Haliuc; Eniko Magyari; Florin Gogaltan; Sampson Panajiotidis; Maria Papadopoulou",
+      "George Papakostas; George Sidiropoulos; Chris Lytridis; Christos Bazinas; Vassilis Kaburlasos; Efi Kourampa; Elpida Karageorgiou; Petros Kechayas; Maria Papadopoulou",
+      "Eleni Panagiotakaki; Maria Papadopoulou; Gaetan Lesca; Alexis Arzimanoglou; Mohamad Mikati",
+      "Mary Moya-Mendez; Minu-Tshyeto Bidzimou; Padmapriya Muralidharan; Zhushan Zhang; Jordan Ezekian; Robin Perelli; Lauren Parker; Lyndsey Prange; April Boggs; Jeffrey Kim; Taylor Howard; Tarah Word; Xander Wehrens; Gabriela Reyes Valenzuela; Roberto Caraballo; Giacomo Garone; Federico Vigevano; Sarah Weckhuysen; Charissa Millevert; Monica Troncoso; Mario Matamala; Simona Balestrini; Sanjay Sisodiya; Josephine Poole; Claudio Zucca; Eleni Panagiotakaki; Maria Papadopoulou; Sébile Tchaicha; Marta Zawadzka; Maria Mazurkiewicz-Bełdzińska; Carmen Fons; Jennifer Anticona; Elisa de Grandis; Ramona Cordani; Livia Pisciotta; Sergiu Groppa; Sandra Paryjas; Francesca Ragona; Elena Mangia; Tiziana Granata; Andrey Megvinov; Mirjana Pavlicek; Kevin Ess; Christine Simmons; Alfred George; Rosaria Vavassori; Mohamad Mikati; Andrew Landstrom",
+      "Tong Wei; Christophe Roche; Maria Papadopoulou; Yangli Jia",
+      "Shital Patel; Kayli Maney; Lauren Morris; Maria Papadopoulou; Lyndsey Prange; April Boggs; Arsen Hunanyan; Andrey Megvinov; Rosaria Vavassori; Eleni Panagiotakaki; Mohamad Mikati",
+      "Julie Uchitel; Keri Wallace; Linh Tran; Tavis Abrahamsen; Arsen Hunanyan; Lyndsey Prange; Joan Jasien; Laura Caligiuri; Milton Pratt; Blaire Rikard; Carmen Fons; Elisa de Grandis; Aikaterini Vezyroglou; Erin Heinzen; David Goldstein; Rosaria Vavassori; Maria Papadopoulou; Isabella Cocco; Rebecca Moré; Alexis Arzimanoglou; Eleni Panagiotakaki; Mohamad Mikati",
+      "Maria Papadopoulou; Elpida Karageorgiou; Petros Kechayas; Nikoleta Geronikola; Chris Lytridis; Christos Bazinas; Efi Kourampa; Eleftheria Avramidou; Vassilis Kaburlasos; Athanasios Evangeliou",
+      "Michelangelo Mancuso; Piervito Lopriore; Costanza Lamperti; Thomas Klopstock; Shamima Rahman; Laura Licchetta; Cornelia Kornblum; Saskia Wortmann; Hélène Dollfus; Maria Papadopoulou; Alexis Arzimanoglou; Maurizio Scarpa; Holm Graessner; Teresinha Evangelista",
+      "Maria Papadopoulou; Efterpi Dalpa; Michalis Portokalas; Irene Katsanika; Katerina Tirothoulaki; Martha Spilioti; Spyros Gerou; Barbara Plecko; Athanasios Evangeliou"
+    ],
+    "years": [
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "keywords": [
+      "",
+      "Lexicografía histórica",
+      "Historical lexicography",
+      "Héritage Culturel",
+      "Knowledge rep-resentation and modelling",
+      "Digitla humanities",
+      "Normes ISO",
+      "Children",
+      "Méthodologie",
+      "Ontology building",
+      "Construcción de ontología",
+      "Représentation des connaissances",
+      "Ontologie",
+      "Cultural heritage",
+      "Ancient Greek dress",
+      "Ancient Greek cultural heritage",
+      "Chinese Ceramic Vases",
+      "Maturation",
+      "Lexicographie historique",
+      "Ontologie des vêtements de la Grèce antique",
+      "Études anciennes et études classiques",
+      "Ontology",
+      "Ontoterminologie",
+      "Semantic web",
+      "Sex-specific",
+      "Tedi",
+      "Humanités Numériques",
+      "Thesaurus",
+      "Linked cultural heritage",
+      "Ancient Greek Vases",
+      "Tedi ontoTerminology editor software",
+      "Digital humanities",
+      "Dictionnaires électroniques",
+      "Éditeur d’ontologies et de terminologies",
+      "Vase de la Grèce antique",
+      "Ontology Building",
+      "Gender",
+      "Standards W3C",
+      "Ontoterminology",
+      "Semantic Web",
+      "Digital Humanities",
+      "ISO Standards on Termi-nology",
+      "Humanités numériques",
+      "Ancient Greece",
+      "Grèce antique",
+      "Ontoterminologia",
+      "Cultural Heritage",
+      "TEDI",
+      "Adolescents",
+      "Terminologie",
+      "Infant",
+      "Ancient studies and classical studies",
+      "Clothing",
+      "Ontology editor",
+      "Humanidades digitales",
+      "Ontología",
+      "Thésaurus",
+      "Terminología",
+      "Terminology",
+      "Sleep",
+      "Vêtement"
+    ],
+    "domains": [
+      "1.sde.es",
+      "1.shs.archeo",
+      "1.sdv.sa",
+      "0.shs",
+      "1.info.info-ai",
+      "1.info.info-wb",
+      "1.info.info-gl",
+      "1.info.info-cl",
+      "2.sdv.mhep.ped",
+      "0.scco",
+      "2.sdv.bv.bot",
+      "1.shs.museo",
+      "0.sde",
+      "1.scco.ling",
+      "2.sdv.mhep.phy",
+      "1.shs.class",
+      "1.sdv.ee",
+      "1.sdu.envi",
+      "1.sdv.mhep",
+      "1.sde.be",
+      "1.sdv.bibs",
+      "1.sdv.imm",
+      "1.sde.mcg",
+      "0.info",
+      "2.sdv.sa.sf",
+      "0.sdv",
+      "1.shs.art",
+      "0.sdu",
+      "1.scco.neur",
+      "1.info.info-dl",
+      "2.sdv.ee.sant",
+      "1.sdv.bv"
+    ],
+    "last_updated": "2025-11-07T10:39:17.130468"
+  },
+  "last_hal_update": "2025-11-07T10:39:17.130823"
+}]
